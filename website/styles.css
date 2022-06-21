@@ -1,0 +1,59 @@
+.container, .row, .col, .card, .list-group, #map-view {
+    height: 100% !important;
+}
+
+.col {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 96% !important;
+}
+
+.card-header {
+    height: 5%;
+}
+
+.list-group {
+    max-height: 95%;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.percentage {
+    float: right;
+}
+
+/* MAP */
+svg {
+    /* SVG Frame */
+    outline: thin solid lightgray;
+    outline-offset: 0px;
+    border-radius: 2pt;
+}
+
+.region.out-of-focus {
+    fill-opacity: .4;
+    stroke: black;
+    stroke-width: 0.3;
+}
+
+.region.hovered, .region.selected {
+    fill-opacity: .7;
+    stroke: black;
+    stroke-width: 2;
+}
+
+.region {
+    fill-opacity: .7;
+    stroke: black;
+    stroke-width: 0.5;
+}
+
+.municipality {
+    fill-opacity: 1.0;
+    stroke: black;
+    stroke-width: 0.2;
+}
+
+.municipality.selected {
+    fill: red;
+}
