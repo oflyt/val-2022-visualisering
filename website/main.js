@@ -164,6 +164,10 @@ class Plot {
                 .attr("fill", "#FFF380")
                 .attr("d", path);
 
+            regionPaths
+                .append("title")
+                .text(d => d.properties.LnNamn + " län");
+
             return [path, regionPaths];
         });
         
@@ -173,7 +177,7 @@ class Plot {
         const regionName = d3.select(".region.selected").data()[0].properties.LnNamn;
         return d3.json("./geodata/" + regionName + ".geojson").then(function (districs) {
             // Plot municipalities
-            return d3.select("g")
+            const municipalityPaths = d3.select("g")
                 .selectAll(null)
                 .data(districs.features)
                 .enter()
@@ -181,6 +185,12 @@ class Plot {
                 .attr("class", "municipality")
                 .attr("fill", "#FFF380")
                 .attr("d", path);
+
+            municipalityPaths
+                .append("title")
+                .text(d => d.properties.KnNamn);
+
+            return municipalityPaths;
         });
     }
 }
