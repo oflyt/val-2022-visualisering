@@ -65,10 +65,16 @@ svg {
     stroke-width: 0.5;
 }
 
+.municipality.out-of-focus {
+    fill-opacity: .8;
+    stroke: black;
+    stroke-width: 0.1;
+}
+
 .municipality {
     fill-opacity: 1.0;
     stroke: black;
-    stroke-width: 0.2;
+    stroke-width: 0.3;
 }
 
 .municipality.selected {

@@ -7,6 +7,16 @@ function parseFloatSafe(value) {
 }
 
 class EventHandlerFunctions {
+    static municipalityMouseover(d) {
+        d3.selectAll(".municipality").classed("out-of-focus", true);
+        d3.select(this).classed("out-of-focus", false);
+        d3.select(".municipality.selected").classed("out-of-focus", false);
+    }
+
+    static municipalityMouseout(d) {
+        d3.selectAll(".municipality").classed("out-of-focus", false);
+    }
+
     static regionMouseover(d) {
         if (d3.selectAll(".region.selected").empty()) {
             // If no region is selected
@@ -35,7 +45,10 @@ class EventHandlerFunctions {
             d3.select(element).attr("class", "region selected");
             Zoom.in(path);
             Plot.municipalityInRegion(path).then(function(municipalityPaths) {
-                municipalityPaths.on("click", function(d) {EventHandlerFunctions.municipalityClicked(this, d);})
+                municipalityPaths
+                    .on("mouseover", EventHandlerFunctions.municipalityMouseover)                  
+                    .on("mouseout", EventHandlerFunctions.municipalityMouseout)
+                    .on("click", function(d) {EventHandlerFunctions.municipalityClicked(this, d);})
             });
             ChangeListSelection.region();
             d.stopPropagation();
