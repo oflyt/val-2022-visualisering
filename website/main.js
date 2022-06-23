@@ -118,8 +118,8 @@ class ChangeListSelection {
     }
 
     static listParties(listOfParties) {
-        d3.select("#list-view").selectAll("a").remove();
-        const partiesDatums = d3.select("#list-view")
+        d3.select("#list-content").selectAll("a").remove();
+        const partiesDatums = d3.select("#list-content")
             .selectAll("a")
             .data(listOfParties)
             .enter()

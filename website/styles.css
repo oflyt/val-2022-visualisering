@@ -1,25 +1,42 @@
-.container, .row, .col, .card, .list-group, #map-view {
+.container, .row, .card {
     height: 100% !important;
 }
 
-.col {
-    margin-top: 2%;
-    margin-bottom: 2%;
-    height: 96% !important;
-}
-
 .card-header {
-    height: 5%;
+    height: 40px;
 }
 
 .list-group {
-    max-height: 95%;
+    max-height: calc(100% - 40px);
     overflow: scroll;
     -webkit-overflow-scrolling: touch;
 }
 
 .percentage {
     float: right;
+}
+
+#map-view > * {
+    max-height: 100%; 
+    overflow: scroll;
+}
+
+@media(min-width: 992px) {
+    #map-view, #list-view {
+        height: 100%;
+        padding: 0px;
+    }
+}
+
+@media(max-width: 992px) {
+    #map-view {
+        height: 70%;
+        padding: 0px;
+    }
+    #list-view {
+        height: 30%;
+        padding: 0px;
+    }
 }
 
 /* MAP */
