@@ -123,7 +123,7 @@ class ChangeListSelection {
         if (municipalityName == "Malung") {
             municipalityName = "Malung-Sälen";
         }
-        d3.select("#area-name").text(municipalityName + " kommun (Kommunvalet)");
+        d3.select("#area-name").text(municipalityName + " kommun (Kommunalvalet)");
 
         const fileName = "./parties/party-result-municipality-" + municipalityName + ".csv";
         d3.dsv(";", fileName).then(function(listOfParties) {
