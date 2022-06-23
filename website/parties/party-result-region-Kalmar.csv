@@ -1,81 +1,81 @@
-VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018
-RF;8;Kalmar;Alternativ för Sverige;AfS;1325;
-RF;8;Kalmar;ANDOPARTIET; ;1602;
-RF;8;Kalmar;Arbetarepartiet-Socialdemokraterna;S;2;34.572875675472126
-RF;8;Kalmar;Basinkomstpartiet; ;1525;
-RF;8;Kalmar;Centerpartiet;C;4;11.806719260918957
-RF;8;Kalmar;Common sense in Sweden;CSIS;1318;
-RF;8;Kalmar;Direktdemokraterna;DD;1150;
-RF;8;Kalmar;En Vis Avskaffar Asylrätten!;EVA;1482;
-RF;8;Kalmar;Enad Politik; ;1589;
-RF;8;Kalmar;Enade Sverige; ;1448;
-RF;8;Kalmar;Enhet;ENH;189;0.0
-RF;8;Kalmar;EUSEC; ;1534;
-RF;8;Kalmar;Feministiskt initiativ;FI;532;0.226569511651698
-RF;8;Kalmar;FOLKOMROSTA2021.SE; ;1489;
-RF;8;Kalmar;Framtid Kalmar län; ;1470;
-RF;8;Kalmar;FramtidsTro;FT;1449;
-RF;8;Kalmar;Fredspartiet; ;1484;
-RF;8;Kalmar;Fria Wermland; ;1548;
-RF;8;Kalmar;Frihetsrörelsen; ;1573;
-RF;8;Kalmar;Fritt val; ;1479;
-RF;8;Kalmar;Förenade Demokratiska Partiet; ;1577;
-RF;8;Kalmar;Företaget Sverige; ;1510;
-RF;8;Kalmar;GRÖNA DEMOKRATER; ;1601;
-RF;8;Kalmar;Gula västarna; ;1436;
-RF;8;Kalmar;Humanistisk demokrati (HD);HD;1480;
-RF;8;Kalmar;John Mikkonen; ;1598;
-RF;8;Kalmar;Kalle ankapartiet; ;1579;
-RF;8;Kalmar;Kapitalism med vänligt ansikte; ;1495;
-RF;8;Kalmar;Klassiskt liberala partiet;KLP;638;
-RF;8;Kalmar;Knapptryckarna; ;1505;
-RF;8;Kalmar;Kristdemokraterna;KD;68;10.338724558001168
-RF;8;Kalmar;Kristna Värdepartiet; ;1551;
-RF;8;Kalmar;KUSTLANDSPARTIET; ;1588;
-RF;8;Kalmar;Kärlek; ;1465;
-RF;8;Kalmar;Landsbygdspartiet Oberoende;LPo;1011;0.23096282628206335
-RF;8;Kalmar;Liberalerna (tidigare Folkpartiet);L;3;4.866537377693259
-RF;8;Kalmar;Majspartiet; ;1471;
-RF;8;Kalmar;Medborgarresan; ;1330;
-RF;8;Kalmar;Medborgerlig Samling;MED;1296;0.0
-RF;8;Kalmar;Miljöpartiet de gröna;MP;55;2.585779468157883
-RF;8;Kalmar;Min röst; ;1437;
-RF;8;Kalmar;MITT SVERIGE; ;1591;
-RF;8;Kalmar;Moderaterna;M;1;14.600867365831311
-RF;8;Kalmar;Monisterna; ;1502;
-RF;8;Kalmar;Mälaröarnas parti; ;1440;
-RF;8;Kalmar;Nationalsocialistiska reformistiska Partiet; ;1595;
-RF;8;Kalmar;NaturFilosoferna; ;1460;
-RF;8;Kalmar;Nix to the Six; ;1519;
-RF;8;Kalmar;NY REFORM; ;1528;
-RF;8;Kalmar;Nya Frihetspartiet; ;1443;
-RF;8;Kalmar;Nya Samhällspartiet; ;1438;
-RF;8;Kalmar;OK; ;1478;
-RF;8;Kalmar;Ond Kyckling Partiet; ;1472;
-RF;8;Kalmar;Partiet Folkomröstning; ;1578;
-RF;8;Kalmar;Partiet Nyans; ;1439;
-RF;8;Kalmar;Partiet Vändpunkt;PV;1430;
-RF;8;Kalmar;Pax; ;1491;
-RF;8;Kalmar;Piratpartiet;PP;524;0.0
-RF;8;Kalmar;Positivt Samhällsinitiativ (PSI); ;1475;
-RF;8;Kalmar;Rastliberalerna; ;1508;
-RF;8;Kalmar;Rikspolitiska partiet; ;1496;
-RF;8;Kalmar;SKP; ;1586;
-RF;8;Kalmar;SKÅNEPARTIET;SKÅ;54;0.0
-RF;8;Kalmar;Socialisterna-Välfärdspartiet;S-V;977;
-RF;8;Kalmar;Sociallibertarianerna; ;1507;
-RF;8;Kalmar;Stora Norrlands oberoende Frihetsparti; ;1559;
-RF;8;Kalmar;Stram Kurs Sverige; ;1592;
-RF;8;Kalmar;Svenska Rikslagen; ;1513;
-RF;8;Kalmar;SVENSKARNA; ;1444;
-RF;8;Kalmar;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;
-RF;8;Kalmar;Sverigedemokraterna;SD;110;14.159025437291708
-RF;8;Kalmar;Sverigepartiet; ;1457;
-RF;8;Kalmar;Swexitpartiet; ;1461;
-RF;8;Kalmar;Säkerhetspartiet; ;1466;
-RF;8;Kalmar;TRYGGHETSPARTIET;TRP;1309;0.0
-RF;8;Kalmar;Valsamverkanspartiet; ;1526;
-RF;8;Kalmar;Vinningspartiet; ;1468;
-RF;8;Kalmar;Vänsterpartiet;V;5;6.331393998732215
-RF;8;Kalmar;Yggdrasil; ;1454;
-RF;8;Kalmar;Ändrings partiet revolution; ;1404;
+VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
+RF;8;Kalmar;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+RF;8;Kalmar;ANDOPARTIET; ;1602;;
+RF;8;Kalmar;Arbetarepartiet-Socialdemokraterna;S;2;34.572875675472126;https://www.socialdemokraterna.se/
+RF;8;Kalmar;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+RF;8;Kalmar;Centerpartiet;C;4;11.806719260918957;https://www.centerpartiet.se/
+RF;8;Kalmar;Common sense in Sweden;CSIS;1318;;https://common-sene-in-sweden.webnode.se/
+RF;8;Kalmar;Direktdemokraterna;DD;1150;;https://direktdemokraterna.se/en/
+RF;8;Kalmar;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
+RF;8;Kalmar;Enad Politik; ;1589;;
+RF;8;Kalmar;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
+RF;8;Kalmar;Enhet;ENH;189;0.0;https://www.enhet.se/
+RF;8;Kalmar;EUSEC; ;1534;;
+RF;8;Kalmar;Feministiskt initiativ;FI;532;0.226569511651698;https://feministisktinitiativ.se/
+RF;8;Kalmar;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
+RF;8;Kalmar;Framtid Kalmar län; ;1470;;
+RF;8;Kalmar;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
+RF;8;Kalmar;Fredspartiet; ;1484;;
+RF;8;Kalmar;Fria Wermland; ;1548;;https://friawermland.se/
+RF;8;Kalmar;Frihetsrörelsen; ;1573;;https://www.frihetsrorelsen.se/
+RF;8;Kalmar;Fritt val; ;1479;;
+RF;8;Kalmar;Förenade Demokratiska Partiet; ;1577;;https://www.fdppartiet.se/
+RF;8;Kalmar;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
+RF;8;Kalmar;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
+RF;8;Kalmar;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
+RF;8;Kalmar;Humanistisk demokrati (HD);HD;1480;;
+RF;8;Kalmar;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
+RF;8;Kalmar;Kalle ankapartiet; ;1579;;
+RF;8;Kalmar;Kapitalism med vänligt ansikte; ;1495;;
+RF;8;Kalmar;Klassiskt liberala partiet;KLP;638;;https://www.liberalapartiet.se/
+RF;8;Kalmar;Knapptryckarna; ;1505;;https://knapptryckarna.se/
+RF;8;Kalmar;Kristdemokraterna;KD;68;10.338724558001168;https://kristdemokraterna.se/
+RF;8;Kalmar;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+RF;8;Kalmar;KUSTLANDSPARTIET; ;1588;;
+RF;8;Kalmar;Kärlek; ;1465;;
+RF;8;Kalmar;Landsbygdspartiet Oberoende;LPo;1011;0.23096282628206335;https://landsbygdspartiet.org/
+RF;8;Kalmar;Liberalerna (tidigare Folkpartiet);L;3;4.866537377693259;https://www.liberalerna.se/
+RF;8;Kalmar;Majspartiet; ;1471;;
+RF;8;Kalmar;Medborgarresan; ;1330;;https://citizenwell.se/
+RF;8;Kalmar;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.se/
+RF;8;Kalmar;Miljöpartiet de gröna;MP;55;2.585779468157883;https://www.mp.se/
+RF;8;Kalmar;Min röst; ;1437;;
+RF;8;Kalmar;MITT SVERIGE; ;1591;;
+RF;8;Kalmar;Moderaterna;M;1;14.600867365831311;https://moderaterna.se/
+RF;8;Kalmar;Monisterna; ;1502;;
+RF;8;Kalmar;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
+RF;8;Kalmar;Nationalsocialistiska reformistiska Partiet; ;1595;;
+RF;8;Kalmar;NaturFilosoferna; ;1460;;
+RF;8;Kalmar;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
+RF;8;Kalmar;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+RF;8;Kalmar;Nya Frihetspartiet; ;1443;;
+RF;8;Kalmar;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
+RF;8;Kalmar;OK; ;1478;;
+RF;8;Kalmar;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
+RF;8;Kalmar;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
+RF;8;Kalmar;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+RF;8;Kalmar;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
+RF;8;Kalmar;Pax; ;1491;;https://www.paxpartiet.se/
+RF;8;Kalmar;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+RF;8;Kalmar;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
+RF;8;Kalmar;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+RF;8;Kalmar;Rikspolitiska partiet; ;1496;;
+RF;8;Kalmar;SKP; ;1586;;https://skp.se
+RF;8;Kalmar;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
+RF;8;Kalmar;Socialisterna-Välfärdspartiet;S-V;977;;https://www.valfardspartiet.org/
+RF;8;Kalmar;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
+RF;8;Kalmar;Stora Norrlands oberoende Frihetsparti; ;1559;;
+RF;8;Kalmar;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+RF;8;Kalmar;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
+RF;8;Kalmar;SVENSKARNA; ;1444;;https://svenskarna.org/
+RF;8;Kalmar;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
+RF;8;Kalmar;Sverigedemokraterna;SD;110;14.159025437291708;https://sd.se/
+RF;8;Kalmar;Sverigepartiet; ;1457;;https://sverigepartiet.se/
+RF;8;Kalmar;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
+RF;8;Kalmar;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
+RF;8;Kalmar;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+RF;8;Kalmar;Valsamverkanspartiet; ;1526;;
+RF;8;Kalmar;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+RF;8;Kalmar;Vänsterpartiet;V;5;6.331393998732215;https://www.vansterpartiet.se/
+RF;8;Kalmar;Yggdrasil; ;1454;;
+RF;8;Kalmar;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

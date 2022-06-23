@@ -1,79 +1,79 @@
-VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018
-KF;560;Boxholm;Alternativ för Sverige;AfS;1325;
-KF;560;Boxholm;ANDOPARTIET; ;1602;
-KF;560;Boxholm;Arbetarepartiet-Socialdemokraterna;S;2;43.722943722943725
-KF;560;Boxholm;Basinkomstpartiet; ;1525;
-KF;560;Boxholm;Centerpartiet;C;4;14.989177489177488
-KF;560;Boxholm;Common sense in Sweden;CSIS;1318;0.0
-KF;560;Boxholm;Direktdemokraterna;DD;1150;0.0
-KF;560;Boxholm;En Vis Avskaffar Asylrätten!;EVA;1482;
-KF;560;Boxholm;Enad Politik; ;1589;
-KF;560;Boxholm;Enade Sverige; ;1448;
-KF;560;Boxholm;Enhet;ENH;189;0.0
-KF;560;Boxholm;EUSEC; ;1534;
-KF;560;Boxholm;Feministiskt initiativ;FI;532;0.21645021645021645
-KF;560;Boxholm;FOLKOMROSTA2021.SE; ;1489;
-KF;560;Boxholm;FramtidsTro;FT;1449;
-KF;560;Boxholm;Fredspartiet; ;1484;
-KF;560;Boxholm;Fria Wermland; ;1548;
-KF;560;Boxholm;Frihetsrörelsen; ;1573;
-KF;560;Boxholm;Fritt val; ;1479;
-KF;560;Boxholm;Förenade Demokratiska Partiet; ;1577;
-KF;560;Boxholm;Företaget Sverige; ;1510;
-KF;560;Boxholm;GRÖNA DEMOKRATER; ;1601;
-KF;560;Boxholm;Gula västarna; ;1436;
-KF;560;Boxholm;Humanistisk demokrati (HD);HD;1480;
-KF;560;Boxholm;John Mikkonen; ;1598;
-KF;560;Boxholm;Kalle ankapartiet; ;1579;
-KF;560;Boxholm;Kapitalism med vänligt ansikte; ;1495;
-KF;560;Boxholm;Klassiskt liberala partiet;KLP;638;0.0
-KF;560;Boxholm;Knapptryckarna; ;1505;
-KF;560;Boxholm;Kristdemokraterna;KD;68;3.896103896103896
-KF;560;Boxholm;Kristna Värdepartiet; ;1551;
-KF;560;Boxholm;Kärlek; ;1465;
-KF;560;Boxholm;Landsbygdspartiet Oberoende;LPo;1011;0.0
-KF;560;Boxholm;Liberalerna (tidigare Folkpartiet);L;3;1.6233766233766231
-KF;560;Boxholm;Majspartiet; ;1471;
-KF;560;Boxholm;Medborgarresan; ;1330;
-KF;560;Boxholm;Medborgerlig Samling;MED;1296;0.0
-KF;560;Boxholm;Miljöpartiet de gröna;MP;55;1.1093073593073595
-KF;560;Boxholm;Min röst; ;1437;
-KF;560;Boxholm;MITT SVERIGE; ;1591;
-KF;560;Boxholm;Moderaterna;M;1;17.261904761904763
-KF;560;Boxholm;Monisterna; ;1502;
-KF;560;Boxholm;Mälaröarnas parti; ;1440;
-KF;560;Boxholm;Nationalsocialistiska reformistiska Partiet; ;1595;
-KF;560;Boxholm;NaturFilosoferna; ;1460;
-KF;560;Boxholm;Nix to the Six; ;1519;
-KF;560;Boxholm;NY REFORM; ;1528;
-KF;560;Boxholm;Nya Frihetspartiet; ;1443;
-KF;560;Boxholm;Nya Samhällspartiet; ;1438;
-KF;560;Boxholm;OK; ;1478;
-KF;560;Boxholm;Ond Kyckling Partiet; ;1472;
-KF;560;Boxholm;Partiet Folkomröstning; ;1578;
-KF;560;Boxholm;Partiet Nyans; ;1439;
-KF;560;Boxholm;Partiet Vändpunkt;PV;1430;
-KF;560;Boxholm;Pax; ;1491;
-KF;560;Boxholm;Piratpartiet;PP;524;0.0
-KF;560;Boxholm;Positivt Samhällsinitiativ (PSI); ;1475;
-KF;560;Boxholm;Rastliberalerna; ;1508;
-KF;560;Boxholm;Rikspolitiska partiet; ;1496;
-KF;560;Boxholm;SKP; ;1586;
-KF;560;Boxholm;SKÅNEPARTIET;SKÅ;54;0.0
-KF;560;Boxholm;Socialisterna-Välfärdspartiet;S-V;977;0.0
-KF;560;Boxholm;Sociallibertarianerna; ;1507;
-KF;560;Boxholm;Stora Norrlands oberoende Frihetsparti; ;1559;
-KF;560;Boxholm;Stram Kurs Sverige; ;1592;
-KF;560;Boxholm;Svenska Rikslagen; ;1513;
-KF;560;Boxholm;SVENSKARNA; ;1444;
-KF;560;Boxholm;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;
-KF;560;Boxholm;Sverigedemokraterna;SD;110;12.743506493506493
-KF;560;Boxholm;Sverigepartiet; ;1457;
-KF;560;Boxholm;Swexitpartiet; ;1461;
-KF;560;Boxholm;Säkerhetspartiet; ;1466;
-KF;560;Boxholm;TRYGGHETSPARTIET;TRP;1309;0.0
-KF;560;Boxholm;Valsamverkanspartiet; ;1526;
-KF;560;Boxholm;Vinningspartiet; ;1468;
-KF;560;Boxholm;Vänsterpartiet;V;5;4.1396103896103895
-KF;560;Boxholm;Yggdrasil; ;1454;
-KF;560;Boxholm;Ändrings partiet revolution; ;1404;
+VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
+KF;560;Boxholm;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;560;Boxholm;ANDOPARTIET; ;1602;;
+KF;560;Boxholm;Arbetarepartiet-Socialdemokraterna;S;2;43.722943722943725;https://www.socialdemokraterna.se/
+KF;560;Boxholm;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;560;Boxholm;Centerpartiet;C;4;14.989177489177488;https://www.centerpartiet.se/
+KF;560;Boxholm;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;560;Boxholm;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;560;Boxholm;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
+KF;560;Boxholm;Enad Politik; ;1589;;
+KF;560;Boxholm;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
+KF;560;Boxholm;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;560;Boxholm;EUSEC; ;1534;;
+KF;560;Boxholm;Feministiskt initiativ;FI;532;0.21645021645021645;https://feministisktinitiativ.se/
+KF;560;Boxholm;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
+KF;560;Boxholm;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
+KF;560;Boxholm;Fredspartiet; ;1484;;
+KF;560;Boxholm;Fria Wermland; ;1548;;https://friawermland.se/
+KF;560;Boxholm;Frihetsrörelsen; ;1573;;https://www.frihetsrorelsen.se/
+KF;560;Boxholm;Fritt val; ;1479;;
+KF;560;Boxholm;Förenade Demokratiska Partiet; ;1577;;https://www.fdppartiet.se/
+KF;560;Boxholm;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
+KF;560;Boxholm;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
+KF;560;Boxholm;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
+KF;560;Boxholm;Humanistisk demokrati (HD);HD;1480;;
+KF;560;Boxholm;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
+KF;560;Boxholm;Kalle ankapartiet; ;1579;;
+KF;560;Boxholm;Kapitalism med vänligt ansikte; ;1495;;
+KF;560;Boxholm;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
+KF;560;Boxholm;Knapptryckarna; ;1505;;https://knapptryckarna.se/
+KF;560;Boxholm;Kristdemokraterna;KD;68;3.896103896103896;https://kristdemokraterna.se/
+KF;560;Boxholm;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;560;Boxholm;Kärlek; ;1465;;
+KF;560;Boxholm;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
+KF;560;Boxholm;Liberalerna (tidigare Folkpartiet);L;3;1.6233766233766231;https://www.liberalerna.se/
+KF;560;Boxholm;Majspartiet; ;1471;;
+KF;560;Boxholm;Medborgarresan; ;1330;;https://citizenwell.se/
+KF;560;Boxholm;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.se/
+KF;560;Boxholm;Miljöpartiet de gröna;MP;55;1.1093073593073595;https://www.mp.se/
+KF;560;Boxholm;Min röst; ;1437;;
+KF;560;Boxholm;MITT SVERIGE; ;1591;;
+KF;560;Boxholm;Moderaterna;M;1;17.261904761904763;https://moderaterna.se/
+KF;560;Boxholm;Monisterna; ;1502;;
+KF;560;Boxholm;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
+KF;560;Boxholm;Nationalsocialistiska reformistiska Partiet; ;1595;;
+KF;560;Boxholm;NaturFilosoferna; ;1460;;
+KF;560;Boxholm;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
+KF;560;Boxholm;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;560;Boxholm;Nya Frihetspartiet; ;1443;;
+KF;560;Boxholm;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
+KF;560;Boxholm;OK; ;1478;;
+KF;560;Boxholm;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
+KF;560;Boxholm;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
+KF;560;Boxholm;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;560;Boxholm;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
+KF;560;Boxholm;Pax; ;1491;;https://www.paxpartiet.se/
+KF;560;Boxholm;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;560;Boxholm;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
+KF;560;Boxholm;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;560;Boxholm;Rikspolitiska partiet; ;1496;;
+KF;560;Boxholm;SKP; ;1586;;https://skp.se
+KF;560;Boxholm;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
+KF;560;Boxholm;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
+KF;560;Boxholm;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
+KF;560;Boxholm;Stora Norrlands oberoende Frihetsparti; ;1559;;
+KF;560;Boxholm;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;560;Boxholm;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
+KF;560;Boxholm;SVENSKARNA; ;1444;;https://svenskarna.org/
+KF;560;Boxholm;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
+KF;560;Boxholm;Sverigedemokraterna;SD;110;12.743506493506493;https://sd.se/
+KF;560;Boxholm;Sverigepartiet; ;1457;;https://sverigepartiet.se/
+KF;560;Boxholm;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
+KF;560;Boxholm;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
+KF;560;Boxholm;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;560;Boxholm;Valsamverkanspartiet; ;1526;;
+KF;560;Boxholm;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;560;Boxholm;Vänsterpartiet;V;5;4.1396103896103895;https://www.vansterpartiet.se/
+KF;560;Boxholm;Yggdrasil; ;1454;;
+KF;560;Boxholm;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

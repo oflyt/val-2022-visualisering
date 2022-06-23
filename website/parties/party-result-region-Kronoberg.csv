@@ -1,80 +1,80 @@
-VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018
-RF;7;Kronoberg;Alternativ för Sverige;AfS;1325;
-RF;7;Kronoberg;Alternativet;ALTER;510;
-RF;7;Kronoberg;ANDOPARTIET; ;1602;
-RF;7;Kronoberg;Arbetarepartiet-Socialdemokraterna;S;2;30.995197588371585
-RF;7;Kronoberg;Basinkomstpartiet; ;1525;
-RF;7;Kronoberg;Centerpartiet;C;4;10.934906878111745
-RF;7;Kronoberg;Common sense in Sweden;CSIS;1318;
-RF;7;Kronoberg;Direktdemokraterna;DD;1150;
-RF;7;Kronoberg;En Vis Avskaffar Asylrätten!;EVA;1482;
-RF;7;Kronoberg;Enad Politik; ;1589;
-RF;7;Kronoberg;Enade Sverige; ;1448;
-RF;7;Kronoberg;Enhet;ENH;189;0.0
-RF;7;Kronoberg;EUSEC; ;1534;
-RF;7;Kronoberg;Feministiskt initiativ;FI;532;0.2757979299120493
-RF;7;Kronoberg;FOLKOMROSTA2021.SE; ;1489;
-RF;7;Kronoberg;FramtidsTro;FT;1449;
-RF;7;Kronoberg;Fredspartiet; ;1484;
-RF;7;Kronoberg;Fria Wermland; ;1548;
-RF;7;Kronoberg;Frihetsrörelsen; ;1573;
-RF;7;Kronoberg;Fritt val; ;1479;
-RF;7;Kronoberg;Förenade Demokratiska Partiet; ;1577;
-RF;7;Kronoberg;Företaget Sverige; ;1510;
-RF;7;Kronoberg;GRÖNA DEMOKRATER; ;1601;
-RF;7;Kronoberg;Gula västarna; ;1436;
-RF;7;Kronoberg;Humanistisk demokrati (HD);HD;1480;
-RF;7;Kronoberg;John Mikkonen; ;1598;
-RF;7;Kronoberg;Kalle ankapartiet; ;1579;
-RF;7;Kronoberg;Kapitalism med vänligt ansikte; ;1495;
-RF;7;Kronoberg;Klassiskt liberala partiet;KLP;638;
-RF;7;Kronoberg;Knapptryckarna; ;1505;
-RF;7;Kronoberg;Kristdemokraterna;KD;68;7.529123138965277
-RF;7;Kronoberg;Kristna Värdepartiet; ;1551;
-RF;7;Kronoberg;Kärlek; ;1465;
-RF;7;Kronoberg;Landsbygdspartiet Oberoende;LPo;1011;0.31267788565610244
-RF;7;Kronoberg;Liberalerna (tidigare Folkpartiet);L;3;4.0399586303105135
-RF;7;Kronoberg;Majspartiet; ;1471;
-RF;7;Kronoberg;Medborgarresan; ;1330;
-RF;7;Kronoberg;Medborgerlig Samling;MED;1296;0.1619511100064941
-RF;7;Kronoberg;Miljöpartiet de gröna;MP;55;2.93355995798892
-RF;7;Kronoberg;Min röst; ;1437;
-RF;7;Kronoberg;MITT SVERIGE; ;1591;
-RF;7;Kronoberg;Moderaterna;M;1;22.66513801922568
-RF;7;Kronoberg;Monisterna; ;1502;
-RF;7;Kronoberg;Mälaröarnas parti; ;1440;
-RF;7;Kronoberg;Nationalsocialistiska reformistiska Partiet; ;1595;
-RF;7;Kronoberg;NaturFilosoferna; ;1460;
-RF;7;Kronoberg;Nix to the Six; ;1519;
-RF;7;Kronoberg;NY REFORM; ;1528;
-RF;7;Kronoberg;Nya Frihetspartiet; ;1443;
-RF;7;Kronoberg;Nya Samhällspartiet; ;1438;
-RF;7;Kronoberg;OK; ;1478;
-RF;7;Kronoberg;Ond Kyckling Partiet; ;1472;
-RF;7;Kronoberg;Partiet Folkomröstning; ;1578;
-RF;7;Kronoberg;Partiet Nyans; ;1439;
-RF;7;Kronoberg;Partiet Vändpunkt;PV;1430;
-RF;7;Kronoberg;Pax; ;1491;
-RF;7;Kronoberg;Piratpartiet;PP;524;0.0
-RF;7;Kronoberg;Positivt Samhällsinitiativ (PSI); ;1475;
-RF;7;Kronoberg;Rastliberalerna; ;1508;
-RF;7;Kronoberg;Rikspolitiska partiet; ;1496;
-RF;7;Kronoberg;SKP; ;1586;
-RF;7;Kronoberg;SKÅNEPARTIET;SKÅ;54;0.0
-RF;7;Kronoberg;Socialisterna-Välfärdspartiet;S-V;977;
-RF;7;Kronoberg;Sociallibertarianerna; ;1507;
-RF;7;Kronoberg;Stora Norrlands oberoende Frihetsparti; ;1559;
-RF;7;Kronoberg;Stram Kurs Sverige; ;1592;
-RF;7;Kronoberg;Svenska Rikslagen; ;1513;
-RF;7;Kronoberg;SVENSKARNA; ;1444;
-RF;7;Kronoberg;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;
-RF;7;Kronoberg;Sverigedemokraterna;SD;110;12.683497823280874
-RF;7;Kronoberg;Sverigepartiet; ;1457;
-RF;7;Kronoberg;Swexitpartiet; ;1461;
-RF;7;Kronoberg;Säkerhetspartiet; ;1466;
-RF;7;Kronoberg;TRYGGHETSPARTIET;TRP;1309;0.0
-RF;7;Kronoberg;Valsamverkanspartiet; ;1526;
-RF;7;Kronoberg;Vinningspartiet; ;1468;
-RF;7;Kronoberg;Vänsterpartiet;V;5;7.257333899894973
-RF;7;Kronoberg;Yggdrasil; ;1454;
-RF;7;Kronoberg;Ändrings partiet revolution; ;1404;
+VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
+RF;7;Kronoberg;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+RF;7;Kronoberg;Alternativet;ALTER;510;;
+RF;7;Kronoberg;ANDOPARTIET; ;1602;;
+RF;7;Kronoberg;Arbetarepartiet-Socialdemokraterna;S;2;30.995197588371585;https://www.socialdemokraterna.se/
+RF;7;Kronoberg;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+RF;7;Kronoberg;Centerpartiet;C;4;10.934906878111745;https://www.centerpartiet.se/
+RF;7;Kronoberg;Common sense in Sweden;CSIS;1318;;https://common-sene-in-sweden.webnode.se/
+RF;7;Kronoberg;Direktdemokraterna;DD;1150;;https://direktdemokraterna.se/en/
+RF;7;Kronoberg;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
+RF;7;Kronoberg;Enad Politik; ;1589;;
+RF;7;Kronoberg;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
+RF;7;Kronoberg;Enhet;ENH;189;0.0;https://www.enhet.se/
+RF;7;Kronoberg;EUSEC; ;1534;;
+RF;7;Kronoberg;Feministiskt initiativ;FI;532;0.2757979299120493;https://feministisktinitiativ.se/
+RF;7;Kronoberg;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
+RF;7;Kronoberg;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
+RF;7;Kronoberg;Fredspartiet; ;1484;;
+RF;7;Kronoberg;Fria Wermland; ;1548;;https://friawermland.se/
+RF;7;Kronoberg;Frihetsrörelsen; ;1573;;https://www.frihetsrorelsen.se/
+RF;7;Kronoberg;Fritt val; ;1479;;
+RF;7;Kronoberg;Förenade Demokratiska Partiet; ;1577;;https://www.fdppartiet.se/
+RF;7;Kronoberg;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
+RF;7;Kronoberg;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
+RF;7;Kronoberg;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
+RF;7;Kronoberg;Humanistisk demokrati (HD);HD;1480;;
+RF;7;Kronoberg;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
+RF;7;Kronoberg;Kalle ankapartiet; ;1579;;
+RF;7;Kronoberg;Kapitalism med vänligt ansikte; ;1495;;
+RF;7;Kronoberg;Klassiskt liberala partiet;KLP;638;;https://www.liberalapartiet.se/
+RF;7;Kronoberg;Knapptryckarna; ;1505;;https://knapptryckarna.se/
+RF;7;Kronoberg;Kristdemokraterna;KD;68;7.529123138965277;https://kristdemokraterna.se/
+RF;7;Kronoberg;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+RF;7;Kronoberg;Kärlek; ;1465;;
+RF;7;Kronoberg;Landsbygdspartiet Oberoende;LPo;1011;0.31267788565610244;https://landsbygdspartiet.org/
+RF;7;Kronoberg;Liberalerna (tidigare Folkpartiet);L;3;4.0399586303105135;https://www.liberalerna.se/
+RF;7;Kronoberg;Majspartiet; ;1471;;
+RF;7;Kronoberg;Medborgarresan; ;1330;;https://citizenwell.se/
+RF;7;Kronoberg;Medborgerlig Samling;MED;1296;0.1619511100064941;https://www.medborgerligsamling.se/
+RF;7;Kronoberg;Miljöpartiet de gröna;MP;55;2.93355995798892;https://www.mp.se/
+RF;7;Kronoberg;Min röst; ;1437;;
+RF;7;Kronoberg;MITT SVERIGE; ;1591;;
+RF;7;Kronoberg;Moderaterna;M;1;22.66513801922568;https://moderaterna.se/
+RF;7;Kronoberg;Monisterna; ;1502;;
+RF;7;Kronoberg;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
+RF;7;Kronoberg;Nationalsocialistiska reformistiska Partiet; ;1595;;
+RF;7;Kronoberg;NaturFilosoferna; ;1460;;
+RF;7;Kronoberg;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
+RF;7;Kronoberg;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+RF;7;Kronoberg;Nya Frihetspartiet; ;1443;;
+RF;7;Kronoberg;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
+RF;7;Kronoberg;OK; ;1478;;
+RF;7;Kronoberg;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
+RF;7;Kronoberg;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
+RF;7;Kronoberg;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+RF;7;Kronoberg;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
+RF;7;Kronoberg;Pax; ;1491;;https://www.paxpartiet.se/
+RF;7;Kronoberg;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+RF;7;Kronoberg;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
+RF;7;Kronoberg;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+RF;7;Kronoberg;Rikspolitiska partiet; ;1496;;
+RF;7;Kronoberg;SKP; ;1586;;https://skp.se
+RF;7;Kronoberg;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
+RF;7;Kronoberg;Socialisterna-Välfärdspartiet;S-V;977;;https://www.valfardspartiet.org/
+RF;7;Kronoberg;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
+RF;7;Kronoberg;Stora Norrlands oberoende Frihetsparti; ;1559;;
+RF;7;Kronoberg;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+RF;7;Kronoberg;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
+RF;7;Kronoberg;SVENSKARNA; ;1444;;https://svenskarna.org/
+RF;7;Kronoberg;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
+RF;7;Kronoberg;Sverigedemokraterna;SD;110;12.683497823280874;https://sd.se/
+RF;7;Kronoberg;Sverigepartiet; ;1457;;https://sverigepartiet.se/
+RF;7;Kronoberg;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
+RF;7;Kronoberg;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
+RF;7;Kronoberg;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+RF;7;Kronoberg;Valsamverkanspartiet; ;1526;;
+RF;7;Kronoberg;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+RF;7;Kronoberg;Vänsterpartiet;V;5;7.257333899894973;https://www.vansterpartiet.se/
+RF;7;Kronoberg;Yggdrasil; ;1454;;
+RF;7;Kronoberg;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

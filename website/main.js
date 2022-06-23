@@ -131,17 +131,27 @@ class ChangeListSelection {
     }
 
     static listParties(listOfParties) {
-        d3.select("#list-content").selectAll("a").remove();
+        d3.select("#list-content > *").remove();
         const partiesDatums = d3.select("#list-content")
-            .selectAll("a")
+            .selectAll("div")
             .data(listOfParties)
             .enter()
-            .append("a")
-            .attr("href", "#")
-            .attr("class", "list-group-item list-group-item-action")
-            .text(d => d.PARTIBETECKNING)
+            .append("div")
+            .attr("class", "list-group-item")
             .sort((x, y) => d3.ascending(x.PARTIBETECKNING, y.PARTIBETECKNING))
-            .sort((x, y) => d3.descending(parseFloatSafe(x.result_2018), parseFloatSafe(y.result_2018)));
+            .sort((x, y) => d3.descending(parseFloatSafe(x.result_2018), parseFloatSafe(y.result_2018)))
+            .each(function(d) {
+                console.log(d);
+                if (d.url != "") {
+                    d3.select(this)
+                        .append("a")
+                        .attr("href", d.url)
+                        .attr("target", "_blank")
+                        .text(d => d.PARTIBETECKNING);
+                } else {
+                    d3.select(this).text(d => d.PARTIBETECKNING);
+                }
+            });
         
         partiesDatums
             .append("div")
