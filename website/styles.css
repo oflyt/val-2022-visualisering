@@ -35,12 +35,20 @@
     }
 }
 
+.info {
+    float: left;
+    position: absolute;
+    padding-left: 6px;
+    z-index: 99;
+}
+
 /* MAP */
 svg {
     /* SVG Frame */
     outline: thin solid lightgray;
     outline-offset: 0px;
     border-radius: 2pt;
+    position: absolute;
 }
 
 .region.out-of-focus {
