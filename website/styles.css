@@ -2,12 +2,7 @@
     height: 100% !important;
 }
 
-.card-header {
-    height: 40px;
-}
-
 .list-group {
-    max-height: calc(100% - 40px);
     overflow: scroll;
     -webkit-overflow-scrolling: touch;
 }
@@ -19,6 +14,7 @@
 #map-view > * {
     max-height: 100%; 
     overflow: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 @media(min-width: 992px) {
