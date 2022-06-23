@@ -101,6 +101,7 @@ class ChangeListSelection {
         d3.dsv(";", "./parties/party-result-country.csv").then(function(listOfParties) {
             ChangeListSelection.listParties(listOfParties);
         })
+        .catch(error => d3.selectAll("#list-content > *").remove());
     }
 
     static region() {
@@ -111,10 +112,10 @@ class ChangeListSelection {
         }
 
         const fileName = "./parties/party-result-region-" + regionName + ".csv";
-        console.log(fileName);
         d3.dsv(";", fileName).then(function(listOfParties) {
             ChangeListSelection.listParties(listOfParties);
         })
+        .catch(error => d3.selectAll("#list-content > *").remove());
     }
 
     static municipality() {
@@ -128,6 +129,7 @@ class ChangeListSelection {
         d3.dsv(";", fileName).then(function(listOfParties) {
             ChangeListSelection.listParties(listOfParties);
         })
+        .catch(error => d3.selectAll("#list-content > *").remove());
     }
 
     static listParties(listOfParties) {
@@ -141,7 +143,6 @@ class ChangeListSelection {
             .sort((x, y) => d3.ascending(x.PARTIBETECKNING, y.PARTIBETECKNING))
             .sort((x, y) => d3.descending(parseFloatSafe(x.result_2018), parseFloatSafe(y.result_2018)))
             .each(function(d) {
-                console.log(d);
                 if (d.url != "") {
                     d3.select(this)
                         .append("a")
