@@ -53,10 +53,6 @@ def create_result_csv(area_name: str, parties: pd.DataFrame, result: pd.DataFram
     print("Finished {}".format(save_file_path))
 
 
-def create_for_region(region_name: str, parties_region: pd.DataFrame, result_region: pd.DataFrame):
-    pass
-
-
 def main(
         parties_file_path: str,
         result_country_file_path: str,
@@ -66,6 +62,8 @@ def main(
 ):
     parties_per_district = read_parties_csv(parties_file_path)
     party_websites = pd.read_csv(party_websites_file_path)
+
+    # print_parties_without_url(parties_per_district, party_websites)
 
     # Country
     parties_country = parties_per_district[parties_per_district['VALTYP'] == 'RD'].copy()
@@ -101,7 +99,14 @@ def main(
             party_websites
         )
 
-    # print(result_municipality.head())
+    print(result_municipality.head())
+
+
+def print_parties_without_url(parties_per_district, party_websites):
+    print(sorted(
+        set(parties_per_district['PARTIBETECKNING'].unique())
+            .difference(set(party_websites['party'].unique()))
+    ))
 
 
 if __name__ == '__main__':
