@@ -41,8 +41,8 @@ def create_result_csv(area_name: str, parties: pd.DataFrame, result: pd.DataFram
             unmatched.append(party_id)
 
     # Join party websites with parties list
-    for index, (party_name, party_url) in party_websites.iterrows():
-        parties.loc[parties['PARTIBETECKNING'] == party_name, 'url'] = party_url
+    for index, (party_name, party_code, party_url, comment) in party_websites.iterrows():
+        parties.loc[parties['PARTIKOD'] == party_code, 'url'] = party_url
 
     print("Parties in list {}".format(len(parties.index)))
     print("Parties with result {}".format(len(result_agg)))
@@ -61,7 +61,7 @@ def main(
         party_websites_file_path: str,
 ):
     parties_per_district = read_parties_csv(parties_file_path)
-    party_websites = pd.read_csv(party_websites_file_path)
+    party_websites = pd.read_csv(party_websites_file_path, sep=";")
 
     # print_parties_without_url(parties_per_district, party_websites)
 
@@ -99,10 +99,9 @@ def main(
             party_websites
         )
 
-    print(result_municipality.head())
-
 
 def print_parties_without_url(parties_per_district, party_websites):
+    parties_per_district[['PARTIBETECKNING', 'PARTIKOD']].drop_duplicates().to_csv("./output/parties-without-urls", sep=";", index=False)
     print(sorted(
         set(parties_per_district['PARTIBETECKNING'].unique())
             .difference(set(party_websites['party'].unique()))
@@ -118,5 +117,5 @@ if __name__ == '__main__':
         "../data-collected/2018_R_per_kommun.xlsx",
         "../data-collected/2018_L_per_kommun.xlsx",
         "../data-collected/2018_K_per_kommun.xlsx",
-        "../data-collected/party-websites.csv",
+        "../data-collected/party-code-websites.csv",
     )
