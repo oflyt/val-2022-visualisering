@@ -40,6 +40,7 @@
     position: absolute;
     padding-left: 6px;
     z-index: 99;
+    overflow: visible;
 }
 
 /* MAP */
