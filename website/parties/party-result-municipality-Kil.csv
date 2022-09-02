@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1715;Kil;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1715;Kil;ANARKISTERNA; ;1628;;
 KF;1715;Kil;ANDOPARTIET; ;1602;;
 KF;1715;Kil;Arbetarepartiet-Socialdemokraterna;S;2;33.191489361702125;https://www.socialdemokraterna.se/
 KF;1715;Kil;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1715;Kil;Bjornpartiet; ;1629;;
 KF;1715;Kil;Centerpartiet;C;4;19.899874843554443;https://www.centerpartiet.se/
 KF;1715;Kil;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1715;Kil;Det minst dåliga partiet; ;1622;;
 KF;1715;Kil;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1715;Kil;Drivkraft; ;1621;;
 KF;1715;Kil;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1715;Kil;Enad Politik; ;1589;;
 KF;1715;Kil;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1715;Kil;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1715;Kil;Enskild person/Riksdagen val; ;1614;;
+KF;1715;Kil;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1715;Kil;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1715;Kil;EUSEC; ;1534;;
+KF;1715;Kil;FAMILJENS FRIHET; ;1606;;
+KF;1715;Kil;Fattigmans parti; ;1618;;
 KF;1715;Kil;Feministiskt initiativ;FI;532;0.11264080100125157;https://feministisktinitiativ.se/
+KF;1715;Kil;FN Parti art.27; ;1631;;
 KF;1715;Kil;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1715;Kil;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1715;Kil;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;1715;Kil;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1715;Kil;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1715;Kil;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1715;Kil;Humanistisk demokrati (HD);HD;1480;;
+KF;1715;Kil;Invandrarpartiet; ;1624;;
 KF;1715;Kil;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1715;Kil;Kalle ankapartiet; ;1579;;
 KF;1715;Kil;Kapitalism med vänligt ansikte; ;1495;;
 KF;1715;Kil;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1715;Kil;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1715;Kil;Kristdemokraterna;KD;68;1.4267834793491865;https://kristdemokraterna.se/
-KF;1715;Kil;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1715;Kil;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1715;Kil;KSP; ;1612;;
 KF;1715;Kil;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1715;Kil;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1715;Kil;Liberalerna (tidigare Folkpartiet);L;3;4.643304130162703;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;1715;Kil;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.se
 KF;1715;Kil;Miljöpartiet de gröna;MP;55;4.380475594493117;https://www.mp.se/
 KF;1715;Kil;Min röst; ;1437;;
 KF;1715;Kil;MITT SVERIGE; ;1591;;
+KF;1715;Kil;MoD; ;1568;;https://partietmod.se/
 KF;1715;Kil;Moderaterna;M;1;14.993742177722153;https://moderaterna.se/
 KF;1715;Kil;Monisterna; ;1502;;
 KF;1715;Kil;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1715;Kil;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1715;Kil;NaturFilosoferna; ;1460;;
+KF;1715;Kil;Naturistpartiet; ;1627;;
+KF;1715;Kil;Neoteknokraterna; ;1613;;
 KF;1715;Kil;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1715;Kil;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1715;Kil;Nu får det fan vara nog; ;1623;;
+KF;1715;Kil;Ny Demokrati; ;1596;;
+KF;1715;Kil;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1715;Kil;Nya Frihetspartiet; ;1443;;
 KF;1715;Kil;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1715;Kil;OK; ;1478;;
 KF;1715;Kil;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1715;Kil;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1715;Kil;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1715;Kil;Partiet Frihet; ;1599;;
+KF;1715;Kil;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1715;Kil;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1715;Kil;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1715;Kil;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1715;Kil;Politiskt Skifte; ;1617;;
 KF;1715;Kil;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1715;Kil;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1715;Kil;Reformpartiet; ;1616;;
 KF;1715;Kil;Rikspolitiska partiet; ;1496;;
-KF;1715;Kil;SKP; ;1586;;https://skp.se
+KF;1715;Kil;SKP;Skp;1586;;https://skp.se
 KF;1715;Kil;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1715;Kil;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1715;Kil;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1715;Kil;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1715;Kil;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1715;Kil;Svensk Jobbdemokrati; ;1603;;
 KF;1715;Kil;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1715;Kil;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1715;Kil;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;1715;Kil;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1715;Kil;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1715;Kil;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1715;Kil;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1715;Kil;Upprorsdemokraterna; ;1630;;
 KF;1715;Kil;Valsamverkanspartiet; ;1526;;
 KF;1715;Kil;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1715;Kil;Volt Sverige;Volt;1610;;
 KF;1715;Kil;Vänsterpartiet;V;5;5.506883604505632;https://www.vansterpartiet.se/
 KF;1715;Kil;Yggdrasil; ;1454;;
 KF;1715;Kil;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

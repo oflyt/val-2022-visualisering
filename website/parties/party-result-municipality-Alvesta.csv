@@ -1,19 +1,29 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;764;Alvesta;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
 KF;764;Alvesta;Alvesta Alternativet;ALV;124;11.175444162436548;http://www.alvestaalternativet.se/
-KF;764;Alvesta;Alvestademokraterna; ;1445;;https://alvestademokraterna.se/
+KF;764;Alvesta;Alvestademokraterna;ADEM;1445;;https://alvestademokraterna.se/
+KF;764;Alvesta;ANARKISTERNA; ;1628;;
 KF;764;Alvesta;ANDOPARTIET; ;1602;;
 KF;764;Alvesta;Arbetarepartiet-Socialdemokraterna;S;2;27.482550761421322;https://www.socialdemokraterna.se/
 KF;764;Alvesta;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;764;Alvesta;Bjornpartiet; ;1629;;
 KF;764;Alvesta;Centerpartiet;C;4;13.396256345177665;https://www.centerpartiet.se/
 KF;764;Alvesta;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;764;Alvesta;Det minst dåliga partiet; ;1622;;
 KF;764;Alvesta;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;764;Alvesta;Drivkraft; ;1621;;
 KF;764;Alvesta;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;764;Alvesta;Enad Politik; ;1589;;
 KF;764;Alvesta;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;764;Alvesta;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;764;Alvesta;Enskild person/Riksdagen val; ;1614;;
+KF;764;Alvesta;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;764;Alvesta;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;764;Alvesta;EUSEC; ;1534;;
+KF;764;Alvesta;FAMILJENS FRIHET; ;1606;;
+KF;764;Alvesta;Fattigmans parti; ;1618;;
 KF;764;Alvesta;Feministiskt initiativ;FI;532;0.14276649746192893;https://feministisktinitiativ.se/
+KF;764;Alvesta;FN Parti art.27; ;1631;;
 KF;764;Alvesta;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;764;Alvesta;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;764;Alvesta;Fredspartiet; ;1484;;
@@ -25,13 +35,15 @@ KF;764;Alvesta;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;764;Alvesta;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;764;Alvesta;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;764;Alvesta;Humanistisk demokrati (HD);HD;1480;;
+KF;764;Alvesta;Invandrarpartiet; ;1624;;
 KF;764;Alvesta;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;764;Alvesta;Kalle ankapartiet; ;1579;;
 KF;764;Alvesta;Kapitalism med vänligt ansikte; ;1495;;
 KF;764;Alvesta;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;764;Alvesta;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;764;Alvesta;Kristdemokraterna;KD;68;3.9260786802030454;https://kristdemokraterna.se/
-KF;764;Alvesta;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;764;Alvesta;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;764;Alvesta;KSP; ;1612;;
 KF;764;Alvesta;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;764;Alvesta;Landsbygdspartiet Oberoende;LPo;1011;0.38864213197969544;https://landsbygdspartiet.org/
 KF;764;Alvesta;Liberalerna (tidigare Folkpartiet);L;3;2.1890862944162435;https://www.liberalerna.se/
@@ -41,31 +53,40 @@ KF;764;Alvesta;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling
 KF;764;Alvesta;Miljöpartiet de gröna;MP;55;2.078045685279188;https://www.mp.se/
 KF;764;Alvesta;Min röst; ;1437;;
 KF;764;Alvesta;MITT SVERIGE; ;1591;;
+KF;764;Alvesta;MoD; ;1568;;https://partietmod.se/
 KF;764;Alvesta;Moderaterna;M;1;19.812817258883246;https://moderaterna.se/
 KF;764;Alvesta;Monisterna; ;1502;;
 KF;764;Alvesta;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;764;Alvesta;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;764;Alvesta;NaturFilosoferna; ;1460;;
+KF;764;Alvesta;Naturistpartiet; ;1627;;
+KF;764;Alvesta;Neoteknokraterna; ;1613;;
 KF;764;Alvesta;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;764;Alvesta;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;764;Alvesta;Nu får det fan vara nog; ;1623;;
+KF;764;Alvesta;Ny Demokrati; ;1596;;
+KF;764;Alvesta;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;764;Alvesta;Nya Frihetspartiet; ;1443;;
 KF;764;Alvesta;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;764;Alvesta;OK; ;1478;;
 KF;764;Alvesta;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;764;Alvesta;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;764;Alvesta;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;764;Alvesta;Partiet Frihet; ;1599;;
+KF;764;Alvesta;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;764;Alvesta;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;764;Alvesta;Pax; ;1491;;https://www.paxpartiet.se/
 KF;764;Alvesta;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;764;Alvesta;Politiskt Skifte; ;1617;;
 KF;764;Alvesta;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;764;Alvesta;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;764;Alvesta;Reformpartiet; ;1616;;
 KF;764;Alvesta;Rikspolitiska partiet; ;1496;;
-KF;764;Alvesta;SKP; ;1586;;https://skp.se
+KF;764;Alvesta;SKP;Skp;1586;;https://skp.se
 KF;764;Alvesta;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;764;Alvesta;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;764;Alvesta;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;764;Alvesta;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;764;Alvesta;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;764;Alvesta;Svensk Jobbdemokrati; ;1603;;
 KF;764;Alvesta;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;764;Alvesta;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;764;Alvesta;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -74,8 +95,10 @@ KF;764;Alvesta;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;764;Alvesta;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;764;Alvesta;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;764;Alvesta;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;764;Alvesta;Upprorsdemokraterna; ;1630;;
 KF;764;Alvesta;Valsamverkanspartiet; ;1526;;
 KF;764;Alvesta;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;764;Alvesta;Volt Sverige;Volt;1610;;
 KF;764;Alvesta;Vänsterpartiet;V;5;4.86992385786802;https://www.vansterpartiet.se/
 KF;764;Alvesta;Yggdrasil; ;1454;;
 KF;764;Alvesta;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

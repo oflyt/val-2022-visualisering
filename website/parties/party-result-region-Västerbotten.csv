@@ -1,18 +1,28 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 RF;24;Västerbotten;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+RF;24;Västerbotten;ANARKISTERNA; ;1628;;
 RF;24;Västerbotten;ANDOPARTIET; ;1602;;
 RF;24;Västerbotten;Arbetarepartiet-Socialdemokraterna;S;2;35.49592640964319;https://www.socialdemokraterna.se/
 RF;24;Västerbotten;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+RF;24;Västerbotten;Bjornpartiet; ;1629;;
 RF;24;Västerbotten;Centerpartiet;C;4;11.310503135053231;https://www.centerpartiet.se/
 RF;24;Västerbotten;Common sense in Sweden;CSIS;1318;;https://common-sene-in-sweden.webnode.se/
 RF;24;Västerbotten;Demokratiska Sekulära Socialister Arbetarpartiet;Ar P;1180;;https://arbetarpartiet.se/
+RF;24;Västerbotten;Det minst dåliga partiet; ;1622;;
 RF;24;Västerbotten;Direktdemokraterna;DD;1150;;https://direktdemokraterna.se/en/
+RF;24;Västerbotten;Drivkraft; ;1621;;
 RF;24;Västerbotten;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 RF;24;Västerbotten;Enad Politik; ;1589;;
 RF;24;Västerbotten;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 RF;24;Västerbotten;Enhet;ENH;189;0.07745758207959474;https://www.enhet.se/
+RF;24;Västerbotten;Enskild person/Riksdagen val; ;1614;;
+RF;24;Västerbotten;Eropean radical reflektion a european dream party ERR; ;1626;;
+RF;24;Västerbotten;Europeiska Arbetarpartiet-EAP;EAP;29;;
 RF;24;Västerbotten;EUSEC; ;1534;;
+RF;24;Västerbotten;FAMILJENS FRIHET; ;1606;;
+RF;24;Västerbotten;Fattigmans parti; ;1618;;
 RF;24;Västerbotten;Feministiskt initiativ;FI;532;0.8254603637679438;https://feministisktinitiativ.se/
+RF;24;Västerbotten;FN Parti art.27; ;1631;;
 RF;24;Västerbotten;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 RF;24;Västerbotten;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 RF;24;Västerbotten;Fredspartiet; ;1484;;
@@ -24,13 +34,15 @@ RF;24;Västerbotten;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 RF;24;Västerbotten;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 RF;24;Västerbotten;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 RF;24;Västerbotten;Humanistisk demokrati (HD);HD;1480;;
+RF;24;Västerbotten;Invandrarpartiet; ;1624;;
 RF;24;Västerbotten;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 RF;24;Västerbotten;Kalle ankapartiet; ;1579;;
 RF;24;Västerbotten;Kapitalism med vänligt ansikte; ;1495;;
 RF;24;Västerbotten;Klassiskt liberala partiet;KLP;638;;https://www.liberalapartiet.se/
 RF;24;Västerbotten;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 RF;24;Västerbotten;Kristdemokraterna;KD;68;5.989676091614793;https://kristdemokraterna.se/
-RF;24;Västerbotten;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+RF;24;Västerbotten;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+RF;24;Västerbotten;KSP; ;1612;;
 RF;24;Västerbotten;Kärlek; ;1465;;http://www.karlekspartiet.se/
 RF;24;Västerbotten;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 RF;24;Västerbotten;Liberalerna (tidigare Folkpartiet);L;3;7.959473288441858;https://www.liberalerna.se/
@@ -40,31 +52,40 @@ RF;24;Västerbotten;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsa
 RF;24;Västerbotten;Miljöpartiet de gröna;MP;55;3.331241413233373;https://www.mp.se/
 RF;24;Västerbotten;Min röst; ;1437;;
 RF;24;Västerbotten;MITT SVERIGE; ;1591;;
+RF;24;Västerbotten;MoD; ;1568;;https://partietmod.se/
 RF;24;Västerbotten;Moderaterna;M;1;13.747872743411865;https://moderaterna.se/
 RF;24;Västerbotten;Monisterna; ;1502;;
 RF;24;Västerbotten;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 RF;24;Västerbotten;Nationalsocialistiska reformistiska Partiet; ;1595;;
 RF;24;Västerbotten;NaturFilosoferna; ;1460;;
+RF;24;Västerbotten;Naturistpartiet; ;1627;;
+RF;24;Västerbotten;Neoteknokraterna; ;1613;;
 RF;24;Västerbotten;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-RF;24;Västerbotten;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+RF;24;Västerbotten;Nu får det fan vara nog; ;1623;;
+RF;24;Västerbotten;Ny Demokrati; ;1596;;
+RF;24;Västerbotten;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 RF;24;Västerbotten;Nya Frihetspartiet; ;1443;;
 RF;24;Västerbotten;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 RF;24;Västerbotten;OK; ;1478;;
 RF;24;Västerbotten;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 RF;24;Västerbotten;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-RF;24;Västerbotten;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+RF;24;Västerbotten;Partiet Frihet; ;1599;;
+RF;24;Västerbotten;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 RF;24;Västerbotten;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 RF;24;Västerbotten;Pax; ;1491;;https://www.paxpartiet.se/
 RF;24;Västerbotten;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+RF;24;Västerbotten;Politiskt Skifte; ;1617;;
 RF;24;Västerbotten;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 RF;24;Västerbotten;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+RF;24;Västerbotten;Reformpartiet; ;1616;;
 RF;24;Västerbotten;Rikspolitiska partiet; ;1496;;
-RF;24;Västerbotten;SKP; ;1586;;https://skp.se
+RF;24;Västerbotten;SKP;Skp;1586;;https://skp.se
 RF;24;Västerbotten;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 RF;24;Västerbotten;Socialisterna-Välfärdspartiet;S-V;977;;https://www.valfardspartiet.org/
 RF;24;Västerbotten;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 RF;24;Västerbotten;Stora Norrlands oberoende Frihetsparti; ;1559;;
 RF;24;Västerbotten;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+RF;24;Västerbotten;Svensk Jobbdemokrati; ;1603;;
 RF;24;Västerbotten;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 RF;24;Västerbotten;SVENSKARNA; ;1444;;https://svenskarna.org/
 RF;24;Västerbotten;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ RF;24;Västerbotten;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 RF;24;Västerbotten;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 RF;24;Västerbotten;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 RF;24;Västerbotten;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+RF;24;Västerbotten;Upprorsdemokraterna; ;1630;;
 RF;24;Västerbotten;Valsamverkanspartiet; ;1526;;
 RF;24;Västerbotten;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+RF;24;Västerbotten;Volt Sverige;Volt;1610;;
 RF;24;Västerbotten;Vänsterpartiet;V;5;13.51549999717308;https://www.vansterpartiet.se/
 RF;24;Västerbotten;Yggdrasil; ;1454;;
 RF;24;Västerbotten;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

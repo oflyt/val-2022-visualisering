@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;331;Heby;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;331;Heby;ANARKISTERNA; ;1628;;
 KF;331;Heby;ANDOPARTIET; ;1602;;
 KF;331;Heby;Arbetarepartiet-Socialdemokraterna;S;2;28.725988076838156;https://www.socialdemokraterna.se/
 KF;331;Heby;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;331;Heby;Bjornpartiet; ;1629;;
 KF;331;Heby;Centerpartiet;C;4;23.96776330315743;https://www.centerpartiet.se/
 KF;331;Heby;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;331;Heby;Det minst dåliga partiet; ;1622;;
 KF;331;Heby;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;331;Heby;Drivkraft; ;1621;;
 KF;331;Heby;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;331;Heby;Enad Politik; ;1589;;
 KF;331;Heby;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;331;Heby;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;331;Heby;Enskild person/Riksdagen val; ;1614;;
+KF;331;Heby;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;331;Heby;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;331;Heby;EUSEC; ;1534;;
+KF;331;Heby;FAMILJENS FRIHET; ;1606;;
+KF;331;Heby;Fattigmans parti; ;1618;;
 KF;331;Heby;Feministiskt initiativ;FI;532;0.29807904614705233;https://feministisktinitiativ.se/
+KF;331;Heby;FN Parti art.27; ;1631;;
 KF;331;Heby;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;331;Heby;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;331;Heby;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;331;Heby;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;331;Heby;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;331;Heby;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;331;Heby;Humanistisk demokrati (HD);HD;1480;;
+KF;331;Heby;Invandrarpartiet; ;1624;;
 KF;331;Heby;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;331;Heby;Kalle ankapartiet; ;1579;;
 KF;331;Heby;Kapitalism med vänligt ansikte; ;1495;;
 KF;331;Heby;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;331;Heby;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;331;Heby;Kristdemokraterna;KD;68;5.9284610289247075;https://kristdemokraterna.se/
-KF;331;Heby;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;331;Heby;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;331;Heby;KSP; ;1612;;
 KF;331;Heby;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;331;Heby;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;331;Heby;Liberalerna (tidigare Folkpartiet);L;3;3.5990284831088544;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;331;Heby;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.se
 KF;331;Heby;Miljöpartiet de gröna;MP;55;3.0028703908147496;https://www.mp.se/
 KF;331;Heby;Min röst; ;1437;;
 KF;331;Heby;MITT SVERIGE; ;1591;;
+KF;331;Heby;MoD; ;1568;;https://partietmod.se/
 KF;331;Heby;Moderaterna;M;1;10.256127180393023;https://moderaterna.se/
 KF;331;Heby;Monisterna; ;1502;;
 KF;331;Heby;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;331;Heby;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;331;Heby;NaturFilosoferna; ;1460;;
+KF;331;Heby;Naturistpartiet; ;1627;;
+KF;331;Heby;Neoteknokraterna; ;1613;;
 KF;331;Heby;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;331;Heby;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;331;Heby;Nu får det fan vara nog; ;1623;;
+KF;331;Heby;Ny Demokrati; ;1596;;
+KF;331;Heby;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;331;Heby;Nya Frihetspartiet; ;1443;;
 KF;331;Heby;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;331;Heby;OK; ;1478;;
 KF;331;Heby;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;331;Heby;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;331;Heby;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;331;Heby;Partiet Frihet; ;1599;;
+KF;331;Heby;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;331;Heby;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;331;Heby;Pax; ;1491;;https://www.paxpartiet.se/
 KF;331;Heby;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;331;Heby;Politiskt Skifte; ;1617;;
 KF;331;Heby;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;331;Heby;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;331;Heby;Reformpartiet; ;1616;;
 KF;331;Heby;Rikspolitiska partiet; ;1496;;
-KF;331;Heby;SKP; ;1586;;https://skp.se
+KF;331;Heby;SKP;Skp;1586;;https://skp.se
 KF;331;Heby;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;331;Heby;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;331;Heby;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;331;Heby;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;331;Heby;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;331;Heby;Svensk Jobbdemokrati; ;1603;;
 KF;331;Heby;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;331;Heby;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;331;Heby;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;331;Heby;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;331;Heby;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;331;Heby;Tillsammans - partiet för hela Heby kommun;TILL;1566;;https://www.facebook.com/TillsammansHeby
 KF;331;Heby;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;331;Heby;Upprorsdemokraterna; ;1630;;
 KF;331;Heby;Valsamverkanspartiet; ;1526;;
 KF;331;Heby;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;331;Heby;Volt Sverige;Volt;1610;;
 KF;331;Heby;Vänsterpartiet;V;5;5.707661735482446;https://www.vansterpartiet.se/
 KF;331;Heby;Yggdrasil; ;1454;;
 KF;331;Heby;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

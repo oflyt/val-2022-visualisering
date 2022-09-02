@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2062;Mora;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2062;Mora;ANARKISTERNA; ;1628;;
 KF;2062;Mora;ANDOPARTIET; ;1602;;
 KF;2062;Mora;Arbetarepartiet-Socialdemokraterna;S;2;23.203933367579072;https://www.socialdemokraterna.se/
 KF;2062;Mora;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2062;Mora;Bjornpartiet; ;1629;;
 KF;2062;Mora;Centerpartiet;C;4;29.155353342628604;https://www.centerpartiet.se/
 KF;2062;Mora;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2062;Mora;Det minst dåliga partiet; ;1622;;
 KF;2062;Mora;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2062;Mora;Drivkraft; ;1621;;
 KF;2062;Mora;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2062;Mora;Enad Politik; ;1589;;
 KF;2062;Mora;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2062;Mora;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2062;Mora;Enskild person/Riksdagen val; ;1614;;
+KF;2062;Mora;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2062;Mora;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2062;Mora;EUSEC; ;1534;;
+KF;2062;Mora;FAMILJENS FRIHET; ;1606;;
+KF;2062;Mora;Fattigmans parti; ;1618;;
 KF;2062;Mora;Feministiskt initiativ;FI;532;0.1247523299332208;https://feministisktinitiativ.se/
+KF;2062;Mora;FN Parti art.27; ;1631;;
 KF;2062;Mora;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2062;Mora;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;2062;Mora;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;2062;Mora;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2062;Mora;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2062;Mora;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2062;Mora;Humanistisk demokrati (HD);HD;1480;;
+KF;2062;Mora;Invandrarpartiet; ;1624;;
 KF;2062;Mora;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2062;Mora;Kalle ankapartiet; ;1579;;
 KF;2062;Mora;Kapitalism med vänligt ansikte; ;1495;;
 KF;2062;Mora;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;2062;Mora;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2062;Mora;Kristdemokraterna;KD;68;4.61583620752917;https://kristdemokraterna.se/
-KF;2062;Mora;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2062;Mora;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2062;Mora;KSP; ;1612;;
 KF;2062;Mora;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2062;Mora;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;2062;Mora;Liberalerna (tidigare Folkpartiet);L;3;1.8419314596022602;https://www.liberalerna.se/
@@ -39,32 +51,41 @@ KF;2062;Mora;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.s
 KF;2062;Mora;Miljöpartiet de gröna;MP;55;2.2528803111469875;https://www.mp.se/
 KF;2062;Mora;Min röst; ;1437;;
 KF;2062;Mora;MITT SVERIGE; ;1591;;
+KF;2062;Mora;MoD; ;1568;;https://partietmod.se/
 KF;2062;Mora;Moderaterna;M;1;9.371101489689588;https://moderaterna.se/
 KF;2062;Mora;Monisterna; ;1502;;
 KF;2062;Mora;Morapartiet;MOP;197;15.696778454538784;http://morapartiet1.3dgweb.se/sv/hem.htm
 KF;2062;Mora;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2062;Mora;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2062;Mora;NaturFilosoferna; ;1460;;
+KF;2062;Mora;Naturistpartiet; ;1627;;
+KF;2062;Mora;Neoteknokraterna; ;1613;;
 KF;2062;Mora;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2062;Mora;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2062;Mora;Nu får det fan vara nog; ;1623;;
+KF;2062;Mora;Ny Demokrati; ;1596;;
+KF;2062;Mora;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2062;Mora;Nya Frihetspartiet; ;1443;;
 KF;2062;Mora;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;2062;Mora;OK; ;1478;;
 KF;2062;Mora;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2062;Mora;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2062;Mora;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2062;Mora;Partiet Frihet; ;1599;;
+KF;2062;Mora;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2062;Mora;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2062;Mora;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2062;Mora;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2062;Mora;Politiskt Skifte; ;1617;;
 KF;2062;Mora;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2062;Mora;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2062;Mora;Reformpartiet; ;1616;;
 KF;2062;Mora;Rikspolitiska partiet; ;1496;;
-KF;2062;Mora;SKP; ;1586;;https://skp.se
+KF;2062;Mora;SKP;Skp;1586;;https://skp.se
 KF;2062;Mora;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2062;Mora;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2062;Mora;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2062;Mora;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2062;Mora;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2062;Mora;Svensk Jobbdemokrati; ;1603;;
 KF;2062;Mora;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2062;Mora;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2062;Mora;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;2062;Mora;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2062;Mora;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2062;Mora;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2062;Mora;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2062;Mora;Upprorsdemokraterna; ;1630;;
 KF;2062;Mora;Valsamverkanspartiet; ;1526;;
 KF;2062;Mora;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2062;Mora;Volt Sverige;Volt;1610;;
 KF;2062;Mora;Vänsterpartiet;V;5;4.799295516254495;https://www.vansterpartiet.se/
 KF;2062;Mora;Yggdrasil; ;1454;;
 KF;2062;Mora;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

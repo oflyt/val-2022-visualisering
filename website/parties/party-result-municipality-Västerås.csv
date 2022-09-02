@@ -1,18 +1,28 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1980;Västerås;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1980;Västerås;ANARKISTERNA; ;1628;;
 KF;1980;Västerås;ANDOPARTIET; ;1602;;
 KF;1980;Västerås;Arbetarepartiet-Socialdemokraterna;S;2;28.688142648566366;https://www.socialdemokraterna.se/
 KF;1980;Västerås;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
 KF;1980;Västerås;Betygsdemokraterna; ;1469;;
+KF;1980;Västerås;Bjornpartiet; ;1629;;
 KF;1980;Västerås;Centerpartiet;C;4;6.15078748718586;https://www.centerpartiet.se/
 KF;1980;Västerås;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1980;Västerås;Det minst dåliga partiet; ;1622;;
 KF;1980;Västerås;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1980;Västerås;Drivkraft; ;1621;;
 KF;1980;Västerås;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1980;Västerås;Enad Politik; ;1589;;
 KF;1980;Västerås;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1980;Västerås;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1980;Västerås;Enskild person/Riksdagen val; ;1614;;
+KF;1980;Västerås;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1980;Västerås;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1980;Västerås;EUSEC; ;1534;;
+KF;1980;Västerås;FAMILJENS FRIHET; ;1606;;
+KF;1980;Västerås;Fattigmans parti; ;1618;;
 KF;1980;Västerås;Feministiskt initiativ;FI;532;0.5011752767336626;https://feministisktinitiativ.se/
+KF;1980;Västerås;FN Parti art.27; ;1631;;
 KF;1980;Västerås;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1980;Västerås;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1980;Västerås;Fredspartiet; ;1484;;
@@ -24,13 +34,15 @@ KF;1980;Västerås;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1980;Västerås;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1980;Västerås;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1980;Västerås;Humanistisk demokrati (HD);HD;1480;;
+KF;1980;Västerås;Invandrarpartiet; ;1624;;
 KF;1980;Västerås;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1980;Västerås;Kalle ankapartiet; ;1579;;
 KF;1980;Västerås;Kapitalism med vänligt ansikte; ;1495;;
 KF;1980;Västerås;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1980;Västerås;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1980;Västerås;Kristdemokraterna;KD;68;5.0562786700216416;https://kristdemokraterna.se/
-KF;1980;Västerås;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1980;Västerås;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1980;Västerås;KSP; ;1612;;
 KF;1980;Västerås;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1980;Västerås;Landsbygdspartiet Oberoende;LPo;1011;0.06730659708200015;https://landsbygdspartiet.org/
 KF;1980;Västerås;Liberalerna (tidigare Folkpartiet);L;3;11.063133588062916;https://www.liberalerna.se/
@@ -40,32 +52,41 @@ KF;1980;Västerås;Medborgerlig Samling;MED;1296;0.22366499953403127;https://www
 KF;1980;Västerås;Miljöpartiet de gröna;MP;55;3.463701034450623;https://www.mp.se/
 KF;1980;Västerås;Min röst; ;1437;;
 KF;1980;Västerås;MITT SVERIGE; ;1591;;
+KF;1980;Västerås;MoD; ;1568;;https://partietmod.se/
 KF;1980;Västerås;Moderaterna;M;1;23.41234092344651;https://moderaterna.se/
 KF;1980;Västerås;Monisterna; ;1502;;
 KF;1980;Västerås;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1980;Västerås;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1980;Västerås;NaturFilosoferna; ;1460;;
+KF;1980;Västerås;Naturistpartiet; ;1627;;
+KF;1980;Västerås;Neoteknokraterna; ;1613;;
 KF;1980;Västerås;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1980;Västerås;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1980;Västerås;Nu får det fan vara nog; ;1623;;
+KF;1980;Västerås;Ny Demokrati; ;1596;;
+KF;1980;Västerås;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1980;Västerås;Nya Frihetspartiet; ;1443;;
 KF;1980;Västerås;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1980;Västerås;OK; ;1478;;
 KF;1980;Västerås;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1980;Västerås;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
+KF;1980;Västerås;Partiet Frihet; ;1599;;
 KF;1980;Västerås;Partiet för Systemet på söndagar; ;1576;;
-KF;1980;Västerås;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1980;Västerås;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1980;Västerås;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1980;Västerås;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1980;Västerås;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1980;Västerås;Politiskt Skifte; ;1617;;
 KF;1980;Västerås;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1980;Västerås;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1980;Västerås;Reformpartiet; ;1616;;
 KF;1980;Västerås;Rikspolitiska partiet; ;1496;;
-KF;1980;Västerås;SKP; ;1586;;https://skp.se
+KF;1980;Västerås;SKP;Skp;1586;;https://skp.se
 KF;1980;Västerås;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1980;Västerås;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1980;Västerås;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1980;Västerås;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1980;Västerås;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1980;Västerås;Svensk Jobbdemokrati; ;1603;;
 KF;1980;Västerås;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1980;Västerås;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1980;Västerås;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -74,8 +95,10 @@ KF;1980;Västerås;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1980;Västerås;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1980;Västerås;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1980;Västerås;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1980;Västerås;Upprorsdemokraterna; ;1630;;
 KF;1980;Västerås;Valsamverkanspartiet; ;1526;;
 KF;1980;Västerås;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1980;Västerås;Volt Sverige;Volt;1610;;
 KF;1980;Västerås;Vänsterpartiet;V;5;7.874871858594017;https://www.vansterpartiet.se/
 KF;1980;Västerås;Yggdrasil; ;1454;;
 KF;1980;Västerås;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

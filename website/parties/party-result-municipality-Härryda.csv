@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1401;Härryda;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1401;Härryda;ANARKISTERNA; ;1628;;
 KF;1401;Härryda;ANDOPARTIET; ;1602;;
 KF;1401;Härryda;Arbetarepartiet-Socialdemokraterna;S;2;19.355238173862794;https://www.socialdemokraterna.se/
 KF;1401;Härryda;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1401;Härryda;Bjornpartiet; ;1629;;
 KF;1401;Härryda;Centerpartiet;C;4;7.908858251465367;https://www.centerpartiet.se/
 KF;1401;Härryda;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1401;Härryda;Det minst dåliga partiet; ;1622;;
 KF;1401;Härryda;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1401;Härryda;Drivkraft; ;1621;;
 KF;1401;Härryda;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1401;Härryda;Enad Politik; ;1589;;
 KF;1401;Härryda;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1401;Härryda;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1401;Härryda;Enskild person/Riksdagen val; ;1614;;
+KF;1401;Härryda;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1401;Härryda;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1401;Härryda;EUSEC; ;1534;;
+KF;1401;Härryda;FAMILJENS FRIHET; ;1606;;
+KF;1401;Härryda;Fattigmans parti; ;1618;;
 KF;1401;Härryda;Feministiskt initiativ;FI;532;0.7347477916288285;https://feministisktinitiativ.se/
+KF;1401;Härryda;FN Parti art.27; ;1631;;
 KF;1401;Härryda;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1401;Härryda;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1401;Härryda;Fredspartiet; ;1484;;
@@ -24,6 +34,7 @@ KF;1401;Härryda;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1401;Härryda;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1401;Härryda;Humanistisk demokrati (HD);HD;1480;;
 KF;1401;Härryda;Härrydademokraterna; ;1473;;https://harrydademokratern.wixsite.com/harrydademokraterna
+KF;1401;Härryda;Invandrarpartiet; ;1624;;
 KF;1401;Härryda;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1401;Härryda;Kalle ankapartiet; ;1579;;
 KF;1401;Härryda;Kapitalism med vänligt ansikte; ;1495;;
@@ -31,7 +42,8 @@ KF;1401;Härryda;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapart
 KF;1401;Härryda;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1401;Härryda;Kommunpartiet;KomP;546;4.1277965821844305;http://www.kommunpartiet.org/
 KF;1401;Härryda;Kristdemokraterna;KD;68;3.805828448774044;https://kristdemokraterna.se/
-KF;1401;Härryda;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1401;Härryda;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1401;Härryda;KSP; ;1612;;
 KF;1401;Härryda;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1401;Härryda;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1401;Härryda;Liberalerna (tidigare Folkpartiet);L;3;8.305126723355073;https://www.liberalerna.se/
@@ -41,32 +53,41 @@ KF;1401;Härryda;Medborgerlig Samling;MED;1296;0.9906711797242631;https://www.me
 KF;1401;Härryda;Miljöpartiet de gröna;MP;55;6.922314868323289;https://www.mp.se/
 KF;1401;Härryda;Min röst; ;1437;;
 KF;1401;Härryda;MITT SVERIGE; ;1591;;
+KF;1401;Härryda;MoD; ;1568;;https://partietmod.se/
 KF;1401;Härryda;Moderaterna;M;1;23.805002889457608;https://moderaterna.se/
 KF;1401;Härryda;Monisterna; ;1502;;
 KF;1401;Härryda;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1401;Härryda;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1401;Härryda;NaturFilosoferna; ;1460;;
+KF;1401;Härryda;Naturistpartiet; ;1627;;
+KF;1401;Härryda;Neoteknokraterna; ;1613;;
 KF;1401;Härryda;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1401;Härryda;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1401;Härryda;Nu får det fan vara nog; ;1623;;
+KF;1401;Härryda;Ny Demokrati; ;1596;;
+KF;1401;Härryda;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1401;Härryda;Nya Frihetspartiet; ;1443;;
 KF;1401;Härryda;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1401;Härryda;OK; ;1478;;
 KF;1401;Härryda;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1401;Härryda;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1401;Härryda;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1401;Härryda;Partiet Frihet; ;1599;;
+KF;1401;Härryda;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1401;Härryda;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1401;Härryda;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1401;Härryda;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1401;Härryda;Politiskt Skifte; ;1617;;
 KF;1401;Härryda;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1401;Härryda;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1401;Härryda;Reformpartiet; ;1616;;
 KF;1401;Härryda;Rikspolitiska partiet; ;1496;;
-KF;1401;Härryda;SKP; ;1586;;https://skp.se
+KF;1401;Härryda;SKP;Skp;1586;;https://skp.se
 KF;1401;Härryda;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1401;Härryda;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1401;Härryda;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1401;Härryda;Sportpartiet;SPP;998;5.023528440518451;https://sv-se.facebook.com/sportpartiet
 KF;1401;Härryda;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1401;Härryda;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1401;Härryda;Svensk Jobbdemokrati; ;1603;;
 KF;1401;Härryda;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1401;Härryda;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1401;Härryda;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -75,8 +96,10 @@ KF;1401;Härryda;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1401;Härryda;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1401;Härryda;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1401;Härryda;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1401;Härryda;Upprorsdemokraterna; ;1630;;
 KF;1401;Härryda;Valsamverkanspartiet; ;1526;;
 KF;1401;Härryda;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1401;Härryda;Volt Sverige;Volt;1610;;
 KF;1401;Härryda;Vänsterpartiet;V;5;4.6024931891356395;https://www.vansterpartiet.se/
 KF;1401;Härryda;Yggdrasil; ;1454;;
 KF;1401;Härryda;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1495;Skara;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1495;Skara;ANARKISTERNA; ;1628;;
 KF;1495;Skara;ANDOPARTIET; ;1602;;
 KF;1495;Skara;Arbetarepartiet-Socialdemokraterna;S;2;29.82498982498982;https://www.socialdemokraterna.se/
 KF;1495;Skara;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1495;Skara;Bjornpartiet; ;1629;;
 KF;1495;Skara;Centerpartiet;C;4;8.831908831908832;https://www.centerpartiet.se/
 KF;1495;Skara;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1495;Skara;Det minst dåliga partiet; ;1622;;
 KF;1495;Skara;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1495;Skara;Drivkraft; ;1621;;
 KF;1495;Skara;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1495;Skara;Enad Politik; ;1589;;
 KF;1495;Skara;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1495;Skara;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1495;Skara;Enskild person/Riksdagen val; ;1614;;
+KF;1495;Skara;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1495;Skara;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1495;Skara;EUSEC; ;1534;;
+KF;1495;Skara;FAMILJENS FRIHET; ;1606;;
+KF;1495;Skara;Fattigmans parti; ;1618;;
 KF;1495;Skara;Feministiskt initiativ;FI;532;0.21978021978021978;https://feministisktinitiativ.se/
+KF;1495;Skara;FN Parti art.27; ;1631;;
 KF;1495;Skara;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1495;Skara;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1495;Skara;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;1495;Skara;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1495;Skara;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1495;Skara;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1495;Skara;Humanistisk demokrati (HD);HD;1480;;
+KF;1495;Skara;Invandrarpartiet; ;1624;;
 KF;1495;Skara;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1495;Skara;Kalle ankapartiet; ;1579;;
 KF;1495;Skara;Kapitalism med vänligt ansikte; ;1495;;
 KF;1495;Skara;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1495;Skara;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1495;Skara;Kristdemokraterna;KD;68;5.25030525030525;https://kristdemokraterna.se/
-KF;1495;Skara;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1495;Skara;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1495;Skara;KSP; ;1612;;
 KF;1495;Skara;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1495;Skara;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1495;Skara;Liberalerna (tidigare Folkpartiet);L;3;2.9629629629629632;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;1495;Skara;Medborgerlig Samling;MED;1296;0.21164021164021166;https://www.medb
 KF;1495;Skara;Miljöpartiet de gröna;MP;55;3.4513634513634512;https://www.mp.se/
 KF;1495;Skara;Min röst; ;1437;;
 KF;1495;Skara;MITT SVERIGE; ;1591;;
+KF;1495;Skara;MoD; ;1568;;https://partietmod.se/
 KF;1495;Skara;Moderaterna;M;1;28.09116809116809;https://moderaterna.se/
 KF;1495;Skara;Monisterna; ;1502;;
 KF;1495;Skara;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1495;Skara;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1495;Skara;NaturFilosoferna; ;1460;;
+KF;1495;Skara;Naturistpartiet; ;1627;;
+KF;1495;Skara;Neoteknokraterna; ;1613;;
 KF;1495;Skara;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1495;Skara;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1495;Skara;Nu får det fan vara nog; ;1623;;
+KF;1495;Skara;Ny Demokrati; ;1596;;
+KF;1495;Skara;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1495;Skara;Nya Frihetspartiet; ;1443;;
 KF;1495;Skara;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1495;Skara;OK; ;1478;;
 KF;1495;Skara;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1495;Skara;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1495;Skara;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1495;Skara;Partiet Frihet; ;1599;;
+KF;1495;Skara;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1495;Skara;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1495;Skara;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1495;Skara;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1495;Skara;Politiskt Skifte; ;1617;;
 KF;1495;Skara;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1495;Skara;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1495;Skara;Reformpartiet; ;1616;;
 KF;1495;Skara;Rikspolitiska partiet; ;1496;;
-KF;1495;Skara;SKP; ;1586;;https://skp.se
+KF;1495;Skara;SKP;Skp;1586;;https://skp.se
 KF;1495;Skara;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1495;Skara;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1495;Skara;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1495;Skara;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1495;Skara;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1495;Skara;Svensk Jobbdemokrati; ;1603;;
 KF;1495;Skara;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1495;Skara;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1495;Skara;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;1495;Skara;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1495;Skara;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1495;Skara;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1495;Skara;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1495;Skara;Upprorsdemokraterna; ;1630;;
 KF;1495;Skara;Valsamverkanspartiet; ;1526;;
 KF;1495;Skara;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1495;Skara;Volt Sverige;Volt;1610;;
 KF;1495;Skara;Vänsterpartiet;V;5;5.9259259259259265;https://www.vansterpartiet.se/
 KF;1495;Skara;Yggdrasil; ;1454;;
 KF;1495;Skara;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

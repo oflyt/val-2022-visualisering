@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;761;Lessebo;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;761;Lessebo;ANARKISTERNA; ;1628;;
 KF;761;Lessebo;ANDOPARTIET; ;1602;;
 KF;761;Lessebo;Arbetarepartiet-Socialdemokraterna;S;2;41.660363086232984;https://www.socialdemokraterna.se/
 KF;761;Lessebo;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;761;Lessebo;Bjornpartiet; ;1629;;
 KF;761;Lessebo;Centerpartiet;C;4;13.767019667170954;https://www.centerpartiet.se/
 KF;761;Lessebo;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;761;Lessebo;Det minst dåliga partiet; ;1622;;
 KF;761;Lessebo;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;761;Lessebo;Drivkraft; ;1621;;
 KF;761;Lessebo;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;761;Lessebo;Enad Politik; ;1589;;
 KF;761;Lessebo;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;761;Lessebo;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;761;Lessebo;Enskild person/Riksdagen val; ;1614;;
+KF;761;Lessebo;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;761;Lessebo;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;761;Lessebo;EUSEC; ;1534;;
+KF;761;Lessebo;FAMILJENS FRIHET; ;1606;;
+KF;761;Lessebo;Fattigmans parti; ;1618;;
 KF;761;Lessebo;Feministiskt initiativ;FI;532;0.41603630862329805;https://feministisktinitiativ.se/
+KF;761;Lessebo;FN Parti art.27; ;1631;;
 KF;761;Lessebo;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;761;Lessebo;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;761;Lessebo;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;761;Lessebo;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;761;Lessebo;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;761;Lessebo;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;761;Lessebo;Humanistisk demokrati (HD);HD;1480;;
+KF;761;Lessebo;Invandrarpartiet; ;1624;;
 KF;761;Lessebo;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;761;Lessebo;Kalle ankapartiet; ;1579;;
 KF;761;Lessebo;Kapitalism med vänligt ansikte; ;1495;;
 KF;761;Lessebo;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;761;Lessebo;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;761;Lessebo;Kristdemokraterna;KD;68;3.517397881996974;https://kristdemokraterna.se/
-KF;761;Lessebo;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;761;Lessebo;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;761;Lessebo;KSP; ;1612;;
 KF;761;Lessebo;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;761;Lessebo;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;761;Lessebo;Liberalerna (tidigare Folkpartiet);L;3;1.13464447806354;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;761;Lessebo;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling
 KF;761;Lessebo;Miljöpartiet de gröna;MP;55;2.8933434190620275;https://www.mp.se/
 KF;761;Lessebo;Min röst; ;1437;;
 KF;761;Lessebo;MITT SVERIGE; ;1591;;
+KF;761;Lessebo;MoD; ;1568;;https://partietmod.se/
 KF;761;Lessebo;Moderaterna;M;1;15.563540090771557;https://moderaterna.se/
 KF;761;Lessebo;Monisterna; ;1502;;
 KF;761;Lessebo;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;761;Lessebo;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;761;Lessebo;NaturFilosoferna; ;1460;;
+KF;761;Lessebo;Naturistpartiet; ;1627;;
+KF;761;Lessebo;Neoteknokraterna; ;1613;;
 KF;761;Lessebo;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;761;Lessebo;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;761;Lessebo;Nu får det fan vara nog; ;1623;;
+KF;761;Lessebo;Ny Demokrati; ;1596;;
+KF;761;Lessebo;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;761;Lessebo;Nya Frihetspartiet; ;1443;;
 KF;761;Lessebo;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;761;Lessebo;OK; ;1478;;
 KF;761;Lessebo;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;761;Lessebo;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;761;Lessebo;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;761;Lessebo;Partiet Frihet; ;1599;;
+KF;761;Lessebo;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;761;Lessebo;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;761;Lessebo;Pax; ;1491;;https://www.paxpartiet.se/
 KF;761;Lessebo;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;761;Lessebo;Politiskt Skifte; ;1617;;
 KF;761;Lessebo;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;761;Lessebo;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;761;Lessebo;Reformpartiet; ;1616;;
 KF;761;Lessebo;Rikspolitiska partiet; ;1496;;
-KF;761;Lessebo;SKP; ;1586;;https://skp.se
+KF;761;Lessebo;SKP;Skp;1586;;https://skp.se
 KF;761;Lessebo;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;761;Lessebo;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;761;Lessebo;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;761;Lessebo;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;761;Lessebo;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;761;Lessebo;Svensk Jobbdemokrati; ;1603;;
 KF;761;Lessebo;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;761;Lessebo;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;761;Lessebo;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;761;Lessebo;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;761;Lessebo;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;761;Lessebo;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;761;Lessebo;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;761;Lessebo;Upprorsdemokraterna; ;1630;;
 KF;761;Lessebo;Valsamverkanspartiet; ;1526;;
 KF;761;Lessebo;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;761;Lessebo;Volt Sverige;Volt;1610;;
 KF;761;Lessebo;Vänsterpartiet;V;5;6.5998487140695925;https://www.vansterpartiet.se/
 KF;761;Lessebo;Yggdrasil; ;1454;;
 KF;761;Lessebo;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

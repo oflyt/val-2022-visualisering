@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;561;Åtvidaberg;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;561;Åtvidaberg;ANARKISTERNA; ;1628;;
 KF;561;Åtvidaberg;ANDOPARTIET; ;1602;;
 KF;561;Åtvidaberg;Arbetarepartiet-Socialdemokraterna;S;2;32.441302701338046;https://www.socialdemokraterna.se/
 KF;561;Åtvidaberg;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;561;Åtvidaberg;Bjornpartiet; ;1629;;
 KF;561;Åtvidaberg;Centerpartiet;C;4;11.827821257258268;https://www.centerpartiet.se/
 KF;561;Åtvidaberg;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;561;Åtvidaberg;Det minst dåliga partiet; ;1622;;
 KF;561;Åtvidaberg;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;561;Åtvidaberg;Drivkraft; ;1621;;
 KF;561;Åtvidaberg;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;561;Åtvidaberg;Enad Politik; ;1589;;
 KF;561;Åtvidaberg;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;561;Åtvidaberg;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;561;Åtvidaberg;Enskild person/Riksdagen val; ;1614;;
+KF;561;Åtvidaberg;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;561;Åtvidaberg;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;561;Åtvidaberg;EUSEC; ;1534;;
+KF;561;Åtvidaberg;FAMILJENS FRIHET; ;1606;;
+KF;561;Åtvidaberg;Fattigmans parti; ;1618;;
 KF;561;Åtvidaberg;Feministiskt initiativ;FI;532;0.2650845746023731;https://feministisktinitiativ.se/
+KF;561;Åtvidaberg;FN Parti art.27; ;1631;;
 KF;561;Åtvidaberg;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;561;Åtvidaberg;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;561;Åtvidaberg;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;561;Åtvidaberg;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;561;Åtvidaberg;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;561;Åtvidaberg;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;561;Åtvidaberg;Humanistisk demokrati (HD);HD;1480;;
+KF;561;Åtvidaberg;Invandrarpartiet; ;1624;;
 KF;561;Åtvidaberg;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;561;Åtvidaberg;Kalle ankapartiet; ;1579;;
 KF;561;Åtvidaberg;Kapitalism med vänligt ansikte; ;1495;;
 KF;561;Åtvidaberg;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;561;Åtvidaberg;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;561;Åtvidaberg;Kristdemokraterna;KD;68;2.8528149457207777;https://kristdemokraterna.se/
-KF;561;Åtvidaberg;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;561;Åtvidaberg;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;561;Åtvidaberg;KSP; ;1612;;
 KF;561;Åtvidaberg;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;561;Åtvidaberg;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;561;Åtvidaberg;Liberalerna (tidigare Folkpartiet);L;3;5.213329967180004;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;561;Åtvidaberg;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsam
 KF;561;Åtvidaberg;Miljöpartiet de gröna;MP;55;2.120676596818985;https://www.mp.se/
 KF;561;Åtvidaberg;Min röst; ;1437;;
 KF;561;Åtvidaberg;MITT SVERIGE; ;1591;;
+KF;561;Åtvidaberg;MoD; ;1568;;https://partietmod.se/
 KF;561;Åtvidaberg;Moderaterna;M;1;21.09315829336026;https://moderaterna.se/
 KF;561;Åtvidaberg;Monisterna; ;1502;;
 KF;561;Åtvidaberg;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;561;Åtvidaberg;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;561;Åtvidaberg;NaturFilosoferna; ;1460;;
+KF;561;Åtvidaberg;Naturistpartiet; ;1627;;
+KF;561;Åtvidaberg;Neoteknokraterna; ;1613;;
 KF;561;Åtvidaberg;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;561;Åtvidaberg;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;561;Åtvidaberg;Nu får det fan vara nog; ;1623;;
+KF;561;Åtvidaberg;Ny Demokrati; ;1596;;
+KF;561;Åtvidaberg;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;561;Åtvidaberg;Nya Frihetspartiet; ;1443;;
 KF;561;Åtvidaberg;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;561;Åtvidaberg;OK; ;1478;;
 KF;561;Åtvidaberg;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;561;Åtvidaberg;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;561;Åtvidaberg;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;561;Åtvidaberg;Partiet Frihet; ;1599;;
+KF;561;Åtvidaberg;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;561;Åtvidaberg;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;561;Åtvidaberg;Pax; ;1491;;https://www.paxpartiet.se/
 KF;561;Åtvidaberg;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;561;Åtvidaberg;Politiskt Skifte; ;1617;;
 KF;561;Åtvidaberg;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;561;Åtvidaberg;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;561;Åtvidaberg;Reformpartiet; ;1616;;
 KF;561;Åtvidaberg;Rikspolitiska partiet; ;1496;;
-KF;561;Åtvidaberg;SKP; ;1586;;https://skp.se
+KF;561;Åtvidaberg;SKP;Skp;1586;;https://skp.se
 KF;561;Åtvidaberg;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;561;Åtvidaberg;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;561;Åtvidaberg;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;561;Åtvidaberg;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;561;Åtvidaberg;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;561;Åtvidaberg;Svensk Jobbdemokrati; ;1603;;
 KF;561;Åtvidaberg;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;561;Åtvidaberg;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;561;Åtvidaberg;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;561;Åtvidaberg;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;561;Åtvidaberg;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;561;Åtvidaberg;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;561;Åtvidaberg;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;561;Åtvidaberg;Upprorsdemokraterna; ;1630;;
 KF;561;Åtvidaberg;Valsamverkanspartiet; ;1526;;
 KF;561;Åtvidaberg;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;561;Åtvidaberg;Volt Sverige;Volt;1610;;
 KF;561;Åtvidaberg;Vänsterpartiet;V;5;5.099722292350417;https://www.vansterpartiet.se/
 KF;561;Åtvidaberg;Yggdrasil; ;1454;;
 KF;561;Åtvidaberg;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

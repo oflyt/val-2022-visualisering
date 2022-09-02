@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1488;Trollhättan;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1488;Trollhättan;ANARKISTERNA; ;1628;;
 KF;1488;Trollhättan;ANDOPARTIET; ;1602;;
 KF;1488;Trollhättan;Arbetarepartiet-Socialdemokraterna;S;2;37.90854934793109;https://www.socialdemokraterna.se/
 KF;1488;Trollhättan;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1488;Trollhättan;Bjornpartiet; ;1629;;
 KF;1488;Trollhättan;Centerpartiet;C;4;5.916921590726131;https://www.centerpartiet.se/
 KF;1488;Trollhättan;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1488;Trollhättan;Det minst dåliga partiet; ;1622;;
 KF;1488;Trollhättan;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1488;Trollhättan;Drivkraft; ;1621;;
 KF;1488;Trollhättan;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1488;Trollhättan;Enad Politik; ;1589;;
 KF;1488;Trollhättan;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1488;Trollhättan;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1488;Trollhättan;Enskild person/Riksdagen val; ;1614;;
+KF;1488;Trollhättan;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1488;Trollhättan;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1488;Trollhättan;EUSEC; ;1534;;
+KF;1488;Trollhättan;FAMILJENS FRIHET; ;1606;;
+KF;1488;Trollhättan;Fattigmans parti; ;1618;;
 KF;1488;Trollhättan;Feministiskt initiativ;FI;532;0.22808994794182363;https://feministisktinitiativ.se/
+KF;1488;Trollhättan;FN Parti art.27; ;1631;;
 KF;1488;Trollhättan;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1488;Trollhättan;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1488;Trollhättan;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;1488;Trollhättan;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1488;Trollhättan;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1488;Trollhättan;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1488;Trollhättan;Humanistisk demokrati (HD);HD;1480;;
+KF;1488;Trollhättan;Invandrarpartiet; ;1624;;
 KF;1488;Trollhättan;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1488;Trollhättan;Kalle ankapartiet; ;1579;;
 KF;1488;Trollhättan;Kapitalism med vänligt ansikte; ;1495;;
 KF;1488;Trollhättan;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1488;Trollhättan;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1488;Trollhättan;Kristdemokraterna;KD;68;3.3891482853002737;https://kristdemokraterna.se/
-KF;1488;Trollhättan;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1488;Trollhättan;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1488;Trollhättan;KSP; ;1612;;
 KF;1488;Trollhättan;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1488;Trollhättan;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1488;Trollhättan;Liberalerna (tidigare Folkpartiet);L;3;5.095797778135566;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;1488;Trollhättan;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligs
 KF;1488;Trollhättan;Miljöpartiet de gröna;MP;55;3.931197338056137;https://www.mp.se/
 KF;1488;Trollhättan;Min röst; ;1437;;
 KF;1488;Trollhättan;MITT SVERIGE; ;1591;;
+KF;1488;Trollhättan;MoD; ;1568;;https://partietmod.se/
 KF;1488;Trollhättan;Moderaterna;M;1;20.57639671550475;https://moderaterna.se/
 KF;1488;Trollhättan;Monisterna; ;1502;;
 KF;1488;Trollhättan;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1488;Trollhättan;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1488;Trollhättan;NaturFilosoferna; ;1460;;
+KF;1488;Trollhättan;Naturistpartiet; ;1627;;
+KF;1488;Trollhättan;Neoteknokraterna; ;1613;;
 KF;1488;Trollhättan;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1488;Trollhättan;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1488;Trollhättan;Nu får det fan vara nog; ;1623;;
+KF;1488;Trollhättan;Ny Demokrati; ;1596;;
+KF;1488;Trollhättan;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1488;Trollhättan;Nya Frihetspartiet; ;1443;;
 KF;1488;Trollhättan;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1488;Trollhättan;OK; ;1478;;
 KF;1488;Trollhättan;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1488;Trollhättan;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1488;Trollhättan;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1488;Trollhättan;Partiet Frihet; ;1599;;
+KF;1488;Trollhättan;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1488;Trollhättan;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1488;Trollhättan;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1488;Trollhättan;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1488;Trollhättan;Politiskt Skifte; ;1617;;
 KF;1488;Trollhättan;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1488;Trollhättan;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1488;Trollhättan;Reformpartiet; ;1616;;
 KF;1488;Trollhättan;Rikspolitiska partiet; ;1496;;
-KF;1488;Trollhättan;SKP; ;1586;;https://skp.se
+KF;1488;Trollhättan;SKP;Skp;1586;;https://skp.se
 KF;1488;Trollhättan;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1488;Trollhättan;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1488;Trollhättan;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1488;Trollhättan;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1488;Trollhättan;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1488;Trollhättan;Svensk Jobbdemokrati; ;1603;;
 KF;1488;Trollhättan;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1488;Trollhättan;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1488;Trollhättan;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;1488;Trollhättan;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1488;Trollhättan;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1488;Trollhättan;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1488;Trollhättan;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1488;Trollhättan;Upprorsdemokraterna; ;1630;;
 KF;1488;Trollhättan;Valsamverkanspartiet; ;1526;;
 KF;1488;Trollhättan;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1488;Trollhättan;Volt Sverige;Volt;1610;;
 KF;1488;Trollhättan;Vänsterpartiet;V;5;6.82659797134117;https://www.vansterpartiet.se/
 KF;1488;Trollhättan;Yggdrasil; ;1454;;
 KF;1488;Trollhättan;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

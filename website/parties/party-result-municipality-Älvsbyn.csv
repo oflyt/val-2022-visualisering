@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2560;Älvsbyn;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2560;Älvsbyn;ANARKISTERNA; ;1628;;
 KF;2560;Älvsbyn;ANDOPARTIET; ;1602;;
 KF;2560;Älvsbyn;Arbetarepartiet-Socialdemokraterna;S;2;39.55920806873366;https://www.socialdemokraterna.se/
 KF;2560;Älvsbyn;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2560;Älvsbyn;Bjornpartiet; ;1629;;
 KF;2560;Älvsbyn;Centerpartiet;C;4;18.696301830407172;https://www.centerpartiet.se/
 KF;2560;Älvsbyn;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2560;Älvsbyn;Det minst dåliga partiet; ;1622;;
 KF;2560;Älvsbyn;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2560;Älvsbyn;Drivkraft; ;1621;;
 KF;2560;Älvsbyn;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2560;Älvsbyn;Enad Politik; ;1589;;
 KF;2560;Älvsbyn;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2560;Älvsbyn;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2560;Älvsbyn;Enskild person/Riksdagen val; ;1614;;
+KF;2560;Älvsbyn;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2560;Älvsbyn;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2560;Älvsbyn;EUSEC; ;1534;;
+KF;2560;Älvsbyn;FAMILJENS FRIHET; ;1606;;
+KF;2560;Älvsbyn;Fattigmans parti; ;1618;;
 KF;2560;Älvsbyn;Feministiskt initiativ;FI;532;0.0747104968248039;https://feministisktinitiativ.se/
+KF;2560;Älvsbyn;FN Parti art.27; ;1631;;
 KF;2560;Älvsbyn;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2560;Älvsbyn;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;2560;Älvsbyn;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;2560;Älvsbyn;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2560;Älvsbyn;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2560;Älvsbyn;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2560;Älvsbyn;Humanistisk demokrati (HD);HD;1480;;
+KF;2560;Älvsbyn;Invandrarpartiet; ;1624;;
 KF;2560;Älvsbyn;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2560;Älvsbyn;Kalle ankapartiet; ;1579;;
 KF;2560;Älvsbyn;Kapitalism med vänligt ansikte; ;1495;;
 KF;2560;Älvsbyn;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;2560;Älvsbyn;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2560;Älvsbyn;Kristdemokraterna;KD;68;5.285767650354875;https://kristdemokraterna.se/
-KF;2560;Älvsbyn;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2560;Älvsbyn;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2560;Älvsbyn;KSP; ;1612;;
 KF;2560;Älvsbyn;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2560;Älvsbyn;Landsbygdspartiet Oberoende;LPo;1011;0.03735524841240195;https://landsbygdspartiet.org/
 KF;2560;Älvsbyn;Liberalerna (tidigare Folkpartiet);L;3;10.328726186029137;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;2560;Älvsbyn;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamli
 KF;2560;Älvsbyn;Miljöpartiet de gröna;MP;55;0.28016436309301457;https://www.mp.se/
 KF;2560;Älvsbyn;Min röst; ;1437;;
 KF;2560;Älvsbyn;MITT SVERIGE; ;1591;;
+KF;2560;Älvsbyn;MoD; ;1568;;https://partietmod.se/
 KF;2560;Älvsbyn;Moderaterna;M;1;1.4755323122898767;https://moderaterna.se/
 KF;2560;Älvsbyn;Monisterna; ;1502;;
 KF;2560;Älvsbyn;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2560;Älvsbyn;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2560;Älvsbyn;NaturFilosoferna; ;1460;;
+KF;2560;Älvsbyn;Naturistpartiet; ;1627;;
+KF;2560;Älvsbyn;Neoteknokraterna; ;1613;;
 KF;2560;Älvsbyn;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2560;Älvsbyn;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2560;Älvsbyn;Nu får det fan vara nog; ;1623;;
+KF;2560;Älvsbyn;Ny Demokrati; ;1596;;
+KF;2560;Älvsbyn;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2560;Älvsbyn;Nya Frihetspartiet; ;1443;;
 KF;2560;Älvsbyn;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;2560;Älvsbyn;OK; ;1478;;
 KF;2560;Älvsbyn;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2560;Älvsbyn;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2560;Älvsbyn;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2560;Älvsbyn;Partiet Frihet; ;1599;;
+KF;2560;Älvsbyn;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2560;Älvsbyn;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2560;Älvsbyn;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2560;Älvsbyn;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2560;Älvsbyn;Politiskt Skifte; ;1617;;
 KF;2560;Älvsbyn;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2560;Älvsbyn;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2560;Älvsbyn;Reformpartiet; ;1616;;
 KF;2560;Älvsbyn;Rikspolitiska partiet; ;1496;;
-KF;2560;Älvsbyn;SKP; ;1586;;https://skp.se
+KF;2560;Älvsbyn;SKP;Skp;1586;;https://skp.se
 KF;2560;Älvsbyn;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2560;Älvsbyn;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2560;Älvsbyn;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2560;Älvsbyn;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2560;Älvsbyn;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2560;Älvsbyn;Svensk Jobbdemokrati; ;1603;;
 KF;2560;Älvsbyn;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2560;Älvsbyn;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2560;Älvsbyn;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;2560;Älvsbyn;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2560;Älvsbyn;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2560;Älvsbyn;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2560;Älvsbyn;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2560;Älvsbyn;Upprorsdemokraterna; ;1630;;
 KF;2560;Älvsbyn;Valsamverkanspartiet; ;1526;;
 KF;2560;Älvsbyn;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2560;Älvsbyn;Volt Sverige;Volt;1610;;
 KF;2560;Älvsbyn;Vänsterpartiet;V;5;10.02988419872992;https://www.vansterpartiet.se/
 KF;2560;Älvsbyn;Yggdrasil; ;1454;;
 KF;2560;Älvsbyn;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

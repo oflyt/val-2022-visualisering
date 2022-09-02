@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2083;Hedemora;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2083;Hedemora;ANARKISTERNA; ;1628;;
 KF;2083;Hedemora;ANDOPARTIET; ;1602;;
 KF;2083;Hedemora;Arbetarepartiet-Socialdemokraterna;S;2;28.6969696969697;https://www.socialdemokraterna.se/
 KF;2083;Hedemora;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2083;Hedemora;Bjornpartiet; ;1629;;
 KF;2083;Hedemora;Centerpartiet;C;4;15.464646464646464;https://www.centerpartiet.se/
 KF;2083;Hedemora;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2083;Hedemora;Det minst dåliga partiet; ;1622;;
 KF;2083;Hedemora;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2083;Hedemora;Drivkraft; ;1621;;
 KF;2083;Hedemora;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2083;Hedemora;Enad Politik; ;1589;;
 KF;2083;Hedemora;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2083;Hedemora;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2083;Hedemora;Enskild person/Riksdagen val; ;1614;;
+KF;2083;Hedemora;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2083;Hedemora;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2083;Hedemora;EUSEC; ;1534;;
+KF;2083;Hedemora;FAMILJENS FRIHET; ;1606;;
+KF;2083;Hedemora;Fattigmans parti; ;1618;;
 KF;2083;Hedemora;Feministiskt initiativ;FI;532;0.1919191919191919;https://feministisktinitiativ.se/
+KF;2083;Hedemora;FN Parti art.27; ;1631;;
 KF;2083;Hedemora;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2083;Hedemora;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;2083;Hedemora;Fredspartiet; ;1484;;
@@ -23,6 +33,7 @@ KF;2083;Hedemora;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2083;Hedemora;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2083;Hedemora;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2083;Hedemora;Humanistisk demokrati (HD);HD;1480;;
+KF;2083;Hedemora;Invandrarpartiet; ;1624;;
 KF;2083;Hedemora;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2083;Hedemora;Kalle ankapartiet; ;1579;;
 KF;2083;Hedemora;Kapitalism med vänligt ansikte; ;1495;;
@@ -30,7 +41,8 @@ KF;2083;Hedemora;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapart
 KF;2083;Hedemora;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2083;Hedemora;Kommunlistan;KLH;747;12.01010101010101;http://kommunlistanihedemora.se/
 KF;2083;Hedemora;Kristdemokraterna;KD;68;2.95959595959596;https://kristdemokraterna.se/
-KF;2083;Hedemora;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2083;Hedemora;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2083;Hedemora;KSP; ;1612;;
 KF;2083;Hedemora;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2083;Hedemora;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;2083;Hedemora;Liberalerna (tidigare Folkpartiet);L;3;2.3535353535353534;https://www.liberalerna.se/
@@ -40,31 +52,40 @@ KF;2083;Hedemora;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamli
 KF;2083;Hedemora;Miljöpartiet de gröna;MP;55;2.3636363636363638;https://www.mp.se/
 KF;2083;Hedemora;Min röst; ;1437;;
 KF;2083;Hedemora;MITT SVERIGE; ;1591;;
+KF;2083;Hedemora;MoD; ;1568;;https://partietmod.se/
 KF;2083;Hedemora;Moderaterna;M;1;16.94949494949495;https://moderaterna.se/
 KF;2083;Hedemora;Monisterna; ;1502;;
 KF;2083;Hedemora;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2083;Hedemora;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2083;Hedemora;NaturFilosoferna; ;1460;;
+KF;2083;Hedemora;Naturistpartiet; ;1627;;
+KF;2083;Hedemora;Neoteknokraterna; ;1613;;
 KF;2083;Hedemora;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2083;Hedemora;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2083;Hedemora;Nu får det fan vara nog; ;1623;;
+KF;2083;Hedemora;Ny Demokrati; ;1596;;
+KF;2083;Hedemora;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2083;Hedemora;Nya Frihetspartiet; ;1443;;
 KF;2083;Hedemora;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;2083;Hedemora;OK; ;1478;;
 KF;2083;Hedemora;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2083;Hedemora;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2083;Hedemora;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2083;Hedemora;Partiet Frihet; ;1599;;
+KF;2083;Hedemora;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2083;Hedemora;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2083;Hedemora;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2083;Hedemora;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2083;Hedemora;Politiskt Skifte; ;1617;;
 KF;2083;Hedemora;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2083;Hedemora;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2083;Hedemora;Reformpartiet; ;1616;;
 KF;2083;Hedemora;Rikspolitiska partiet; ;1496;;
-KF;2083;Hedemora;SKP; ;1586;;https://skp.se
+KF;2083;Hedemora;SKP;Skp;1586;;https://skp.se
 KF;2083;Hedemora;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2083;Hedemora;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2083;Hedemora;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2083;Hedemora;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2083;Hedemora;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2083;Hedemora;Svensk Jobbdemokrati; ;1603;;
 KF;2083;Hedemora;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2083;Hedemora;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2083;Hedemora;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;2083;Hedemora;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2083;Hedemora;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2083;Hedemora;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2083;Hedemora;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2083;Hedemora;Upprorsdemokraterna; ;1630;;
 KF;2083;Hedemora;Valsamverkanspartiet; ;1526;;
 KF;2083;Hedemora;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2083;Hedemora;Volt Sverige;Volt;1610;;
 KF;2083;Hedemora;Vänsterpartiet;V;5;5.595959595959596;https://www.vansterpartiet.se/
 KF;2083;Hedemora;Yggdrasil; ;1454;;
 KF;2083;Hedemora;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

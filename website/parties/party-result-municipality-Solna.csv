@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;184;Solna;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;184;Solna;ANARKISTERNA; ;1628;;
 KF;184;Solna;ANDOPARTIET; ;1602;;
 KF;184;Solna;Arbetarepartiet-Socialdemokraterna;S;2;23.51981262478882;https://www.socialdemokraterna.se/
 KF;184;Solna;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;184;Solna;Bjornpartiet; ;1629;;
 KF;184;Solna;Centerpartiet;C;4;6.629166026724005;https://www.centerpartiet.se/
 KF;184;Solna;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;184;Solna;Det minst dåliga partiet; ;1622;;
 KF;184;Solna;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;184;Solna;Drivkraft; ;1621;;
 KF;184;Solna;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;184;Solna;Enad Politik; ;1589;;
 KF;184;Solna;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;184;Solna;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;184;Solna;Enskild person/Riksdagen val; ;1614;;
+KF;184;Solna;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;184;Solna;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;184;Solna;EUSEC; ;1534;;
+KF;184;Solna;FAMILJENS FRIHET; ;1606;;
+KF;184;Solna;Fattigmans parti; ;1618;;
 KF;184;Solna;Feministiskt initiativ;FI;532;0.7448932575641223;https://feministisktinitiativ.se/
+KF;184;Solna;FN Parti art.27; ;1631;;
 KF;184;Solna;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;184;Solna;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;184;Solna;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;184;Solna;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;184;Solna;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;184;Solna;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;184;Solna;Humanistisk demokrati (HD);HD;1480;;
+KF;184;Solna;Invandrarpartiet; ;1624;;
 KF;184;Solna;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;184;Solna;Kalle ankapartiet; ;1579;;
 KF;184;Solna;Kapitalism med vänligt ansikte; ;1495;;
 KF;184;Solna;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;184;Solna;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;184;Solna;Kristdemokraterna;KD;68;3.9241283980955304;https://kristdemokraterna.se/
-KF;184;Solna;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;184;Solna;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;184;Solna;KSP; ;1612;;
 KF;184;Solna;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;184;Solna;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;184;Solna;Liberalerna (tidigare Folkpartiet);L;3;7.89049301182614;https://www.liberalerna.se/
@@ -39,32 +51,41 @@ KF;184;Solna;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.s
 KF;184;Solna;Miljöpartiet de gröna;MP;55;7.527645522961143;https://www.mp.se/
 KF;184;Solna;Min röst; ;1437;;
 KF;184;Solna;MITT SVERIGE; ;1591;;
+KF;184;Solna;MoD; ;1568;;https://partietmod.se/
 KF;184;Solna;Moderaterna;M;1;30.11634157579481;https://moderaterna.se/
 KF;184;Solna;Monisterna; ;1502;;
 KF;184;Solna;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;184;Solna;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;184;Solna;NaturFilosoferna; ;1460;;
+KF;184;Solna;Naturistpartiet; ;1627;;
+KF;184;Solna;Neoteknokraterna; ;1613;;
 KF;184;Solna;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;184;Solna;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;184;Solna;Nu får det fan vara nog; ;1623;;
+KF;184;Solna;Ny Demokrati; ;1596;;
+KF;184;Solna;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;184;Solna;Nya Frihetspartiet; ;1443;;
 KF;184;Solna;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;184;Solna;OK; ;1478;;
 KF;184;Solna;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;184;Solna;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;184;Solna;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;184;Solna;Partiet Frihet; ;1599;;
+KF;184;Solna;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;184;Solna;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;184;Solna;Pax; ;1491;;https://www.paxpartiet.se/
 KF;184;Solna;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;184;Solna;Politiskt Skifte; ;1617;;
 KF;184;Solna;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;184;Solna;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;184;Solna;Reformpartiet; ;1616;;
 KF;184;Solna;Rikspolitiska partiet; ;1496;;
-KF;184;Solna;SKP; ;1586;;https://skp.se
+KF;184;Solna;SKP;Skp;1586;;https://skp.se
 KF;184;Solna;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;184;Solna;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;184;Solna;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;184;Solna;Solnapartiet; ;1286;1.9351866072799877;https://www.solnapartiet.se/
 KF;184;Solna;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;184;Solna;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;184;Solna;Svensk Jobbdemokrati; ;1603;;
 KF;184;Solna;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;184;Solna;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;184;Solna;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;184;Solna;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;184;Solna;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;184;Solna;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;184;Solna;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;184;Solna;Upprorsdemokraterna; ;1630;;
 KF;184;Solna;Valsamverkanspartiet; ;1526;;
 KF;184;Solna;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;184;Solna;Volt Sverige;Volt;1610;;
 KF;184;Solna;Vänsterpartiet;V;5;8.68338196897558;https://www.vansterpartiet.se/
 KF;184;Solna;Yggdrasil; ;1454;;
 KF;184;Solna;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

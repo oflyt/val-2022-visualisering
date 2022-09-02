@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1863;Hällefors;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1863;Hällefors;ANARKISTERNA; ;1628;;
 KF;1863;Hällefors;ANDOPARTIET; ;1602;;
 KF;1863;Hällefors;Arbetarepartiet-Socialdemokraterna;S;2;28.20160366552119;https://www.socialdemokraterna.se/
 KF;1863;Hällefors;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1863;Hällefors;Bjornpartiet; ;1629;;
 KF;1863;Hällefors;Centerpartiet;C;4;10.767468499427263;https://www.centerpartiet.se/
 KF;1863;Hällefors;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1863;Hällefors;Det minst dåliga partiet; ;1622;;
 KF;1863;Hällefors;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1863;Hällefors;Drivkraft; ;1621;;
 KF;1863;Hällefors;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1863;Hällefors;Enad Politik; ;1589;;
 KF;1863;Hällefors;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1863;Hällefors;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1863;Hällefors;Enskild person/Riksdagen val; ;1614;;
+KF;1863;Hällefors;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1863;Hällefors;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1863;Hällefors;EUSEC; ;1534;;
+KF;1863;Hällefors;FAMILJENS FRIHET; ;1606;;
+KF;1863;Hällefors;Fattigmans parti; ;1618;;
 KF;1863;Hällefors;Feministiskt initiativ;FI;532;0.11454753722794961;https://feministisktinitiativ.se/
+KF;1863;Hällefors;FN Parti art.27; ;1631;;
 KF;1863;Hällefors;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1863;Hällefors;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1863;Hällefors;Fredspartiet; ;1484;;
@@ -24,13 +34,15 @@ KF;1863;Hällefors;Grythyttelistan;GL;1069;4.673539518900344;
 KF;1863;Hällefors;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1863;Hällefors;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1863;Hällefors;Humanistisk demokrati (HD);HD;1480;;
+KF;1863;Hällefors;Invandrarpartiet; ;1624;;
 KF;1863;Hällefors;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1863;Hällefors;Kalle ankapartiet; ;1579;;
 KF;1863;Hällefors;Kapitalism med vänligt ansikte; ;1495;;
 KF;1863;Hällefors;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1863;Hällefors;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1863;Hällefors;Kristdemokraterna;KD;68;1.4662084765177548;https://kristdemokraterna.se/
-KF;1863;Hällefors;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1863;Hällefors;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1863;Hällefors;KSP; ;1612;;
 KF;1863;Hällefors;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1863;Hällefors;Landsbygdspartiet Oberoende;LPo;1011;0.6643757159221076;https://landsbygdspartiet.org/
 KF;1863;Hällefors;Liberalerna (tidigare Folkpartiet);L;3;0.38946162657502864;https://www.liberalerna.se/
@@ -40,31 +52,40 @@ KF;1863;Hällefors;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsam
 KF;1863;Hällefors;Miljöpartiet de gröna;MP;55;0.4123711340206186;https://www.mp.se/
 KF;1863;Hällefors;Min röst; ;1437;;
 KF;1863;Hällefors;MITT SVERIGE; ;1591;;
+KF;1863;Hällefors;MoD; ;1568;;https://partietmod.se/
 KF;1863;Hällefors;Moderaterna;M;1;18.487972508591067;https://moderaterna.se/
 KF;1863;Hällefors;Monisterna; ;1502;;
 KF;1863;Hällefors;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1863;Hällefors;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1863;Hällefors;NaturFilosoferna; ;1460;;
+KF;1863;Hällefors;Naturistpartiet; ;1627;;
+KF;1863;Hällefors;Neoteknokraterna; ;1613;;
 KF;1863;Hällefors;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1863;Hällefors;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1863;Hällefors;Nu får det fan vara nog; ;1623;;
+KF;1863;Hällefors;Ny Demokrati; ;1596;;
+KF;1863;Hällefors;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1863;Hällefors;Nya Frihetspartiet; ;1443;;
 KF;1863;Hällefors;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1863;Hällefors;OK; ;1478;;
 KF;1863;Hällefors;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1863;Hällefors;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1863;Hällefors;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1863;Hällefors;Partiet Frihet; ;1599;;
+KF;1863;Hällefors;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1863;Hällefors;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1863;Hällefors;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1863;Hällefors;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1863;Hällefors;Politiskt Skifte; ;1617;;
 KF;1863;Hällefors;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1863;Hällefors;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1863;Hällefors;Reformpartiet; ;1616;;
 KF;1863;Hällefors;Rikspolitiska partiet; ;1496;;
-KF;1863;Hällefors;SKP; ;1586;;https://skp.se
+KF;1863;Hällefors;SKP;Skp;1586;;https://skp.se
 KF;1863;Hällefors;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1863;Hällefors;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1863;Hällefors;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1863;Hällefors;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1863;Hällefors;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1863;Hällefors;Svensk Jobbdemokrati; ;1603;;
 KF;1863;Hällefors;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1863;Hällefors;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1863;Hällefors;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;1863;Hällefors;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1863;Hällefors;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1863;Hällefors;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1863;Hällefors;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1863;Hällefors;Upprorsdemokraterna; ;1630;;
 KF;1863;Hällefors;Valsamverkanspartiet; ;1526;;
 KF;1863;Hällefors;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1863;Hällefors;Volt Sverige;Volt;1610;;
 KF;1863;Hällefors;Vänsterpartiet;V;5;20.985108820160367;https://www.vansterpartiet.se/
 KF;1863;Hällefors;Yggdrasil; ;1454;;
 KF;1863;Hällefors;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

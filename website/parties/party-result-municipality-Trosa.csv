@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;488;Trosa;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;488;Trosa;ANARKISTERNA; ;1628;;
 KF;488;Trosa;ANDOPARTIET; ;1602;;
 KF;488;Trosa;Arbetarepartiet-Socialdemokraterna;S;2;22.523532048408786;https://www.socialdemokraterna.se/
 KF;488;Trosa;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;488;Trosa;Bjornpartiet; ;1629;;
 KF;488;Trosa;Centerpartiet;C;4;6.835499775885253;https://www.centerpartiet.se/
 KF;488;Trosa;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;488;Trosa;Det minst dåliga partiet; ;1622;;
 KF;488;Trosa;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;488;Trosa;Drivkraft; ;1621;;
 KF;488;Trosa;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;488;Trosa;Enad Politik; ;1589;;
 KF;488;Trosa;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;488;Trosa;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;488;Trosa;Enskild person/Riksdagen val; ;1614;;
+KF;488;Trosa;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;488;Trosa;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;488;Trosa;EUSEC; ;1534;;
+KF;488;Trosa;FAMILJENS FRIHET; ;1606;;
+KF;488;Trosa;Fattigmans parti; ;1618;;
 KF;488;Trosa;Feministiskt initiativ;FI;532;0.21290900941281937;https://feministisktinitiativ.se/
+KF;488;Trosa;FN Parti art.27; ;1631;;
 KF;488;Trosa;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;488;Trosa;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;488;Trosa;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;488;Trosa;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;488;Trosa;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;488;Trosa;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;488;Trosa;Humanistisk demokrati (HD);HD;1480;;
+KF;488;Trosa;Invandrarpartiet; ;1624;;
 KF;488;Trosa;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;488;Trosa;Kalle ankapartiet; ;1579;;
 KF;488;Trosa;Kapitalism med vänligt ansikte; ;1495;;
 KF;488;Trosa;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;488;Trosa;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;488;Trosa;Kristdemokraterna;KD;68;3.574630210667862;https://kristdemokraterna.se/
-KF;488;Trosa;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;488;Trosa;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;488;Trosa;KSP; ;1612;;
 KF;488;Trosa;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;488;Trosa;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;488;Trosa;Liberalerna (tidigare Folkpartiet);L;3;4.762438368444643;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;488;Trosa;Medborgerlig Samling;MED;1296;0.21290900941281937;https://www.medbo
 KF;488;Trosa;Miljöpartiet de gröna;MP;55;5.132227700582699;https://www.mp.se/
 KF;488;Trosa;Min röst; ;1437;;
 KF;488;Trosa;MITT SVERIGE; ;1591;;
+KF;488;Trosa;MoD; ;1568;;https://partietmod.se/
 KF;488;Trosa;Moderaterna;M;1;40.67682653518602;https://moderaterna.se/
 KF;488;Trosa;Monisterna; ;1502;;
 KF;488;Trosa;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;488;Trosa;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;488;Trosa;NaturFilosoferna; ;1460;;
+KF;488;Trosa;Naturistpartiet; ;1627;;
+KF;488;Trosa;Neoteknokraterna; ;1613;;
 KF;488;Trosa;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;488;Trosa;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;488;Trosa;Nu får det fan vara nog; ;1623;;
+KF;488;Trosa;Ny Demokrati; ;1596;;
+KF;488;Trosa;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;488;Trosa;Nya Frihetspartiet; ;1443;;
 KF;488;Trosa;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;488;Trosa;OK; ;1478;;
 KF;488;Trosa;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;488;Trosa;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;488;Trosa;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;488;Trosa;Partiet Frihet; ;1599;;
+KF;488;Trosa;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;488;Trosa;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;488;Trosa;Pax; ;1491;;https://www.paxpartiet.se/
 KF;488;Trosa;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;488;Trosa;Politiskt Skifte; ;1617;;
 KF;488;Trosa;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;488;Trosa;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;488;Trosa;Reformpartiet; ;1616;;
 KF;488;Trosa;Rikspolitiska partiet; ;1496;;
-KF;488;Trosa;SKP; ;1586;;https://skp.se
+KF;488;Trosa;SKP;Skp;1586;;https://skp.se
 KF;488;Trosa;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;488;Trosa;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;488;Trosa;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;488;Trosa;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;488;Trosa;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;488;Trosa;Svensk Jobbdemokrati; ;1603;;
 KF;488;Trosa;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;488;Trosa;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;488;Trosa;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;488;Trosa;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;488;Trosa;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;488;Trosa;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;488;Trosa;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;488;Trosa;Upprorsdemokraterna; ;1630;;
 KF;488;Trosa;Valsamverkanspartiet; ;1526;;
 KF;488;Trosa;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;488;Trosa;Volt Sverige;Volt;1610;;
 KF;488;Trosa;Vänsterpartiet;V;5;5.3899596593455845;https://www.vansterpartiet.se/
 KF;488;Trosa;Yggdrasil; ;1454;;
 KF;488;Trosa;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

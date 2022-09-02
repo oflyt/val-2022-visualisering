@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 RF;13;Halland;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+RF;13;Halland;ANARKISTERNA; ;1628;;
 RF;13;Halland;ANDOPARTIET; ;1602;;
 RF;13;Halland;Arbetarepartiet-Socialdemokraterna;S;2;26.684296099721543;https://www.socialdemokraterna.se/
 RF;13;Halland;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+RF;13;Halland;Bjornpartiet; ;1629;;
 RF;13;Halland;Centerpartiet;C;4;11.58122932590779;https://www.centerpartiet.se/
 RF;13;Halland;Common sense in Sweden;CSIS;1318;;https://common-sene-in-sweden.webnode.se/
+RF;13;Halland;Det minst dåliga partiet; ;1622;;
 RF;13;Halland;Direktdemokraterna;DD;1150;;https://direktdemokraterna.se/en/
+RF;13;Halland;Drivkraft; ;1621;;
 RF;13;Halland;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 RF;13;Halland;Enad Politik; ;1589;;
 RF;13;Halland;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 RF;13;Halland;Enhet;ENH;189;0.0;https://www.enhet.se/
+RF;13;Halland;Enskild person/Riksdagen val; ;1614;;
+RF;13;Halland;Eropean radical reflektion a european dream party ERR; ;1626;;
+RF;13;Halland;Europeiska Arbetarpartiet-EAP;EAP;29;;
 RF;13;Halland;EUSEC; ;1534;;
+RF;13;Halland;FAMILJENS FRIHET; ;1606;;
+RF;13;Halland;Fattigmans parti; ;1618;;
 RF;13;Halland;Feministiskt initiativ;FI;532;0.21398269449999066;https://feministisktinitiativ.se/
+RF;13;Halland;FN Parti art.27; ;1631;;
 RF;13;Halland;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 RF;13;Halland;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 RF;13;Halland;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ RF;13;Halland;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 RF;13;Halland;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 RF;13;Halland;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 RF;13;Halland;Humanistisk demokrati (HD);HD;1480;;
+RF;13;Halland;Invandrarpartiet; ;1624;;
 RF;13;Halland;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 RF;13;Halland;Kalle ankapartiet; ;1579;;
 RF;13;Halland;Kapitalism med vänligt ansikte; ;1495;;
 RF;13;Halland;Klassiskt liberala partiet;KLP;638;;https://www.liberalapartiet.se/
 RF;13;Halland;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 RF;13;Halland;Kristdemokraterna;KD;68;7.576295576445085;https://kristdemokraterna.se/
-RF;13;Halland;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+RF;13;Halland;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+RF;13;Halland;KSP; ;1612;;
 RF;13;Halland;Kungsbackaborna;Kbabo;1036;0.4718832345960493;https://www.kungsbackaborna.se/
 RF;13;Halland;Kärlek; ;1465;;http://www.karlekspartiet.se/
 RF;13;Halland;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
@@ -40,31 +52,40 @@ RF;13;Halland;Medborgerlig Samling;MED;1296;0.32050683062662355;https://www.medb
 RF;13;Halland;Miljöpartiet de gröna;MP;55;3.2559943187127396;https://www.mp.se/
 RF;13;Halland;Min röst; ;1437;;
 RF;13;Halland;MITT SVERIGE; ;1591;;
+RF;13;Halland;MoD; ;1568;;https://partietmod.se/
 RF;13;Halland;Moderaterna;M;1;23.22740099796296;https://moderaterna.se/
 RF;13;Halland;Monisterna; ;1502;;
 RF;13;Halland;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 RF;13;Halland;Nationalsocialistiska reformistiska Partiet; ;1595;;
 RF;13;Halland;NaturFilosoferna; ;1460;;
+RF;13;Halland;Naturistpartiet; ;1627;;
+RF;13;Halland;Neoteknokraterna; ;1613;;
 RF;13;Halland;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-RF;13;Halland;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+RF;13;Halland;Nu får det fan vara nog; ;1623;;
+RF;13;Halland;Ny Demokrati; ;1596;;
+RF;13;Halland;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 RF;13;Halland;Nya Frihetspartiet; ;1443;;
 RF;13;Halland;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 RF;13;Halland;OK; ;1478;;
 RF;13;Halland;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 RF;13;Halland;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-RF;13;Halland;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+RF;13;Halland;Partiet Frihet; ;1599;;
+RF;13;Halland;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 RF;13;Halland;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 RF;13;Halland;Pax; ;1491;;https://www.paxpartiet.se/
 RF;13;Halland;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+RF;13;Halland;Politiskt Skifte; ;1617;;
 RF;13;Halland;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 RF;13;Halland;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+RF;13;Halland;Reformpartiet; ;1616;;
 RF;13;Halland;Rikspolitiska partiet; ;1496;;
-RF;13;Halland;SKP; ;1586;;https://skp.se
+RF;13;Halland;SKP;Skp;1586;;https://skp.se
 RF;13;Halland;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 RF;13;Halland;Socialisterna-Välfärdspartiet;S-V;977;;https://www.valfardspartiet.org/
 RF;13;Halland;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 RF;13;Halland;Stora Norrlands oberoende Frihetsparti; ;1559;;
 RF;13;Halland;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+RF;13;Halland;Svensk Jobbdemokrati; ;1603;;
 RF;13;Halland;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 RF;13;Halland;SVENSKARNA; ;1444;;https://svenskarna.org/
 RF;13;Halland;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ RF;13;Halland;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 RF;13;Halland;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 RF;13;Halland;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 RF;13;Halland;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+RF;13;Halland;Upprorsdemokraterna; ;1630;;
 RF;13;Halland;Valsamverkanspartiet; ;1526;;
 RF;13;Halland;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+RF;13;Halland;Volt Sverige;Volt;1610;;
 RF;13;Halland;Vänsterpartiet;V;5;5.303780672410249;https://www.vansterpartiet.se/
 RF;13;Halland;Yggdrasil; ;1454;;
 RF;13;Halland;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

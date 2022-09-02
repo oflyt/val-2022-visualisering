@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;461;Gnesta;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;461;Gnesta;ANARKISTERNA; ;1628;;
 KF;461;Gnesta;ANDOPARTIET; ;1602;;
 KF;461;Gnesta;Arbetarepartiet-Socialdemokraterna;S;2;26.196403872752423;https://www.socialdemokraterna.se/
 KF;461;Gnesta;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;461;Gnesta;Bjornpartiet; ;1629;;
 KF;461;Gnesta;Centerpartiet;C;4;16.127247579529737;https://www.centerpartiet.se/
 KF;461;Gnesta;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;461;Gnesta;Det minst dåliga partiet; ;1622;;
 KF;461;Gnesta;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;461;Gnesta;Drivkraft; ;1621;;
 KF;461;Gnesta;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;461;Gnesta;Enad Politik; ;1589;;
 KF;461;Gnesta;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;461;Gnesta;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;461;Gnesta;Enskild person/Riksdagen val; ;1614;;
+KF;461;Gnesta;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;461;Gnesta;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;461;Gnesta;EUSEC; ;1534;;
+KF;461;Gnesta;FAMILJENS FRIHET; ;1606;;
+KF;461;Gnesta;Fattigmans parti; ;1618;;
 KF;461;Gnesta;Feministiskt initiativ;FI;532;2.2959889349930847;https://feministisktinitiativ.se/
+KF;461;Gnesta;FN Parti art.27; ;1631;;
 KF;461;Gnesta;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;461;Gnesta;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;461;Gnesta;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;461;Gnesta;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;461;Gnesta;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;461;Gnesta;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;461;Gnesta;Humanistisk demokrati (HD);HD;1480;;
+KF;461;Gnesta;Invandrarpartiet; ;1624;;
 KF;461;Gnesta;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;461;Gnesta;Kalle ankapartiet; ;1579;;
 KF;461;Gnesta;Kapitalism med vänligt ansikte; ;1495;;
 KF;461;Gnesta;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;461;Gnesta;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;461;Gnesta;Kristdemokraterna;KD;68;1.438450899031812;https://kristdemokraterna.se/
-KF;461;Gnesta;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;461;Gnesta;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;461;Gnesta;KSP; ;1612;;
 KF;461;Gnesta;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;461;Gnesta;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;461;Gnesta;Liberalerna (tidigare Folkpartiet);L;3;3.0705394190871367;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;461;Gnesta;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.
 KF;461;Gnesta;Miljöpartiet de gröna;MP;55;6.86030428769018;https://www.mp.se/
 KF;461;Gnesta;Min röst; ;1437;;
 KF;461;Gnesta;MITT SVERIGE; ;1591;;
+KF;461;Gnesta;MoD; ;1568;;https://partietmod.se/
 KF;461;Gnesta;Moderaterna;M;1;23.070539419087137;https://moderaterna.se/
 KF;461;Gnesta;Monisterna; ;1502;;
 KF;461;Gnesta;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;461;Gnesta;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;461;Gnesta;NaturFilosoferna; ;1460;;
+KF;461;Gnesta;Naturistpartiet; ;1627;;
+KF;461;Gnesta;Neoteknokraterna; ;1613;;
 KF;461;Gnesta;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;461;Gnesta;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;461;Gnesta;Nu får det fan vara nog; ;1623;;
+KF;461;Gnesta;Ny Demokrati; ;1596;;
+KF;461;Gnesta;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;461;Gnesta;Nya Frihetspartiet; ;1443;;
 KF;461;Gnesta;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;461;Gnesta;OK; ;1478;;
 KF;461;Gnesta;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;461;Gnesta;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;461;Gnesta;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;461;Gnesta;Partiet Frihet; ;1599;;
+KF;461;Gnesta;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;461;Gnesta;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;461;Gnesta;Pax; ;1491;;https://www.paxpartiet.se/
 KF;461;Gnesta;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;461;Gnesta;Politiskt Skifte; ;1617;;
 KF;461;Gnesta;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;461;Gnesta;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;461;Gnesta;Reformpartiet; ;1616;;
 KF;461;Gnesta;Rikspolitiska partiet; ;1496;;
-KF;461;Gnesta;SKP; ;1586;;https://skp.se
+KF;461;Gnesta;SKP;Skp;1586;;https://skp.se
 KF;461;Gnesta;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;461;Gnesta;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;461;Gnesta;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;461;Gnesta;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;461;Gnesta;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;461;Gnesta;Svensk Jobbdemokrati; ;1603;;
 KF;461;Gnesta;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;461;Gnesta;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;461;Gnesta;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;461;Gnesta;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;461;Gnesta;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;461;Gnesta;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;461;Gnesta;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;461;Gnesta;Upprorsdemokraterna; ;1630;;
 KF;461;Gnesta;Valsamverkanspartiet; ;1526;;
 KF;461;Gnesta;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;461;Gnesta;Volt Sverige;Volt;1610;;
 KF;461;Gnesta;Vänsterpartiet;V;5;6.846473029045644;https://www.vansterpartiet.se/
 KF;461;Gnesta;Yggdrasil; ;1454;;
 KF;461;Gnesta;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

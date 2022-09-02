@@ -43,6 +43,15 @@
     overflow: visible;
 }
 
+.updated-date {
+    position: absolute;
+    bottom: 6px; 
+    right: 6px;
+    z-index: 99;
+    overflow: visible;
+    font-size: 0.875em;
+}
+
 /* MAP */
 svg {
     /* SVG Frame */

@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2510;Jokkmokk;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2510;Jokkmokk;ANARKISTERNA; ;1628;;
 KF;2510;Jokkmokk;ANDOPARTIET; ;1602;;
 KF;2510;Jokkmokk;Arbetarepartiet-Socialdemokraterna;S;2;39.82434887946699;https://www.socialdemokraterna.se/
 KF;2510;Jokkmokk;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2510;Jokkmokk;Bjornpartiet; ;1629;;
 KF;2510;Jokkmokk;Centerpartiet;C;4;0.514839491217444;https://www.centerpartiet.se/
 KF;2510;Jokkmokk;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2510;Jokkmokk;Det minst dåliga partiet; ;1622;;
 KF;2510;Jokkmokk;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2510;Jokkmokk;Drivkraft; ;1621;;
 KF;2510;Jokkmokk;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2510;Jokkmokk;Enad Politik; ;1589;;
 KF;2510;Jokkmokk;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2510;Jokkmokk;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2510;Jokkmokk;Enskild person/Riksdagen val; ;1614;;
+KF;2510;Jokkmokk;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2510;Jokkmokk;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2510;Jokkmokk;EUSEC; ;1534;;
+KF;2510;Jokkmokk;FAMILJENS FRIHET; ;1606;;
+KF;2510;Jokkmokk;Fattigmans parti; ;1618;;
 KF;2510;Jokkmokk;Feministiskt initiativ;FI;532;0.27256208358570566;https://feministisktinitiativ.se/
+KF;2510;Jokkmokk;FN Parti art.27; ;1631;;
 KF;2510;Jokkmokk;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2510;Jokkmokk;Framtid i Jokkmokks kommun;FJK;1014;17.7771047849788;https://jokkmokksframtid.blogg.se/
 KF;2510;Jokkmokk;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
@@ -24,6 +34,7 @@ KF;2510;Jokkmokk;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2510;Jokkmokk;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2510;Jokkmokk;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2510;Jokkmokk;Humanistisk demokrati (HD);HD;1480;;
+KF;2510;Jokkmokk;Invandrarpartiet; ;1624;;
 KF;2510;Jokkmokk;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2510;Jokkmokk;Jokkmokkmedborgarpartiet; ;1455;;
 KF;2510;Jokkmokk;Kalle ankapartiet; ;1579;;
@@ -31,7 +42,8 @@ KF;2510;Jokkmokk;Kapitalism med vänligt ansikte; ;1495;;
 KF;2510;Jokkmokk;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;2510;Jokkmokk;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2510;Jokkmokk;Kristdemokraterna;KD;68;0.24227740763173833;https://kristdemokraterna.se/
-KF;2510;Jokkmokk;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2510;Jokkmokk;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2510;Jokkmokk;KSP; ;1612;;
 KF;2510;Jokkmokk;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2510;Jokkmokk;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;2510;Jokkmokk;Liberalerna (tidigare Folkpartiet);L;3;1.7867958812840705;https://www.liberalerna.se/
@@ -41,32 +53,41 @@ KF;2510;Jokkmokk;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamli
 KF;2510;Jokkmokk;Miljöpartiet de gröna;MP;55;13.597819503331316;https://www.mp.se/
 KF;2510;Jokkmokk;Min röst; ;1437;;
 KF;2510;Jokkmokk;MITT SVERIGE; ;1591;;
+KF;2510;Jokkmokk;MoD; ;1568;;https://partietmod.se/
 KF;2510;Jokkmokk;Moderaterna;M;1;5.027256208358571;https://moderaterna.se/
 KF;2510;Jokkmokk;Monisterna; ;1502;;
 KF;2510;Jokkmokk;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2510;Jokkmokk;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2510;Jokkmokk;NaturFilosoferna; ;1460;;
+KF;2510;Jokkmokk;Naturistpartiet; ;1627;;
+KF;2510;Jokkmokk;Neoteknokraterna; ;1613;;
 KF;2510;Jokkmokk;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2510;Jokkmokk;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2510;Jokkmokk;Nu får det fan vara nog; ;1623;;
+KF;2510;Jokkmokk;Ny Demokrati; ;1596;;
+KF;2510;Jokkmokk;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2510;Jokkmokk;Nya Frihetspartiet; ;1443;;
 KF;2510;Jokkmokk;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;2510;Jokkmokk;OK; ;1478;;
 KF;2510;Jokkmokk;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2510;Jokkmokk;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2510;Jokkmokk;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2510;Jokkmokk;Partiet Frihet; ;1599;;
+KF;2510;Jokkmokk;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2510;Jokkmokk;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2510;Jokkmokk;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2510;Jokkmokk;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2510;Jokkmokk;Politiskt Skifte; ;1617;;
 KF;2510;Jokkmokk;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2510;Jokkmokk;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2510;Jokkmokk;Reformpartiet; ;1616;;
 KF;2510;Jokkmokk;Rikspolitiska partiet; ;1496;;
 KF;2510;Jokkmokk;Samernas Väl;SV;80;7.389460932768019;https://www.facebook.com/people/Samernas-V%C3%A4l/100064585185791/
-KF;2510;Jokkmokk;SKP; ;1586;;https://skp.se
+KF;2510;Jokkmokk;SKP;Skp;1586;;https://skp.se
 KF;2510;Jokkmokk;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2510;Jokkmokk;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2510;Jokkmokk;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2510;Jokkmokk;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2510;Jokkmokk;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2510;Jokkmokk;Svensk Jobbdemokrati; ;1603;;
 KF;2510;Jokkmokk;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2510;Jokkmokk;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2510;Jokkmokk;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -75,8 +96,10 @@ KF;2510;Jokkmokk;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2510;Jokkmokk;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2510;Jokkmokk;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2510;Jokkmokk;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2510;Jokkmokk;Upprorsdemokraterna; ;1630;;
 KF;2510;Jokkmokk;Valsamverkanspartiet; ;1526;;
 KF;2510;Jokkmokk;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2510;Jokkmokk;Volt Sverige;Volt;1610;;
 KF;2510;Jokkmokk;Vänsterpartiet;V;5;6.783767413688674;https://www.vansterpartiet.se/
 KF;2510;Jokkmokk;Yggdrasil; ;1454;;
 KF;2510;Jokkmokk;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1438;Dals-Ed;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1438;Dals-Ed;ANARKISTERNA; ;1628;;
 KF;1438;Dals-Ed;ANDOPARTIET; ;1602;;
 KF;1438;Dals-Ed;Arbetarepartiet-Socialdemokraterna;S;2;23.32997650218194;https://www.socialdemokraterna.se/
 KF;1438;Dals-Ed;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1438;Dals-Ed;Bjornpartiet; ;1629;;
 KF;1438;Dals-Ed;Centerpartiet;C;4;38.70426317556227;https://www.centerpartiet.se/
 KF;1438;Dals-Ed;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1438;Dals-Ed;Det minst dåliga partiet; ;1622;;
 KF;1438;Dals-Ed;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1438;Dals-Ed;Drivkraft; ;1621;;
 KF;1438;Dals-Ed;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1438;Dals-Ed;Enad Politik; ;1589;;
 KF;1438;Dals-Ed;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1438;Dals-Ed;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1438;Dals-Ed;Enskild person/Riksdagen val; ;1614;;
+KF;1438;Dals-Ed;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1438;Dals-Ed;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1438;Dals-Ed;EUSEC; ;1534;;
+KF;1438;Dals-Ed;FAMILJENS FRIHET; ;1606;;
+KF;1438;Dals-Ed;Fattigmans parti; ;1618;;
 KF;1438;Dals-Ed;Feministiskt initiativ;FI;532;0.06713662302786169;https://feministisktinitiativ.se/
+KF;1438;Dals-Ed;FN Parti art.27; ;1631;;
 KF;1438;Dals-Ed;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1438;Dals-Ed;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1438;Dals-Ed;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;1438;Dals-Ed;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1438;Dals-Ed;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1438;Dals-Ed;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1438;Dals-Ed;Humanistisk demokrati (HD);HD;1480;;
+KF;1438;Dals-Ed;Invandrarpartiet; ;1624;;
 KF;1438;Dals-Ed;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1438;Dals-Ed;Kalle ankapartiet; ;1579;;
 KF;1438;Dals-Ed;Kapitalism med vänligt ansikte; ;1495;;
 KF;1438;Dals-Ed;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1438;Dals-Ed;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1438;Dals-Ed;Kristdemokraterna;KD;68;6.612957368244378;https://kristdemokraterna.se/
-KF;1438;Dals-Ed;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1438;Dals-Ed;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1438;Dals-Ed;KSP; ;1612;;
 KF;1438;Dals-Ed;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1438;Dals-Ed;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1438;Dals-Ed;Liberalerna (tidigare Folkpartiet);L;3;2.2155085599194364;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;1438;Dals-Ed;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamlin
 KF;1438;Dals-Ed;Miljöpartiet de gröna;MP;55;0.8056394763343404;https://www.mp.se/
 KF;1438;Dals-Ed;Min röst; ;1437;;
 KF;1438;Dals-Ed;MITT SVERIGE; ;1591;;
+KF;1438;Dals-Ed;MoD; ;1568;;https://partietmod.se/
 KF;1438;Dals-Ed;Moderaterna;M;1;13.02450486740517;https://moderaterna.se/
 KF;1438;Dals-Ed;Monisterna; ;1502;;
 KF;1438;Dals-Ed;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1438;Dals-Ed;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1438;Dals-Ed;NaturFilosoferna; ;1460;;
+KF;1438;Dals-Ed;Naturistpartiet; ;1627;;
+KF;1438;Dals-Ed;Neoteknokraterna; ;1613;;
 KF;1438;Dals-Ed;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1438;Dals-Ed;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1438;Dals-Ed;Nu får det fan vara nog; ;1623;;
+KF;1438;Dals-Ed;Ny Demokrati; ;1596;;
+KF;1438;Dals-Ed;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1438;Dals-Ed;Nya Frihetspartiet; ;1443;;
 KF;1438;Dals-Ed;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1438;Dals-Ed;OK; ;1478;;
 KF;1438;Dals-Ed;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1438;Dals-Ed;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1438;Dals-Ed;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1438;Dals-Ed;Partiet Frihet; ;1599;;
+KF;1438;Dals-Ed;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1438;Dals-Ed;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1438;Dals-Ed;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1438;Dals-Ed;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1438;Dals-Ed;Politiskt Skifte; ;1617;;
 KF;1438;Dals-Ed;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1438;Dals-Ed;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1438;Dals-Ed;Reformpartiet; ;1616;;
 KF;1438;Dals-Ed;Rikspolitiska partiet; ;1496;;
-KF;1438;Dals-Ed;SKP; ;1586;;https://skp.se
+KF;1438;Dals-Ed;SKP;Skp;1586;;https://skp.se
 KF;1438;Dals-Ed;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1438;Dals-Ed;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1438;Dals-Ed;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1438;Dals-Ed;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1438;Dals-Ed;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1438;Dals-Ed;Svensk Jobbdemokrati; ;1603;;
 KF;1438;Dals-Ed;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1438;Dals-Ed;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1438;Dals-Ed;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;1438;Dals-Ed;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1438;Dals-Ed;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1438;Dals-Ed;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1438;Dals-Ed;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1438;Dals-Ed;Upprorsdemokraterna; ;1630;;
 KF;1438;Dals-Ed;Valsamverkanspartiet; ;1526;;
 KF;1438;Dals-Ed;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1438;Dals-Ed;Volt Sverige;Volt;1610;;
 KF;1438;Dals-Ed;Vänsterpartiet;V;5;2.2155085599194364;https://www.vansterpartiet.se/
 KF;1438;Dals-Ed;Yggdrasil; ;1454;;
 KF;1438;Dals-Ed;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1291;Simrishamn;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1291;Simrishamn;ANARKISTERNA; ;1628;;
 KF;1291;Simrishamn;ANDOPARTIET; ;1602;;
 KF;1291;Simrishamn;Arbetarepartiet-Socialdemokraterna;S;2;23.089613798275217;https://www.socialdemokraterna.se/
 KF;1291;Simrishamn;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1291;Simrishamn;Bjornpartiet; ;1629;;
 KF;1291;Simrishamn;Centerpartiet;C;4;8.083989501312336;https://www.centerpartiet.se/
 KF;1291;Simrishamn;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1291;Simrishamn;Det minst dåliga partiet; ;1622;;
 KF;1291;Simrishamn;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1291;Simrishamn;Drivkraft; ;1621;;
 KF;1291;Simrishamn;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1291;Simrishamn;Enad Politik; ;1589;;
 KF;1291;Simrishamn;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1291;Simrishamn;Enhet;ENH;189;0.21747281589801276;https://www.enhet.se/
+KF;1291;Simrishamn;Enskild person/Riksdagen val; ;1614;;
+KF;1291;Simrishamn;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1291;Simrishamn;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1291;Simrishamn;EUSEC; ;1534;;
+KF;1291;Simrishamn;FAMILJENS FRIHET; ;1606;;
+KF;1291;Simrishamn;Fattigmans parti; ;1618;;
 KF;1291;Simrishamn;Feministiskt initiativ;FI;532;5.796775403074616;https://feministisktinitiativ.se/
+KF;1291;Simrishamn;FN Parti art.27; ;1631;;
 KF;1291;Simrishamn;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1291;Simrishamn;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1291;Simrishamn;Fredspartiet; ;1484;;
@@ -23,14 +33,16 @@ KF;1291;Simrishamn;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1291;Simrishamn;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1291;Simrishamn;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1291;Simrishamn;Humanistisk demokrati (HD);HD;1480;;
+KF;1291;Simrishamn;Invandrarpartiet; ;1624;;
 KF;1291;Simrishamn;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1291;Simrishamn;Kalle ankapartiet; ;1579;;
 KF;1291;Simrishamn;Kapitalism med vänligt ansikte; ;1495;;
 KF;1291;Simrishamn;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
-KF;1291;Simrishamn;Klimatinitiativ Simrishamn; ;1560;;http://klimatinitiativsimrishamn.se/
+KF;1291;Simrishamn;Klimatinitiativ Simrishamn;KLS;1560;;http://klimatinitiativsimrishamn.se/
 KF;1291;Simrishamn;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1291;Simrishamn;Kristdemokraterna;KD;68;3.2395950506186724;https://kristdemokraterna.se/
-KF;1291;Simrishamn;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1291;Simrishamn;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1291;Simrishamn;KSP; ;1612;;
 KF;1291;Simrishamn;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1291;Simrishamn;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1291;Simrishamn;Liberalerna (tidigare Folkpartiet);L;3;5.946756655418072;https://www.liberalerna.se/
@@ -40,31 +52,40 @@ KF;1291;Simrishamn;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsam
 KF;1291;Simrishamn;Miljöpartiet de gröna;MP;55;3.8695163104611923;https://www.mp.se/
 KF;1291;Simrishamn;Min röst; ;1437;;
 KF;1291;Simrishamn;MITT SVERIGE; ;1591;;
+KF;1291;Simrishamn;MoD; ;1568;;https://partietmod.se/
 KF;1291;Simrishamn;Moderaterna;M;1;25.009373828271464;https://moderaterna.se/
 KF;1291;Simrishamn;Monisterna; ;1502;;
 KF;1291;Simrishamn;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1291;Simrishamn;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1291;Simrishamn;NaturFilosoferna; ;1460;;
+KF;1291;Simrishamn;Naturistpartiet; ;1627;;
+KF;1291;Simrishamn;Neoteknokraterna; ;1613;;
 KF;1291;Simrishamn;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1291;Simrishamn;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1291;Simrishamn;Nu får det fan vara nog; ;1623;;
+KF;1291;Simrishamn;Ny Demokrati; ;1596;;
+KF;1291;Simrishamn;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1291;Simrishamn;Nya Frihetspartiet; ;1443;;
 KF;1291;Simrishamn;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1291;Simrishamn;OK; ;1478;;
 KF;1291;Simrishamn;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1291;Simrishamn;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1291;Simrishamn;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1291;Simrishamn;Partiet Frihet; ;1599;;
+KF;1291;Simrishamn;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1291;Simrishamn;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1291;Simrishamn;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1291;Simrishamn;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1291;Simrishamn;Politiskt Skifte; ;1617;;
 KF;1291;Simrishamn;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1291;Simrishamn;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1291;Simrishamn;Reformpartiet; ;1616;;
 KF;1291;Simrishamn;Rikspolitiska partiet; ;1496;;
-KF;1291;Simrishamn;SKP; ;1586;;https://skp.se
+KF;1291;Simrishamn;SKP;Skp;1586;;https://skp.se
 KF;1291;Simrishamn;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1291;Simrishamn;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1291;Simrishamn;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1291;Simrishamn;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1291;Simrishamn;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1291;Simrishamn;Svensk Jobbdemokrati; ;1603;;
 KF;1291;Simrishamn;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1291;Simrishamn;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1291;Simrishamn;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;1291;Simrishamn;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1291;Simrishamn;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1291;Simrishamn;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1291;Simrishamn;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1291;Simrishamn;Upprorsdemokraterna; ;1630;;
 KF;1291;Simrishamn;Valsamverkanspartiet; ;1526;;
 KF;1291;Simrishamn;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1291;Simrishamn;Volt Sverige;Volt;1610;;
 KF;1291;Simrishamn;Vänsterpartiet;V;5;3.592050993625797;https://www.vansterpartiet.se/
 KF;1291;Simrishamn;Yggdrasil; ;1454;;
 KF;1291;Simrishamn;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

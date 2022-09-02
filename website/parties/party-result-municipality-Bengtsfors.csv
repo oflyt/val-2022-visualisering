@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1460;Bengtsfors;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1460;Bengtsfors;ANARKISTERNA; ;1628;;
 KF;1460;Bengtsfors;ANDOPARTIET; ;1602;;
 KF;1460;Bengtsfors;Arbetarepartiet-Socialdemokraterna;S;2;37.06383662968323;https://www.socialdemokraterna.se/
 KF;1460;Bengtsfors;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1460;Bengtsfors;Bjornpartiet; ;1629;;
 KF;1460;Bengtsfors;Centerpartiet;C;4;17.092780189741116;https://www.centerpartiet.se/
 KF;1460;Bengtsfors;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1460;Bengtsfors;Det minst dåliga partiet; ;1622;;
 KF;1460;Bengtsfors;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1460;Bengtsfors;Drivkraft; ;1621;;
 KF;1460;Bengtsfors;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1460;Bengtsfors;Enad Politik; ;1589;;
 KF;1460;Bengtsfors;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1460;Bengtsfors;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1460;Bengtsfors;Enskild person/Riksdagen val; ;1614;;
+KF;1460;Bengtsfors;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1460;Bengtsfors;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1460;Bengtsfors;EUSEC; ;1534;;
+KF;1460;Bengtsfors;FAMILJENS FRIHET; ;1606;;
+KF;1460;Bengtsfors;Fattigmans parti; ;1618;;
 KF;1460;Bengtsfors;Feministiskt initiativ;FI;532;0.0964785335262904;https://feministisktinitiativ.se/
+KF;1460;Bengtsfors;FN Parti art.27; ;1631;;
 KF;1460;Bengtsfors;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1460;Bengtsfors;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1460;Bengtsfors;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;1460;Bengtsfors;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1460;Bengtsfors;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1460;Bengtsfors;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1460;Bengtsfors;Humanistisk demokrati (HD);HD;1480;;
+KF;1460;Bengtsfors;Invandrarpartiet; ;1624;;
 KF;1460;Bengtsfors;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1460;Bengtsfors;Kalle ankapartiet; ;1579;;
 KF;1460;Bengtsfors;Kapitalism med vänligt ansikte; ;1495;;
 KF;1460;Bengtsfors;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1460;Bengtsfors;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1460;Bengtsfors;Kristdemokraterna;KD;68;3.7787425631130405;https://kristdemokraterna.se/
-KF;1460;Bengtsfors;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1460;Bengtsfors;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1460;Bengtsfors;KSP; ;1612;;
 KF;1460;Bengtsfors;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1460;Bengtsfors;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1460;Bengtsfors;Liberalerna (tidigare Folkpartiet);L;3;3.65010451841132;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;1460;Bengtsfors;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsam
 KF;1460;Bengtsfors;Miljöpartiet de gröna;MP;55;1.0773436243769094;https://www.mp.se/
 KF;1460;Bengtsfors;Min röst; ;1437;;
 KF;1460;Bengtsfors;MITT SVERIGE; ;1591;;
+KF;1460;Bengtsfors;MoD; ;1568;;https://partietmod.se/
 KF;1460;Bengtsfors;Moderaterna;M;1;19.19922817173179;https://moderaterna.se/
 KF;1460;Bengtsfors;Monisterna; ;1502;;
 KF;1460;Bengtsfors;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1460;Bengtsfors;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1460;Bengtsfors;NaturFilosoferna; ;1460;;
+KF;1460;Bengtsfors;Naturistpartiet; ;1627;;
+KF;1460;Bengtsfors;Neoteknokraterna; ;1613;;
 KF;1460;Bengtsfors;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1460;Bengtsfors;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1460;Bengtsfors;Nu får det fan vara nog; ;1623;;
+KF;1460;Bengtsfors;Ny Demokrati; ;1596;;
+KF;1460;Bengtsfors;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1460;Bengtsfors;Nya Frihetspartiet; ;1443;;
 KF;1460;Bengtsfors;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1460;Bengtsfors;OK; ;1478;;
 KF;1460;Bengtsfors;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1460;Bengtsfors;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1460;Bengtsfors;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1460;Bengtsfors;Partiet Frihet; ;1599;;
+KF;1460;Bengtsfors;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1460;Bengtsfors;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1460;Bengtsfors;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1460;Bengtsfors;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1460;Bengtsfors;Politiskt Skifte; ;1617;;
 KF;1460;Bengtsfors;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1460;Bengtsfors;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1460;Bengtsfors;Reformpartiet; ;1616;;
 KF;1460;Bengtsfors;Rikspolitiska partiet; ;1496;;
-KF;1460;Bengtsfors;SKP; ;1586;;https://skp.se
+KF;1460;Bengtsfors;SKP;Skp;1586;;https://skp.se
 KF;1460;Bengtsfors;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1460;Bengtsfors;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1460;Bengtsfors;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1460;Bengtsfors;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1460;Bengtsfors;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1460;Bengtsfors;Svensk Jobbdemokrati; ;1603;;
 KF;1460;Bengtsfors;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1460;Bengtsfors;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1460;Bengtsfors;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;1460;Bengtsfors;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1460;Bengtsfors;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1460;Bengtsfors;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1460;Bengtsfors;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1460;Bengtsfors;Upprorsdemokraterna; ;1630;;
 KF;1460;Bengtsfors;Valsamverkanspartiet; ;1526;;
 KF;1460;Bengtsfors;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1460;Bengtsfors;Volt Sverige;Volt;1610;;
 KF;1460;Bengtsfors;Vänsterpartiet;V;5;4.277214986332208;https://www.vansterpartiet.se/
 KF;1460;Bengtsfors;Yggdrasil; ;1454;;
 KF;1460;Bengtsfors;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2409;Robertsfors;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2409;Robertsfors;ANARKISTERNA; ;1628;;
 KF;2409;Robertsfors;ANDOPARTIET; ;1602;;
 KF;2409;Robertsfors;Arbetarepartiet-Socialdemokraterna;S;2;47.5672072872695;https://www.socialdemokraterna.se/
 KF;2409;Robertsfors;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2409;Robertsfors;Bjornpartiet; ;1629;;
 KF;2409;Robertsfors;Centerpartiet;C;4;30.54876694067985;https://www.centerpartiet.se/
 KF;2409;Robertsfors;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2409;Robertsfors;Det minst dåliga partiet; ;1622;;
 KF;2409;Robertsfors;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2409;Robertsfors;Drivkraft; ;1621;;
 KF;2409;Robertsfors;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2409;Robertsfors;Enad Politik; ;1589;;
 KF;2409;Robertsfors;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2409;Robertsfors;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2409;Robertsfors;Enskild person/Riksdagen val; ;1614;;
+KF;2409;Robertsfors;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2409;Robertsfors;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2409;Robertsfors;EUSEC; ;1534;;
+KF;2409;Robertsfors;FAMILJENS FRIHET; ;1606;;
+KF;2409;Robertsfors;Fattigmans parti; ;1618;;
 KF;2409;Robertsfors;Feministiskt initiativ;FI;532;0.19995556542990447;https://feministisktinitiativ.se/
+KF;2409;Robertsfors;FN Parti art.27; ;1631;;
 KF;2409;Robertsfors;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2409;Robertsfors;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;2409;Robertsfors;Fredspartiet; ;1484;;
@@ -23,6 +33,7 @@ KF;2409;Robertsfors;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2409;Robertsfors;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2409;Robertsfors;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2409;Robertsfors;Humanistisk demokrati (HD);HD;1480;;
+KF;2409;Robertsfors;Invandrarpartiet; ;1624;;
 KF;2409;Robertsfors;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2409;Robertsfors;Kalle ankapartiet; ;1579;;
 KF;2409;Robertsfors;Kapitalism med vänligt ansikte; ;1495;;
@@ -30,7 +41,8 @@ KF;2409;Robertsfors;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalap
 KF;2409;Robertsfors;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2409;Robertsfors;Kommunistiska Partiet;K;471;1.2886025327704953;https://kommunisterna.org/
 KF;2409;Robertsfors;Kristdemokraterna;KD;68;3.532548322594979;https://kristdemokraterna.se/
-KF;2409;Robertsfors;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2409;Robertsfors;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2409;Robertsfors;KSP; ;1612;;
 KF;2409;Robertsfors;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2409;Robertsfors;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;2409;Robertsfors;Liberalerna (tidigare Folkpartiet);L;3;1.510775383248167;https://www.liberalerna.se/
@@ -40,31 +52,40 @@ KF;2409;Robertsfors;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsa
 KF;2409;Robertsfors;Miljöpartiet de gröna;MP;55;0.8664741168629194;https://www.mp.se/
 KF;2409;Robertsfors;Min röst; ;1437;;
 KF;2409;Robertsfors;MITT SVERIGE; ;1591;;
+KF;2409;Robertsfors;MoD; ;1568;;https://partietmod.se/
 KF;2409;Robertsfors;Moderaterna;M;1;4.910019995556543;https://moderaterna.se/
 KF;2409;Robertsfors;Monisterna; ;1502;;
 KF;2409;Robertsfors;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2409;Robertsfors;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2409;Robertsfors;NaturFilosoferna; ;1460;;
+KF;2409;Robertsfors;Naturistpartiet; ;1627;;
+KF;2409;Robertsfors;Neoteknokraterna; ;1613;;
 KF;2409;Robertsfors;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2409;Robertsfors;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2409;Robertsfors;Nu får det fan vara nog; ;1623;;
+KF;2409;Robertsfors;Ny Demokrati; ;1596;;
+KF;2409;Robertsfors;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2409;Robertsfors;Nya Frihetspartiet; ;1443;;
 KF;2409;Robertsfors;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;2409;Robertsfors;OK; ;1478;;
 KF;2409;Robertsfors;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2409;Robertsfors;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2409;Robertsfors;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2409;Robertsfors;Partiet Frihet; ;1599;;
+KF;2409;Robertsfors;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2409;Robertsfors;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2409;Robertsfors;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2409;Robertsfors;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2409;Robertsfors;Politiskt Skifte; ;1617;;
 KF;2409;Robertsfors;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2409;Robertsfors;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2409;Robertsfors;Reformpartiet; ;1616;;
 KF;2409;Robertsfors;Rikspolitiska partiet; ;1496;;
-KF;2409;Robertsfors;SKP; ;1586;;https://skp.se
+KF;2409;Robertsfors;SKP;Skp;1586;;https://skp.se
 KF;2409;Robertsfors;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2409;Robertsfors;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2409;Robertsfors;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2409;Robertsfors;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2409;Robertsfors;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2409;Robertsfors;Svensk Jobbdemokrati; ;1603;;
 KF;2409;Robertsfors;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2409;Robertsfors;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2409;Robertsfors;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;2409;Robertsfors;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2409;Robertsfors;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2409;Robertsfors;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2409;Robertsfors;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2409;Robertsfors;Upprorsdemokraterna; ;1630;;
 KF;2409;Robertsfors;Valsamverkanspartiet; ;1526;;
 KF;2409;Robertsfors;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2409;Robertsfors;Volt Sverige;Volt;1610;;
 KF;2409;Robertsfors;Vänsterpartiet;V;5;4.710064430126638;https://www.vansterpartiet.se/
 KF;2409;Robertsfors;Yggdrasil; ;1454;;
 KF;2409;Robertsfors;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;128;Salem;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;128;Salem;ANARKISTERNA; ;1628;;
 KF;128;Salem;ANDOPARTIET; ;1602;;
 KF;128;Salem;Arbetarepartiet-Socialdemokraterna;S;2;20.99951004409603;https://www.socialdemokraterna.se/
 KF;128;Salem;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;128;Salem;Bjornpartiet; ;1629;;
 KF;128;Salem;Centerpartiet;C;4;5.458108770210681;https://www.centerpartiet.se/
 KF;128;Salem;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;128;Salem;Det minst dåliga partiet; ;1622;;
 KF;128;Salem;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;128;Salem;Drivkraft; ;1621;;
 KF;128;Salem;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;128;Salem;Enad Politik; ;1589;;
 KF;128;Salem;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;128;Salem;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;128;Salem;Enskild person/Riksdagen val; ;1614;;
+KF;128;Salem;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;128;Salem;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;128;Salem;EUSEC; ;1534;;
+KF;128;Salem;FAMILJENS FRIHET; ;1606;;
+KF;128;Salem;Fattigmans parti; ;1618;;
 KF;128;Salem;Feministiskt initiativ;FI;532;0.1077902988731014;https://feministisktinitiativ.se/
+KF;128;Salem;FN Parti art.27; ;1631;;
 KF;128;Salem;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;128;Salem;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;128;Salem;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;128;Salem;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;128;Salem;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;128;Salem;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;128;Salem;Humanistisk demokrati (HD);HD;1480;;
+KF;128;Salem;Invandrarpartiet; ;1624;;
 KF;128;Salem;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;128;Salem;Kalle ankapartiet; ;1579;;
 KF;128;Salem;Kapitalism med vänligt ansikte; ;1495;;
 KF;128;Salem;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;128;Salem;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;128;Salem;Kristdemokraterna;KD;68;4.478196962273396;https://kristdemokraterna.se/
-KF;128;Salem;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;128;Salem;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;128;Salem;KSP; ;1612;;
 KF;128;Salem;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;128;Salem;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;128;Salem;Liberalerna (tidigare Folkpartiet);L;3;7.153356197942186;https://www.liberalerna.se/
@@ -39,32 +51,41 @@ KF;128;Salem;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamling.s
 KF;128;Salem;Miljöpartiet de gröna;MP;55;3.2533072023517886;https://www.mp.se/
 KF;128;Salem;Min röst; ;1437;;
 KF;128;Salem;MITT SVERIGE; ;1591;;
+KF;128;Salem;MoD; ;1568;;https://partietmod.se/
 KF;128;Salem;Moderaterna;M;1;33.28760411562959;https://moderaterna.se/
 KF;128;Salem;Monisterna; ;1502;;
 KF;128;Salem;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;128;Salem;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;128;Salem;NaturFilosoferna; ;1460;;
+KF;128;Salem;Naturistpartiet; ;1627;;
+KF;128;Salem;Neoteknokraterna; ;1613;;
 KF;128;Salem;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;128;Salem;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;128;Salem;Nu får det fan vara nog; ;1623;;
+KF;128;Salem;Ny Demokrati; ;1596;;
+KF;128;Salem;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;128;Salem;Nya Frihetspartiet; ;1443;;
 KF;128;Salem;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;128;Salem;OK; ;1478;;
 KF;128;Salem;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;128;Salem;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;128;Salem;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;128;Salem;Partiet Frihet; ;1599;;
+KF;128;Salem;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;128;Salem;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;128;Salem;Pax; ;1491;;https://www.paxpartiet.se/
 KF;128;Salem;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;128;Salem;Politiskt Skifte; ;1617;;
 KF;128;Salem;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;128;Salem;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;128;Salem;Reformpartiet; ;1616;;
 KF;128;Salem;Rikspolitiska partiet; ;1496;;
 KF;128;Salem;Rönningepartiet;R;1080;10.455658990690837;https://www.rönningepartiet.se/
-KF;128;Salem;SKP; ;1586;;https://skp.se
+KF;128;Salem;SKP;Skp;1586;;https://skp.se
 KF;128;Salem;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;128;Salem;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;128;Salem;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;128;Salem;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;128;Salem;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;128;Salem;Svensk Jobbdemokrati; ;1603;;
 KF;128;Salem;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;128;Salem;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;128;Salem;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;128;Salem;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;128;Salem;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;128;Salem;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;128;Salem;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;128;Salem;Upprorsdemokraterna; ;1630;;
 KF;128;Salem;Valsamverkanspartiet; ;1526;;
 KF;128;Salem;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;128;Salem;Volt Sverige;Volt;1610;;
 KF;128;Salem;Vänsterpartiet;V;5;4.615384615384616;https://www.vansterpartiet.se/
 KF;128;Salem;Yggdrasil; ;1454;;
 KF;128;Salem;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

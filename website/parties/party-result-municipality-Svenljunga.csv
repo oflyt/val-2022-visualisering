@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1465;Svenljunga;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1465;Svenljunga;ANARKISTERNA; ;1628;;
 KF;1465;Svenljunga;ANDOPARTIET; ;1602;;
 KF;1465;Svenljunga;Arbetarepartiet-Socialdemokraterna;S;2;21.648145475537596;https://www.socialdemokraterna.se/
 KF;1465;Svenljunga;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1465;Svenljunga;Bjornpartiet; ;1629;;
 KF;1465;Svenljunga;Centerpartiet;C;4;20.565738201760716;https://www.centerpartiet.se/
 KF;1465;Svenljunga;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1465;Svenljunga;Det minst dåliga partiet; ;1622;;
 KF;1465;Svenljunga;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1465;Svenljunga;Drivkraft; ;1621;;
 KF;1465;Svenljunga;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1465;Svenljunga;Enad Politik; ;1589;;
 KF;1465;Svenljunga;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1465;Svenljunga;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1465;Svenljunga;Enskild person/Riksdagen val; ;1614;;
+KF;1465;Svenljunga;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1465;Svenljunga;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1465;Svenljunga;EUSEC; ;1534;;
+KF;1465;Svenljunga;FAMILJENS FRIHET; ;1606;;
+KF;1465;Svenljunga;Fattigmans parti; ;1618;;
 KF;1465;Svenljunga;Feministiskt initiativ;FI;532;0.1443209698369173;https://feministisktinitiativ.se/
+KF;1465;Svenljunga;FN Parti art.27; ;1631;;
 KF;1465;Svenljunga;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1465;Svenljunga;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1465;Svenljunga;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;1465;Svenljunga;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1465;Svenljunga;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1465;Svenljunga;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1465;Svenljunga;Humanistisk demokrati (HD);HD;1480;;
+KF;1465;Svenljunga;Invandrarpartiet; ;1624;;
 KF;1465;Svenljunga;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1465;Svenljunga;Kalle ankapartiet; ;1579;;
 KF;1465;Svenljunga;Kapitalism med vänligt ansikte; ;1495;;
 KF;1465;Svenljunga;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1465;Svenljunga;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1465;Svenljunga;Kristdemokraterna;KD;68;3.045172463558955;https://kristdemokraterna.se/
-KF;1465;Svenljunga;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1465;Svenljunga;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1465;Svenljunga;KSP; ;1612;;
 KF;1465;Svenljunga;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1465;Svenljunga;Landsbygdspartiet Oberoende;LPo;1011;14.619714244479724;https://landsbygdspartiet.org/
 KF;1465;Svenljunga;Liberalerna (tidigare Folkpartiet);L;3;3.189493433395872;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;1465;Svenljunga;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsam
 KF;1465;Svenljunga;Miljöpartiet de gröna;MP;55;2.1503824505700675;https://www.mp.se/
 KF;1465;Svenljunga;Min röst; ;1437;;
 KF;1465;Svenljunga;MITT SVERIGE; ;1591;;
+KF;1465;Svenljunga;MoD; ;1568;;https://partietmod.se/
 KF;1465;Svenljunga;Moderaterna;M;1;14.576417953528647;https://moderaterna.se/
 KF;1465;Svenljunga;Monisterna; ;1502;;
 KF;1465;Svenljunga;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1465;Svenljunga;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1465;Svenljunga;NaturFilosoferna; ;1460;;
+KF;1465;Svenljunga;Naturistpartiet; ;1627;;
+KF;1465;Svenljunga;Neoteknokraterna; ;1613;;
 KF;1465;Svenljunga;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1465;Svenljunga;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1465;Svenljunga;Nu får det fan vara nog; ;1623;;
+KF;1465;Svenljunga;Ny Demokrati; ;1596;;
+KF;1465;Svenljunga;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1465;Svenljunga;Nya Frihetspartiet; ;1443;;
 KF;1465;Svenljunga;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1465;Svenljunga;OK; ;1478;;
 KF;1465;Svenljunga;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1465;Svenljunga;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1465;Svenljunga;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1465;Svenljunga;Partiet Frihet; ;1599;;
+KF;1465;Svenljunga;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1465;Svenljunga;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1465;Svenljunga;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1465;Svenljunga;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1465;Svenljunga;Politiskt Skifte; ;1617;;
 KF;1465;Svenljunga;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1465;Svenljunga;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1465;Svenljunga;Reformpartiet; ;1616;;
 KF;1465;Svenljunga;Rikspolitiska partiet; ;1496;;
-KF;1465;Svenljunga;SKP; ;1586;;https://skp.se
+KF;1465;Svenljunga;SKP;Skp;1586;;https://skp.se
 KF;1465;Svenljunga;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1465;Svenljunga;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1465;Svenljunga;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1465;Svenljunga;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1465;Svenljunga;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1465;Svenljunga;Svensk Jobbdemokrati; ;1603;;
 KF;1465;Svenljunga;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1465;Svenljunga;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1465;Svenljunga;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;1465;Svenljunga;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1465;Svenljunga;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1465;Svenljunga;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1465;Svenljunga;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;1465;Svenljunga;Upprorsdemokraterna; ;1630;;
 KF;1465;Svenljunga;Valsamverkanspartiet; ;1526;;
 KF;1465;Svenljunga;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1465;Svenljunga;Volt Sverige;Volt;1610;;
 KF;1465;Svenljunga;Vänsterpartiet;V;5;2.9008514937220378;https://www.vansterpartiet.se/
 KF;1465;Svenljunga;Yggdrasil; ;1454;;
 KF;1465;Svenljunga;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

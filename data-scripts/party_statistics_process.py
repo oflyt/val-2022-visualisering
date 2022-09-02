@@ -7,7 +7,7 @@ def read_parties_csv(parties_file_path):
         parties_file_path,
         usecols=["VALTYP", "VALOMRÅDESKOD", "VALOMRÅDESNAMN", "PARTIBETECKNING", "PARTIFÖRKORTNING", "PARTIKOD"],
         sep=";",
-        encoding="cp1252",
+        encoding="utf-8",  # "cp1252",
         index_col=False
     ).drop_duplicates()
 
@@ -48,7 +48,7 @@ def create_result_csv(area_name: str, parties: pd.DataFrame, result: pd.DataFram
     print("Parties with result {}".format(len(result_agg)))
     print("Not matched: {}".format(unmatched))
 
-    save_file_path = "./output/party-result-{}.csv".format(area_name)
+    save_file_path = "./output/party-results/party-result-{}.csv".format(area_name)
     parties.to_csv(save_file_path, sep=";", index=False)
     print("Finished {}".format(save_file_path))
 

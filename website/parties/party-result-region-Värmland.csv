@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 RF;17;Värmland;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+RF;17;Värmland;ANARKISTERNA; ;1628;;
 RF;17;Värmland;ANDOPARTIET; ;1602;;
 RF;17;Värmland;Arbetarepartiet-Socialdemokraterna;S;2;34.61382847270063;https://www.socialdemokraterna.se/
 RF;17;Värmland;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+RF;17;Värmland;Bjornpartiet; ;1629;;
 RF;17;Värmland;Centerpartiet;C;4;9.556146048617261;https://www.centerpartiet.se/
 RF;17;Värmland;Common sense in Sweden;CSIS;1318;;https://common-sene-in-sweden.webnode.se/
+RF;17;Värmland;Det minst dåliga partiet; ;1622;;
 RF;17;Värmland;Direktdemokraterna;DD;1150;;https://direktdemokraterna.se/en/
+RF;17;Värmland;Drivkraft; ;1621;;
 RF;17;Värmland;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 RF;17;Värmland;Enad Politik; ;1589;;
 RF;17;Värmland;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 RF;17;Värmland;Enhet;ENH;189;0.0;https://www.enhet.se/
+RF;17;Värmland;Enskild person/Riksdagen val; ;1614;;
+RF;17;Värmland;Eropean radical reflektion a european dream party ERR; ;1626;;
+RF;17;Värmland;Europeiska Arbetarpartiet-EAP;EAP;29;;
 RF;17;Värmland;EUSEC; ;1534;;
+RF;17;Värmland;FAMILJENS FRIHET; ;1606;;
+RF;17;Värmland;Fattigmans parti; ;1618;;
 RF;17;Värmland;Feministiskt initiativ;FI;532;0.4570853699876433;https://feministisktinitiativ.se/
+RF;17;Värmland;FN Parti art.27; ;1631;;
 RF;17;Värmland;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 RF;17;Värmland;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 RF;17;Värmland;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ RF;17;Värmland;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 RF;17;Värmland;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 RF;17;Värmland;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 RF;17;Värmland;Humanistisk demokrati (HD);HD;1480;;
+RF;17;Värmland;Invandrarpartiet; ;1624;;
 RF;17;Värmland;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 RF;17;Värmland;Kalle ankapartiet; ;1579;;
 RF;17;Värmland;Kapitalism med vänligt ansikte; ;1495;;
 RF;17;Värmland;Klassiskt liberala partiet;KLP;638;;https://www.liberalapartiet.se/
 RF;17;Värmland;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 RF;17;Värmland;Kristdemokraterna;KD;68;6.366936762567114;https://kristdemokraterna.se/
-RF;17;Värmland;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+RF;17;Värmland;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+RF;17;Värmland;KSP; ;1612;;
 RF;17;Värmland;Kärlek; ;1465;;http://www.karlekspartiet.se/
 RF;17;Värmland;Landsbygdspartiet Oberoende;LPo;1011;0.001093505669826898;https://landsbygdspartiet.org/
 RF;17;Värmland;Liberalerna (tidigare Folkpartiet);L;3;4.562652407352732;https://www.liberalerna.se/
@@ -39,32 +51,41 @@ RF;17;Värmland;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamlin
 RF;17;Värmland;Miljöpartiet de gröna;MP;55;3.04049251495369;https://www.mp.se/
 RF;17;Värmland;Min röst; ;1437;;
 RF;17;Värmland;MITT SVERIGE; ;1591;;
+RF;17;Värmland;MoD; ;1568;;https://partietmod.se/
 RF;17;Värmland;Moderaterna;M;1;14.332578814421154;https://moderaterna.se/
 RF;17;Värmland;Monisterna; ;1502;;
 RF;17;Värmland;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 RF;17;Värmland;Nationalsocialistiska reformistiska Partiet; ;1595;;
 RF;17;Värmland;NaturFilosoferna; ;1460;;
+RF;17;Värmland;Naturistpartiet; ;1627;;
+RF;17;Värmland;Neoteknokraterna; ;1613;;
 RF;17;Värmland;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-RF;17;Värmland;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+RF;17;Värmland;Nu får det fan vara nog; ;1623;;
+RF;17;Värmland;Ny Demokrati; ;1596;;
+RF;17;Värmland;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 RF;17;Värmland;Nya Frihetspartiet; ;1443;;
 RF;17;Värmland;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 RF;17;Värmland;OK; ;1478;;
 RF;17;Värmland;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 RF;17;Värmland;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-RF;17;Värmland;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+RF;17;Värmland;Partiet Frihet; ;1599;;
+RF;17;Värmland;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 RF;17;Värmland;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 RF;17;Värmland;Pax; ;1491;;https://www.paxpartiet.se/
 RF;17;Värmland;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+RF;17;Värmland;Politiskt Skifte; ;1617;;
 RF;17;Värmland;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 RF;17;Värmland;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+RF;17;Värmland;Reformpartiet; ;1616;;
 RF;17;Värmland;Rikspolitiska partiet; ;1496;;
 RF;17;Värmland;Sjukvårdspartiet i Värmland;SjvV;250;7.844262922503253;https://www.sjukvardspartietivarmland.se/
-RF;17;Värmland;SKP; ;1586;;https://skp.se
+RF;17;Värmland;SKP;Skp;1586;;https://skp.se
 RF;17;Värmland;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 RF;17;Värmland;Socialisterna-Välfärdspartiet;S-V;977;;https://www.valfardspartiet.org/
 RF;17;Värmland;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 RF;17;Värmland;Stora Norrlands oberoende Frihetsparti; ;1559;;
 RF;17;Värmland;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+RF;17;Värmland;Svensk Jobbdemokrati; ;1603;;
 RF;17;Värmland;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 RF;17;Värmland;SVENSKARNA; ;1444;;https://svenskarna.org/
 RF;17;Värmland;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,9 +94,11 @@ RF;17;Värmland;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 RF;17;Värmland;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 RF;17;Värmland;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 RF;17;Värmland;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+RF;17;Värmland;Upprorsdemokraterna; ;1630;;
 RF;17;Värmland;Valsamverkanspartiet; ;1526;;
 RF;17;Värmland;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+RF;17;Värmland;Volt Sverige;Volt;1610;;
 RF;17;Värmland;Vänsterpartiet;V;5;6.861748078163784;https://www.vansterpartiet.se/
-RF;17;Värmland;Värmlandslistan; ;1550;;
+RF;17;Värmland;Värmlandslistan;Värml;1550;;
 RF;17;Värmland;Yggdrasil; ;1454;;
 RF;17;Värmland;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

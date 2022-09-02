@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2081;Borlänge;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2081;Borlänge;ANARKISTERNA; ;1628;;
 KF;2081;Borlänge;ANDOPARTIET; ;1602;;
 KF;2081;Borlänge;Arbetarepartiet-Socialdemokraterna;S;2;32.24535226520667;https://www.socialdemokraterna.se/
 KF;2081;Borlänge;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2081;Borlänge;Bjornpartiet; ;1629;;
 KF;2081;Borlänge;Centerpartiet;C;4;8.110222008302749;https://www.centerpartiet.se/
 KF;2081;Borlänge;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2081;Borlänge;Det minst dåliga partiet; ;1622;;
 KF;2081;Borlänge;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2081;Borlänge;Drivkraft; ;1621;;
 KF;2081;Borlänge;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2081;Borlänge;Enad Politik; ;1589;;
 KF;2081;Borlänge;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2081;Borlänge;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2081;Borlänge;Enskild person/Riksdagen val; ;1614;;
+KF;2081;Borlänge;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2081;Borlänge;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2081;Borlänge;EUSEC; ;1534;;
+KF;2081;Borlänge;FAMILJENS FRIHET; ;1606;;
+KF;2081;Borlänge;Fattigmans parti; ;1618;;
 KF;2081;Borlänge;Feministiskt initiativ;FI;532;0.24968413452860835;https://feministisktinitiativ.se/
+KF;2081;Borlänge;FN Parti art.27; ;1631;;
 KF;2081;Borlänge;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2081;Borlänge;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;2081;Borlänge;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;2081;Borlänge;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2081;Borlänge;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2081;Borlänge;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2081;Borlänge;Humanistisk demokrati (HD);HD;1480;;
+KF;2081;Borlänge;Invandrarpartiet; ;1624;;
 KF;2081;Borlänge;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2081;Borlänge;Kalle ankapartiet; ;1579;;
 KF;2081;Borlänge;Kapitalism med vänligt ansikte; ;1495;;
 KF;2081;Borlänge;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;2081;Borlänge;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2081;Borlänge;Kristdemokraterna;KD;68;4.443174297575356;https://kristdemokraterna.se/
-KF;2081;Borlänge;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2081;Borlänge;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2081;Borlänge;KSP; ;1612;;
 KF;2081;Borlänge;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2081;Borlänge;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;2081;Borlänge;Liberalerna (tidigare Folkpartiet);L;3;5.468985018951928;https://www.liberalerna.se/
@@ -39,33 +51,42 @@ KF;2081;Borlänge;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsaml
 KF;2081;Borlänge;Miljöpartiet de gröna;MP;55;3.4985861259851996;https://www.mp.se/
 KF;2081;Borlänge;Min röst; ;1437;;
 KF;2081;Borlänge;MITT SVERIGE; ;1591;;
+KF;2081;Borlänge;MoD; ;1568;;https://partietmod.se/
 KF;2081;Borlänge;Moderaterna;M;1;19.282834967811805;https://moderaterna.se/
 KF;2081;Borlänge;Monisterna; ;1502;;
 KF;2081;Borlänge;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2081;Borlänge;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2081;Borlänge;NaturFilosoferna; ;1460;;
+KF;2081;Borlänge;Naturistpartiet; ;1627;;
+KF;2081;Borlänge;Neoteknokraterna; ;1613;;
 KF;2081;Borlänge;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2081;Borlänge;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2081;Borlänge;Nu får det fan vara nog; ;1623;;
+KF;2081;Borlänge;Ny Demokrati; ;1596;;
+KF;2081;Borlänge;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2081;Borlänge;Nya Frihetspartiet; ;1443;;
 KF;2081;Borlänge;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
-KF;2081;Borlänge;NyFramtid; ;1367;;https://www.nyframtid.se/
+KF;2081;Borlänge;NyFramtid;NyF;1367;;https://www.nyframtid.se/
 KF;2081;Borlänge;OK; ;1478;;
 KF;2081;Borlänge;Omsorg för alla;Ofa;1369;2.180975873894471;https://www.facebook.com/omsorgforalla
 KF;2081;Borlänge;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2081;Borlänge;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2081;Borlänge;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2081;Borlänge;Partiet Frihet; ;1599;;
+KF;2081;Borlänge;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2081;Borlänge;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2081;Borlänge;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2081;Borlänge;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2081;Borlänge;Politiskt Skifte; ;1617;;
 KF;2081;Borlänge;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2081;Borlänge;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2081;Borlänge;Reformpartiet; ;1616;;
 KF;2081;Borlänge;Rikspolitiska partiet; ;1496;;
-KF;2081;Borlänge;SKP; ;1586;;https://skp.se
+KF;2081;Borlänge;SKP;Skp;1586;;https://skp.se
 KF;2081;Borlänge;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2081;Borlänge;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2081;Borlänge;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2081;Borlänge;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2081;Borlänge;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2081;Borlänge;Svensk Jobbdemokrati; ;1603;;
 KF;2081;Borlänge;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2081;Borlänge;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2081;Borlänge;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -74,8 +95,10 @@ KF;2081;Borlänge;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2081;Borlänge;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2081;Borlänge;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2081;Borlänge;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2081;Borlänge;Upprorsdemokraterna; ;1630;;
 KF;2081;Borlänge;Valsamverkanspartiet; ;1526;;
 KF;2081;Borlänge;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2081;Borlänge;Volt Sverige;Volt;1610;;
 KF;2081;Borlänge;Vänsterpartiet;V;5;7.135551410865772;https://www.vansterpartiet.se/
 KF;2081;Borlänge;Yggdrasil; ;1454;;
 KF;2081;Borlänge;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/

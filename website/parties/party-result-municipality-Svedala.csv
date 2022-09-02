@@ -1,18 +1,28 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;1263;Svedala;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;1263;Svedala;ANARKISTERNA; ;1628;;
 KF;1263;Svedala;ANDOPARTIET; ;1602;;
 KF;1263;Svedala;Arbetarepartiet-Socialdemokraterna;S;2;19.66893161775336;https://www.socialdemokraterna.se/
 KF;1263;Svedala;BARAPARTIET;BAP;1310;4.864825791528119;http://barapartiet.se/
 KF;1263;Svedala;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;1263;Svedala;Bjornpartiet; ;1629;;
 KF;1263;Svedala;Centerpartiet;C;4;5.088911377764927;https://www.centerpartiet.se/
 KF;1263;Svedala;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;1263;Svedala;Det minst dåliga partiet; ;1622;;
 KF;1263;Svedala;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;1263;Svedala;Drivkraft; ;1621;;
 KF;1263;Svedala;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;1263;Svedala;Enad Politik; ;1589;;
 KF;1263;Svedala;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;1263;Svedala;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;1263;Svedala;Enskild person/Riksdagen val; ;1614;;
+KF;1263;Svedala;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;1263;Svedala;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;1263;Svedala;EUSEC; ;1534;;
+KF;1263;Svedala;FAMILJENS FRIHET; ;1606;;
+KF;1263;Svedala;Fattigmans parti; ;1618;;
 KF;1263;Svedala;Feministiskt initiativ;FI;532;0.26022842272661556;https://feministisktinitiativ.se/
+KF;1263;Svedala;FN Parti art.27; ;1631;;
 KF;1263;Svedala;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;1263;Svedala;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;1263;Svedala;Fredspartiet; ;1484;;
@@ -24,13 +34,15 @@ KF;1263;Svedala;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;1263;Svedala;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;1263;Svedala;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;1263;Svedala;Humanistisk demokrati (HD);HD;1480;;
+KF;1263;Svedala;Invandrarpartiet; ;1624;;
 KF;1263;Svedala;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;1263;Svedala;Kalle ankapartiet; ;1579;;
 KF;1263;Svedala;Kapitalism med vänligt ansikte; ;1495;;
 KF;1263;Svedala;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;1263;Svedala;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;1263;Svedala;Kristdemokraterna;KD;68;2.970941159462195;https://kristdemokraterna.se/
-KF;1263;Svedala;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;1263;Svedala;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;1263;Svedala;KSP; ;1612;;
 KF;1263;Svedala;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;1263;Svedala;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;1263;Svedala;Liberalerna (tidigare Folkpartiet);L;3;4.785311551250542;https://www.liberalerna.se/
@@ -40,31 +52,40 @@ KF;1263;Svedala;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamlin
 KF;1263;Svedala;Miljöpartiet de gröna;MP;55;3.4191123319358105;https://www.mp.se/
 KF;1263;Svedala;Min röst; ;1437;;
 KF;1263;Svedala;MITT SVERIGE; ;1591;;
+KF;1263;Svedala;MoD; ;1568;;https://partietmod.se/
 KF;1263;Svedala;Moderaterna;M;1;23.897643487060865;https://moderaterna.se/
 KF;1263;Svedala;Monisterna; ;1502;;
 KF;1263;Svedala;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;1263;Svedala;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;1263;Svedala;NaturFilosoferna; ;1460;;
+KF;1263;Svedala;Naturistpartiet; ;1627;;
+KF;1263;Svedala;Neoteknokraterna; ;1613;;
 KF;1263;Svedala;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;1263;Svedala;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;1263;Svedala;Nu får det fan vara nog; ;1623;;
+KF;1263;Svedala;Ny Demokrati; ;1596;;
+KF;1263;Svedala;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;1263;Svedala;Nya Frihetspartiet; ;1443;;
 KF;1263;Svedala;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;1263;Svedala;OK; ;1478;;
 KF;1263;Svedala;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;1263;Svedala;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;1263;Svedala;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;1263;Svedala;Partiet Frihet; ;1599;;
+KF;1263;Svedala;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;1263;Svedala;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;1263;Svedala;Pax; ;1491;;https://www.paxpartiet.se/
 KF;1263;Svedala;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;1263;Svedala;Politiskt Skifte; ;1617;;
 KF;1263;Svedala;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;1263;Svedala;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;1263;Svedala;Reformpartiet; ;1616;;
 KF;1263;Svedala;Rikspolitiska partiet; ;1496;;
-KF;1263;Svedala;SKP; ;1586;;https://skp.se
+KF;1263;Svedala;SKP;Skp;1586;;https://skp.se
 KF;1263;Svedala;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;1263;Svedala;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;1263;Svedala;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;1263;Svedala;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;1263;Svedala;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;1263;Svedala;Svensk Jobbdemokrati; ;1603;;
 KF;1263;Svedala;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;1263;Svedala;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;1263;Svedala;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -73,8 +94,10 @@ KF;1263;Svedala;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;1263;Svedala;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;1263;Svedala;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;1263;Svedala;TRYGGHETSPARTIET;TRP;1309;0.491542576261385;https://trygghetspartiet.blogspot.com/
+KF;1263;Svedala;Upprorsdemokraterna; ;1630;;
 KF;1263;Svedala;Valsamverkanspartiet; ;1526;;
 KF;1263;Svedala;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;1263;Svedala;Volt Sverige;Volt;1610;;
 KF;1263;Svedala;Vänsterpartiet;V;5;2.291455833453809;https://www.vansterpartiet.se/
 KF;1263;Svedala;Yggdrasil; ;1454;;
 KF;1263;Svedala;Älska Svedala;ÄS;1379;4.937111464507734;https://www.alskasvedala.se/

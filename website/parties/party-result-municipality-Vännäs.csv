@@ -1,17 +1,27 @@
 VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
 KF;2460;Vännäs;Alternativ för Sverige;AfS;1325;;https://alternativforsverige.se/
+KF;2460;Vännäs;ANARKISTERNA; ;1628;;
 KF;2460;Vännäs;ANDOPARTIET; ;1602;;
 KF;2460;Vännäs;Arbetarepartiet-Socialdemokraterna;S;2;30.599537448852516;https://www.socialdemokraterna.se/
 KF;2460;Vännäs;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
+KF;2460;Vännäs;Bjornpartiet; ;1629;;
 KF;2460;Vännäs;Centerpartiet;C;4;26.561110122753956;https://www.centerpartiet.se/
 KF;2460;Vännäs;Common sense in Sweden;CSIS;1318;0.0;https://common-sene-in-sweden.webnode.se/
+KF;2460;Vännäs;Det minst dåliga partiet; ;1622;;
 KF;2460;Vännäs;Direktdemokraterna;DD;1150;0.0;https://direktdemokraterna.se/en/
+KF;2460;Vännäs;Drivkraft; ;1621;;
 KF;2460;Vännäs;En Vis Avskaffar Asylrätten!;EVA;1482;;https://visocialkonservativa.se/
 KF;2460;Vännäs;Enad Politik; ;1589;;
 KF;2460;Vännäs;Enade Sverige; ;1448;;https://www.vaken.se/enade-sverige-ett-initiativ-av-bosse-jonsson/
 KF;2460;Vännäs;Enhet;ENH;189;0.0;https://www.enhet.se/
+KF;2460;Vännäs;Enskild person/Riksdagen val; ;1614;;
+KF;2460;Vännäs;Eropean radical reflektion a european dream party ERR; ;1626;;
+KF;2460;Vännäs;Europeiska Arbetarpartiet-EAP;EAP;29;;
 KF;2460;Vännäs;EUSEC; ;1534;;
+KF;2460;Vännäs;FAMILJENS FRIHET; ;1606;;
+KF;2460;Vännäs;Fattigmans parti; ;1618;;
 KF;2460;Vännäs;Feministiskt initiativ;FI;532;0.24906600249066002;https://feministisktinitiativ.se/
+KF;2460;Vännäs;FN Parti art.27; ;1631;;
 KF;2460;Vännäs;FOLKOMROSTA2021.SE; ;1489;;https://folketsframtid.se/
 KF;2460;Vännäs;FramtidsTro;FT;1449;;https://www.facebook.com/people/FramtidsTro/100066500144905/
 KF;2460;Vännäs;Fredspartiet; ;1484;;
@@ -23,13 +33,15 @@ KF;2460;Vännäs;Företaget Sverige; ;1510;;http://www.foretagetsverige.se
 KF;2460;Vännäs;GRÖNA DEMOKRATER; ;1601;;https://naturpartiet.org/
 KF;2460;Vännäs;Gula västarna; ;1436;;https://www.facebook.com/people/Gula-V%C3%A4starna/100067293486961/
 KF;2460;Vännäs;Humanistisk demokrati (HD);HD;1480;;
+KF;2460;Vännäs;Invandrarpartiet; ;1624;;
 KF;2460;Vännäs;John Mikkonen; ;1598;;http://www.johnmikkonen.se/
 KF;2460;Vännäs;Kalle ankapartiet; ;1579;;
 KF;2460;Vännäs;Kapitalism med vänligt ansikte; ;1495;;
 KF;2460;Vännäs;Klassiskt liberala partiet;KLP;638;0.0;https://www.liberalapartiet.se/
 KF;2460;Vännäs;Knapptryckarna; ;1505;;https://knapptryckarna.se/
 KF;2460;Vännäs;Kristdemokraterna;KD;68;5.799679772282512;https://kristdemokraterna.se/
-KF;2460;Vännäs;Kristna Värdepartiet; ;1551;;https://www.kristnavardepartiet.se/
+KF;2460;Vännäs;Kristna Värdepartiet;KrVP;1551;0.0;https://www.kristnavardepartiet.se/
+KF;2460;Vännäs;KSP; ;1612;;
 KF;2460;Vännäs;Kärlek; ;1465;;http://www.karlekspartiet.se/
 KF;2460;Vännäs;Landsbygdspartiet Oberoende;LPo;1011;0.0;https://landsbygdspartiet.org/
 KF;2460;Vännäs;Liberalerna (tidigare Folkpartiet);L;3;3.0065824586372534;https://www.liberalerna.se/
@@ -39,31 +51,40 @@ KF;2460;Vännäs;Medborgerlig Samling;MED;1296;0.0;https://www.medborgerligsamli
 KF;2460;Vännäs;Miljöpartiet de gröna;MP;55;4.074008183597225;https://www.mp.se/
 KF;2460;Vännäs;Min röst; ;1437;;
 KF;2460;Vännäs;MITT SVERIGE; ;1591;;
+KF;2460;Vännäs;MoD; ;1568;;https://partietmod.se/
 KF;2460;Vännäs;Moderaterna;M;1;9.446717665895749;https://moderaterna.se/
 KF;2460;Vännäs;Monisterna; ;1502;;
 KF;2460;Vännäs;Mälaröarnas parti; ;1440;;https://www.facebook.com/malaroarnasparti
 KF;2460;Vännäs;Nationalsocialistiska reformistiska Partiet; ;1595;;
 KF;2460;Vännäs;NaturFilosoferna; ;1460;;
+KF;2460;Vännäs;Naturistpartiet; ;1627;;
+KF;2460;Vännäs;Neoteknokraterna; ;1613;;
 KF;2460;Vännäs;Nix to the Six; ;1519;;https://www.nix-to-the-six.se/sv/
-KF;2460;Vännäs;NY REFORM; ;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
+KF;2460;Vännäs;Nu får det fan vara nog; ;1623;;
+KF;2460;Vännäs;Ny Demokrati; ;1596;;
+KF;2460;Vännäs;NY REFORM (NR);NR;1528;;https://www.facebook.com/people/Ny-Reform/100066942525942/
 KF;2460;Vännäs;Nya Frihetspartiet; ;1443;;
 KF;2460;Vännäs;Nya Samhällspartiet; ;1438;;https://www.facebook.com/NyaSP.riks/
 KF;2460;Vännäs;OK; ;1478;;
 KF;2460;Vännäs;Ond Kyckling Partiet; ;1472;;http://denondakycklingen.info/
 KF;2460;Vännäs;Partiet Folkomröstning; ;1578;;https://www.partietfolkomrostning.se/
-KF;2460;Vännäs;Partiet Nyans; ;1439;;https://www.partietnyans.se/
+KF;2460;Vännäs;Partiet Frihet; ;1599;;
+KF;2460;Vännäs;Partiet Nyans;PNy;1439;;https://www.partietnyans.se/
 KF;2460;Vännäs;Partiet Vändpunkt;PV;1430;;https://partietvandpunkt.se/
 KF;2460;Vännäs;Pax; ;1491;;https://www.paxpartiet.se/
 KF;2460;Vännäs;Piratpartiet;PP;524;0.0;https://piratpartiet.se/
+KF;2460;Vännäs;Politiskt Skifte; ;1617;;
 KF;2460;Vännäs;Positivt Samhällsinitiativ (PSI); ;1475;;https://www.instagram.com/positivt_samhallsinitiativpsi/
 KF;2460;Vännäs;Rastliberalerna; ;1508;;https://www.facebook.com/Rastliberalerna
+KF;2460;Vännäs;Reformpartiet; ;1616;;
 KF;2460;Vännäs;Rikspolitiska partiet; ;1496;;
-KF;2460;Vännäs;SKP; ;1586;;https://skp.se
+KF;2460;Vännäs;SKP;Skp;1586;;https://skp.se
 KF;2460;Vännäs;SKÅNEPARTIET;SKÅ;54;0.0;http://skanepartiet.org/
 KF;2460;Vännäs;Socialisterna-Välfärdspartiet;S-V;977;0.0;https://www.valfardspartiet.org/
 KF;2460;Vännäs;Sociallibertarianerna; ;1507;;https://sociallibertarianerna.se/
 KF;2460;Vännäs;Stora Norrlands oberoende Frihetsparti; ;1559;;
 KF;2460;Vännäs;Stram Kurs Sverige; ;1592;;https://www.facebook.com/stramkurssverige
+KF;2460;Vännäs;Svensk Jobbdemokrati; ;1603;;
 KF;2460;Vännäs;Svenska Rikslagen; ;1513;;https://svenskarikslagen.se/
 KF;2460;Vännäs;SVENSKARNA; ;1444;;https://svenskarna.org/
 KF;2460;Vännäs;Sverige ut ur EU/Frihetliga Rättvisepartiet (FRP); ;1493;;
@@ -72,8 +93,10 @@ KF;2460;Vännäs;Sverigepartiet; ;1457;;https://sverigepartiet.se/
 KF;2460;Vännäs;Swexitpartiet; ;1461;;http://www.ulfstrom.se/swexitpartiet.html
 KF;2460;Vännäs;Säkerhetspartiet; ;1466;;https://säkerhetspartiet.yolasite.com/
 KF;2460;Vännäs;TRYGGHETSPARTIET;TRP;1309;0.0;https://trygghetspartiet.blogspot.com/
+KF;2460;Vännäs;Upprorsdemokraterna; ;1630;;
 KF;2460;Vännäs;Valsamverkanspartiet; ;1526;;
 KF;2460;Vännäs;Vinningspartiet; ;1468;;https://vinningspartiet.art.blog/
+KF;2460;Vännäs;Volt Sverige;Volt;1610;;
 KF;2460;Vännäs;Vänsterpartiet;V;5;12.844689557018324;https://www.vansterpartiet.se/
 KF;2460;Vännäs;Yggdrasil; ;1454;;
 KF;2460;Vännäs;Ändrings partiet revolution; ;1404;;https://www.instagram.com/andrings_partiet_revolution/
