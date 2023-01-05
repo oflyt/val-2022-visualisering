@@ -1,8 +1,8 @@
-VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url
+VALTYP;VALOMRÅDESKOD;VALOMRÅDESNAMN;PARTIBETECKNING;PARTIFÖRKORTNING;PARTIKOD;result_2018;url;color
 RD;0;Riket;Alternativ för Sverige;AfS;1325;0.3132756138326083;https://alternativforsverige.se/
 RD;0;Riket;ANARKISTERNA; ;1628;;
 RD;0;Riket;ANDOPARTIET; ;1602;;
-RD;0;Riket;Arbetarepartiet-Socialdemokraterna;S;2;28.26098066538258;https://www.socialdemokraterna.se/
+RD;0;Riket;Arbetarepartiet-Socialdemokraterna;S;2;28.26098066538258;https://www.socialdemokraterna.se/;red
 RD;0;Riket;Basinkomstpartiet; ;1525;;https://www.basinkomstpartiet.org/
 RD;0;Riket;Bjornpartiet; ;1629;;
 RD;0;Riket;Centerpartiet;C;4;8.607745426893993;https://www.centerpartiet.se/

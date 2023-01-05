@@ -8,6 +8,10 @@ import party_statistics_process
 
 
 def main() -> None:
+    # https://www.val.se/download/18.14c1f613181ed0043d58dd4/1667208175978/Roster-per-distrikt-slutligt-antal-roster-inklusive-totalt-valdeltagande-riksdagsvalet-2022.xlsx
+    # https://www.val.se/download/18.14c1f613181ed0043d58dd6/1667210465621/roster-per-distrikt-slutligt-antal-roster-inklusive-totalt-valdeltagande-regionval-2022.xlsx
+    # https://www.val.se/download/18.14c1f613181ed0043d58dd8/1667210741987/roster-per-distrikt-slutligt-antal-roster-inklusive-totalt-valdeltagande-kommunval-2022.xlsx
+
     # print("Downloading...")
     # download_file("https://www.val.se/download/18.75995f7b17f5a986a4eebb/1662088208176/deltagande-partier.csv", "../data-collected/deltagande-partier.csv")
     # download_file("https://historik.val.se/val/val2018/statistik/2018_R_per_kommun.xlsx", "../data-collected/2018_R_per_kommun.xlsx")
