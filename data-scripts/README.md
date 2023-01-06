@@ -6,6 +6,8 @@ root
 │   │   2018_L_per_kommun.xlsx <-- https://data.val.se/val/val2018/statistik/index.html
 │   │   2018_R_per_kommun.xlsx <---
 │   │   deltagande-partier.csv <-- https://www.val.se/for-partier/anmalda-partier.html
+|   |   party-code-websites.csv <-- Hand-made with columns: party, party_code, url, comment
+|   |   party-color.csv <-- Hand-made with columns: party, color (https://sv.wikipedia.org/wiki/Kategori:Sveriges_partif%C3%A4rgsmallar, https://sv.wikipedia.org/wiki/Mall:Partif%C3%A4rg)
 │   │
 │   └───sverige-geodata <-- https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/digitala-granser/
 │       │

@@ -1,40 +1,3 @@
-.container, .row, .card {
-    height: 100% !important;
-}
-
-.list-group {
-    overflow: scroll;
-    -webkit-overflow-scrolling: touch;
-}
-
-.float-right {
-    float: right;
-}
-
-#map-view > * {
-    max-height: 100%; 
-    overflow: scroll;
-    -webkit-overflow-scrolling: touch;
-}
-
-@media(min-width: 992px) {
-    #map-view, #list-view {
-        height: 100%;
-        padding: 0px;
-    }
-}
-
-@media(max-width: 992px) {
-    #map-view {
-        height: 65%;
-        padding: 0px;
-    }
-    #list-view {
-        height: 35%;
-        padding: 0px;
-    }
-}
-
 .info {
     float: left;
     position: absolute;
@@ -43,7 +6,6 @@
     overflow: visible;
 }
 
-/* MAP */
 svg {
     /* SVG Frame */
     outline: thin solid lightgray;

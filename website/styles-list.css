@@ -1,0 +1,12 @@
+.card.list {
+    height: 100% !important;
+}
+
+.list-group {
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.float-right {
+    float: right;
+}

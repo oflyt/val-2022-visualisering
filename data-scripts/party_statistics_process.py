@@ -12,7 +12,7 @@ def read_parties_csv(parties_file_path):
     ).drop_duplicates()
 
 
-def create_result_csv(area_name: str, parties: pd.DataFrame, result: pd.DataFrame, party_websites: pd.DataFrame):
+def create_result_csv(area_name: str, parties: pd.DataFrame, result: pd.DataFrame, party_websites: pd.DataFrame, party_colors: pd.DataFrame):
     # Clean out result columns
     result.drop(
         [
@@ -43,6 +43,9 @@ def create_result_csv(area_name: str, parties: pd.DataFrame, result: pd.DataFram
     # Join party websites with parties list
     for index, (party_name, party_code, party_url, comment) in party_websites.iterrows():
         parties.loc[parties['PARTIKOD'] == party_code, 'url'] = party_url
+    
+    for index, (party_name, party_code, party_color, comment) in party_colors.iterrows():
+        parties.loc[parties['PARTIKOD'] == party_code, 'color'] = party_color
 
     print("Parties in list {}".format(len(parties.index)))
     print("Parties with result {}".format(len(result_agg)))
@@ -59,16 +62,18 @@ def main(
         result_region_file_path: str,
         result_municipality_file_path: str,
         party_websites_file_path: str,
+        party_colors_file_path: str,
 ):
     parties_per_district = read_parties_csv(parties_file_path)
     party_websites = pd.read_csv(party_websites_file_path, sep=";")
+    party_colors = pd.read_csv(party_colors_file_path, sep=";")
 
     # print_parties_without_url(parties_per_district, party_websites)
 
     # Country
     parties_country = parties_per_district[parties_per_district['VALTYP'] == 'RD'].copy()
     result_country = pd.read_excel(result_country_file_path, sheet_name="R antal", engine="openpyxl").fillna(0)
-    create_result_csv("country", parties_country, result_country, party_websites)
+    create_result_csv("country", parties_country, result_country, party_websites, party_colors)
 
     # Region
     parties_regions = parties_per_district[parties_per_district['VALTYP'] == 'RF'].copy()
@@ -83,7 +88,8 @@ def main(
             "region-{}".format(region_name),
             parties_current_region,
             result_current_region,
-            party_websites
+            party_websites,
+            party_colors
         )
 
     # Municipality
@@ -96,7 +102,8 @@ def main(
             "municipality-{}".format(municipality_name),
             parties_current_municipality,
             result_current_municipality,
-            party_websites
+            party_websites,
+            party_colors
         )
 
 
@@ -118,4 +125,5 @@ if __name__ == '__main__':
         "../data-collected/2018_L_per_kommun.xlsx",
         "../data-collected/2018_K_per_kommun.xlsx",
         "../data-collected/party-code-websites.csv",
+        "../data-collected/party-code-colors.csv",
     )

@@ -1,7 +1,7 @@
 class GeoPlot {
 
     static setup(featureCollectionToProjectTo, svgSize) {
-        const svg = d3.select("svg")
+        const svg = d3.select("svg#map")
             .attr("width", svgSize.width)
             .attr("height", svgSize.height)
             .attr("transform", "translate(" + 0 + "," + 0 + ")");

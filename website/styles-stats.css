@@ -1,0 +1,17 @@
+.card.stats {
+    height: 100% !important;
+}
+
+#pie-chart-container {
+    height: 50%;
+}
+
+#bar-chart-container {
+    height: 50%;
+}
+
+.arc > path {
+    fill-opacity: .7;
+    stroke: black;
+    stroke-width: 2px;
+}
