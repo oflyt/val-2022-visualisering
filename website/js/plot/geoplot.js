@@ -31,7 +31,7 @@ class GeoPlot {
         // Add title if property exists
         paths
             .each(function(d) {
-                if(d.properties.title) {
+                if (d.properties.title) {
                     d3.select(this)
                         .append("title")
                         .text(d => d.properties.title);

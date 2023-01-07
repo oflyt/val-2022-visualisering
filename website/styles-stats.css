@@ -10,8 +10,18 @@
     height: 50%;
 }
 
-.arc > path {
+.pie-slice, .bar {
     fill-opacity: .7;
     stroke: black;
-    stroke-width: 2px;
+    stroke-width: 0.7;
+}
+
+.pie-slice.out-of-focus, .bar.out-of-focus {
+    fill-opacity: .4;
+    stroke-width: 0.3;
+}
+
+.pie-slice.hovered, .pie-slice.selected, .bar.hovered, .bar.selected {
+    fill-opacity: .7;
+    stroke-width: 2;
 }

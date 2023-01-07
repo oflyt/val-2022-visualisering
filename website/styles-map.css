@@ -15,35 +15,37 @@ svg {
 }
 
 .region.out-of-focus {
-    fill-opacity: .4;
-    stroke: black;
+    fill-opacity: .3;
     stroke-width: 0.3;
 }
 
 .region.hovered, .region.selected {
-    fill-opacity: .7;
-    stroke: black;
+    fill-opacity: .6;
     stroke-width: 2;
 }
 
 .region {
-    fill-opacity: .7;
+    fill-opacity: .6;
     stroke: black;
     stroke-width: 0.5;
 }
 
 .municipality.out-of-focus {
-    fill-opacity: .8;
-    stroke: black;
+    fill-opacity: .4;
     stroke-width: 0.1;
 }
 
 .municipality {
-    fill-opacity: 1.0;
+    fill-opacity: 0.6;
     stroke: black;
     stroke-width: 0.3;
 }
 
+.municipality.hovered {
+    fill-opacity: 1.0;
+}
+
 .municipality.selected {
-    fill: red;
+    fill-opacity: 1.0;
+    stroke-width: 1.0;
 }

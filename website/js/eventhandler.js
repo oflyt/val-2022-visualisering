@@ -5,7 +5,7 @@ class EventHandlerFunctions {
             d3.selectAll(`.${className}`)
                 .classed("hovered", false)
                 .classed("out-of-focus", true);
-            d3.select(domElement)
+            return d3.select(domElement)
                 .classed("hovered", true)
                 .classed("out-of-focus", false);
         }
@@ -17,7 +17,9 @@ class EventHandlerFunctions {
             d3.selectAll(`.${className}`)
                 .classed("hovered", false)
                 .classed("out-of-focus", false);
+            return true;
         }
+        return false;
     }
 
     static select(datum, domElement, className) {

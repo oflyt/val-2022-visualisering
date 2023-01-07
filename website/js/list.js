@@ -11,10 +11,10 @@ class List {
             .enter()
             .append("div")
             .attr("class", "list-group-item")
-            .sort((x, y) => d3.ascending(x.PARTIBETECKNING, y.PARTIBETECKNING))
+            .sort((x, y) => d3.ascending(x.name, y.name))
             .sort((x, y) => d3.descending(
-                Optional.of(x.result_2018).map(parseFloat).else(-1), 
-                Optional.of(y.result_2018).map(parseFloat).else(-1)
+                Optional.of(x.value).map(parseFloat).else(-1), 
+                Optional.of(y.value).map(parseFloat).else(-1)
             ))
             .each(function(d) {
                 if (d.color) {
@@ -22,14 +22,14 @@ class List {
                     Append.selectedBy(this).span(" ");
                 }
                 if (d.url != "") {
-                    Append.selectedBy(this).link(d.url, d.PARTIBETECKNING);
+                    Append.selectedBy(this).link(d.url, d.name);
                 } else {
-                    Append.selectedBy(this).text(d.PARTIBETECKNING);
+                    Append.selectedBy(this).text(d.name);
                 }
 
                 Append.selectedBy(this)
                     .floatRight()
-                    .text(Optional.of(d.result_2018).map(v => parseFloat(v).toFixed(3) + "%").else("-"));
+                    .text(Optional.of(d.value).map(v => parseFloat(v).toFixed(3) + "%").else("-"));
             });
     }
 
