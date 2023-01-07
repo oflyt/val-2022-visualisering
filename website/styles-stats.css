@@ -11,17 +11,19 @@
 }
 
 .pie-slice, .bar {
-    fill-opacity: .7;
+    fill-opacity: 1.0;
     stroke: black;
     stroke-width: 0.7;
 }
 
+.pie-slice.hovered, .pie-slice.selected, .bar.hovered, .bar.selected {
+    stroke-width: 2;
+}
+
 .pie-slice.out-of-focus, .bar.out-of-focus {
-    fill-opacity: .4;
     stroke-width: 0.3;
 }
 
-.pie-slice.hovered, .pie-slice.selected, .bar.hovered, .bar.selected {
-    fill-opacity: .7;
-    stroke-width: 2;
+.pie-slice.not-selected, .bar.not-selected {
+    fill-opacity: .4;
 }

@@ -14,38 +14,36 @@ svg {
     position: absolute;
 }
 
-.region.out-of-focus {
-    fill-opacity: .3;
-    stroke-width: 0.3;
-}
-
-.region.hovered, .region.selected {
-    fill-opacity: .6;
-    stroke-width: 2;
-}
-
+/* Region */
 .region {
-    fill-opacity: .6;
+    fill-opacity: 1.0;
     stroke: black;
     stroke-width: 0.5;
 }
 
-.municipality.out-of-focus {
-    fill-opacity: .4;
-    stroke-width: 0.1;
+.region.hovered {
+    stroke-width: 2.0;
 }
 
+.region.out-of-focus {
+    stroke-width: 0.3;
+}
+
+.region.not-selected {
+    fill-opacity: 0.3;
+}
+
+
+/* Municipality */
 .municipality {
-    fill-opacity: 0.6;
     stroke: black;
     stroke-width: 0.3;
 }
 
-.municipality.hovered {
-    fill-opacity: 1.0;
+.municipality.hovered, .municipality.selected {
+    stroke-width: 1.5;
 }
 
-.municipality.selected {
-    fill-opacity: 1.0;
-    stroke-width: 1.0;
+.municipality.not-selected {
+    stroke-width: 0.1;
 }

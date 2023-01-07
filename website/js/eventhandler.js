@@ -25,12 +25,13 @@ class EventHandlerFunctions {
     static select(datum, domElement, className) {
         if (EventHandlerFunctions.hasSelection(className)) {
             // Something already selected
-            d3.selectAll(`.${className}.selected`).attr("class", `${className} out-of-focus`);
+            d3.selectAll(`.${className}`).attr("class", `${className} out-of-focus not-selected`);
             d3.select(domElement).attr("class", `${className} selected`);
             datum.stopPropagation();
             return true;
         } else if (d3.selectAll(`.${className}.selected`).empty()) {
             // Nothing selected
+            d3.selectAll(`.${className}`).attr("class", `${className} out-of-focus not-selected`);
             d3.select(domElement).attr("class", `${className} selected`);
             datum.stopPropagation();
             return true;

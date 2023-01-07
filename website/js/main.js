@@ -187,9 +187,11 @@ function main() {
         Region.plotAll(path, regions, svgSize);
         svg.on("click", d => {
             if (EventHandlerFunctions.deselect("municipality")) {
-                Municipality.deselect().then(() => Global.reselectParty());
+                Municipality.deselect().then(() => Global.reselectParty(false));
             } else if (EventHandlerFunctions.deselect("region")) {
                 Region.deselect().then(() => Global.reselectParty());
+            } else if (Global.selectedParty) {
+                Global.deselectParty();
             }
         });
         Country.listParties();

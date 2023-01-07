@@ -58,7 +58,7 @@ class Statistics {
         }
 
         static select(pieSliceToSelect) {
-            d3.selectAll(".pie-slice").attr("class", "pie-slice out-of-focus");
+            d3.selectAll(".pie-slice").attr("class", "pie-slice out-of-focus not-selected");
             pieSliceToSelect.attr("class", "pie-slice selected")
         }
 
@@ -126,7 +126,7 @@ class Statistics {
         }
 
         static select(barToSelect) {
-            d3.selectAll(".bar").attr("class", "bar out-of-focus");
+            d3.selectAll(".bar").attr("class", "bar out-of-focus not-selected");
             barToSelect.attr("class", "bar selected")
         }
 
