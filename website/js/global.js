@@ -12,11 +12,13 @@ class Global {
     static focusParty(partyName) {
         Statistics.BarChart.focus(Statistics.BarChart.findBarWith(partyName));
         Statistics.PieChart.focus(Statistics.PieChart.findSliceWith(partyName));
+        List.focus(List.findItemWith(partyName));
     }
     
     static selectParty(partyName, draw=true) {
         Statistics.BarChart.select(Statistics.BarChart.findBarWith(partyName));
         Statistics.PieChart.select(Statistics.PieChart.findSliceWith(partyName));
+        List.activate(List.findItemWith(partyName));
         
         if (draw) {
             // Plot gradient color according to votes for the party in different locations
@@ -33,6 +35,7 @@ class Global {
     static deselectParty(clearDraw) {
         Statistics.BarChart.deselect();
         Statistics.PieChart.deselect();
+        List.deselect();
         
         if (!clearDraw) {
             Region.clearColors();

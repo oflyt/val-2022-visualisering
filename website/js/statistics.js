@@ -12,33 +12,40 @@ class Statistics {
         static plot(data) {
             // Prep variables
             const 
+                margin = {top: 40, right: 40, bottom: 40, left: 40},
                 svg = d3.select("svg#pie-chart"),
-                width = +svg.attr("width"),
-                height = +svg.attr("height"),
+                width = +svg.attr("width") - margin.right - margin.left,
+                height = +svg.attr("height") - margin.top - margin.bottom,
                 radius = Math.min(width, height) / 2;
             const name = i => data[i].name;
             
             return StatsPlot.PieChart.plot(svg, data, radius)
                 .attr("class", "pie-slice")
-                .on("mouseover", function(d) {
-                    const focused = EventHandlerFunctions.focus(this, "pie-slice");
+                .on("mouseover", d => {
+                    if (d3.select(d.target).attr("disabled")) return;
+                    const focused = EventHandlerFunctions.focus(d.target, "pie-slice");
                     if (focused) {
                         const partyName = Statistics.PieChart.partyNameFor(focused);
                         Global.focusParty(partyName);
                     }
                 })
-                .on("mouseout", function(d) {
-                    const gotOutOfFocus = EventHandlerFunctions.outOfFocus(this, "pie-slice");
+                .on("mouseout", d => {
+                    if (d3.select(d.target).attr("disabled")) return;
+                    const gotOutOfFocus = EventHandlerFunctions.outOfFocus(d.target, "pie-slice");
                     if (gotOutOfFocus) {
                         Global.deselectParty();
                     }
                 })
-                .on("click", function(d) {
-                    const gotSelected = EventHandlerFunctions.select(d, this, "pie-slice");
+                .on("click", d => {
+                    if (d3.select(d.target).attr("disabled")) return;
+                    const gotSelected = EventHandlerFunctions.select(d, d.target, "pie-slice");
                     if (gotSelected) {
                         const partyName = Statistics.PieChart.partyNameFor(d3.select(".pie-slice.selected"));
                         Global.selectParty(partyName);
                     }
+                })
+                .attr("disabled", (d,i,g) => {
+                    return (g[i].textContent == "Others" ? "true" : null)
                 });
         }
 
@@ -88,26 +95,30 @@ class Statistics {
     
             // Append rectangles for bar chart
             return StatsPlot.BarChart.plot(svg, data, width, height)
-                .on("mouseover", function(d) {
-                    const focused = EventHandlerFunctions.focus(this, "bar");
+                .on("mouseover", d => {
+                    if (d3.select(d.target).attr("disabled")) return;
+                    const focused = EventHandlerFunctions.focus(d.target, "bar");
                     if (focused) {
                         const partyName = Statistics.BarChart.partyNameFor(focused);
                         Global.focusParty(partyName);
                     }
                 })
-                .on("mouseout", function(d) {
-                    const gotOutOfFocus = EventHandlerFunctions.outOfFocus(this, "bar");
+                .on("mouseout", d => {
+                    if (d3.select(d.target).attr("disabled")) return;
+                    const gotOutOfFocus = EventHandlerFunctions.outOfFocus(d.target, "bar");
                     if (gotOutOfFocus) {
                         Global.deselectParty();
                     }
                 })
-                .on("click", function(d) {
-                    const gotSelected = EventHandlerFunctions.select(d, this, "bar");
+                .on("click", d => {
+                    if (d3.select(d.target).attr("disabled")) return;
+                    const gotSelected = EventHandlerFunctions.select(d, d.target, "bar");
                     if (gotSelected) {
                         const partyName = Statistics.BarChart.partyNameFor(d3.select(".bar.selected"));
                         Global.selectParty(partyName);
                     }
-                });
+                })
+                .attr("disabled", d => (d.name == "Others" ? "true" : null));
         }
 
         static findBarWith(partyName) {

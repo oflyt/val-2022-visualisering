@@ -25,10 +25,6 @@ svg {
     stroke-width: 2.0;
 }
 
-.region.out-of-focus {
-    stroke-width: 0.3;
-}
-
 .region.not-selected {
     fill-opacity: 0.3;
 }

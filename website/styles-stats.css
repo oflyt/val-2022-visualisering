@@ -16,12 +16,15 @@
     stroke-width: 0.7;
 }
 
-.pie-slice.hovered, .pie-slice.selected, .bar.hovered, .bar.selected {
-    stroke-width: 2;
+
+.bar[disabled], .pie-slice[disabled] {
+    stroke: grey;
+    stroke-width: 1.0;
+    fill-opacity: 0.6;
 }
 
-.pie-slice.out-of-focus, .bar.out-of-focus {
-    stroke-width: 0.3;
+.pie-slice.hovered, .pie-slice.selected, .bar.hovered, .bar.selected {
+    stroke-width: 2;
 }
 
 .pie-slice.not-selected, .bar.not-selected {
