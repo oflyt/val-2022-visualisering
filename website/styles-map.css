@@ -25,7 +25,7 @@ svg {
     stroke-width: 2.0;
 }
 
-.region.not-selected {
+.region.not-active {
     fill-opacity: 0.3;
 }
 
@@ -36,10 +36,10 @@ svg {
     stroke-width: 0.3;
 }
 
-.municipality[focus], .municipality.selected {
+.municipality[focus], .municipality.active {
     stroke-width: 1.5;
 }
 
-.municipality.not-selected {
+.municipality.not-active {
     stroke-width: 0.1;
 }

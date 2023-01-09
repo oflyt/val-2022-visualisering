@@ -1,47 +1,75 @@
 class Global {
-    static selectedParty = null;
+    constructor(countryMap, resultPlot) {
+        this.countryMap = countryMap;
+        this.resultPlot = resultPlot;
+        this.selectedParty = null;
+    }
 
-    static reselectParty(redraw=true) {
-        if (Global.selectedParty) {
-            const partyName = Global.selectedParty;
-            Global.deselectParty(!redraw);
-            Global.selectParty(partyName, redraw);
+    reselectParty(redraw=true) {
+        if (this.selectedParty) {
+            const partyName = this.selectedParty;
+            this.deselectParty(!redraw);
+            this.selectParty(partyName, redraw);
         }
     }
 
-    static focusParty(partyName) {
-        Statistics.BarChart.focus(Statistics.BarChart.findBarWith(partyName));
-        Statistics.PieChart.focus(Statistics.PieChart.findSliceWith(partyName));
-        List.focus(List.findItemWith(partyName));
+    focusParty(partyName) {
+        Results.ResultBarChart.focus(Results.ResultBarChart.findBarWith(partyName));
+        Results.ResultPieChart.focus(Results.ResultPieChart.findSliceWith(partyName));
+        PartyList.focus(PartyList.findItemWith(partyName));
     }
     
-    static selectParty(partyName, draw=true) {
-        Statistics.BarChart.select(Statistics.BarChart.findBarWith(partyName));
-        Statistics.PieChart.select(Statistics.PieChart.findSliceWith(partyName));
-        List.activate(List.findItemWith(partyName));
+    selectParty(partyName, draw=true) {
+        Results.ResultBarChart.select(Results.ResultBarChart.findBarWith(partyName));
+        Results.ResultPieChart.select(Results.ResultPieChart.findSliceWith(partyName));
+        PartyList.activate(PartyList.findItemWith(partyName));
         
         if (draw) {
-            // Plot gradient color according to votes for the party in different locations
-            if (Municipality.isSelected() || Region.isSelected()) {
-                Municipality.plotGradientColorForParty(partyName);
-            } else {
-                Region.plotGradientColorForParty(partyName);
-            }
+            this.countryMap.plotGradientColorForParty(partyName);
         }
         
-        Global.selectedParty = partyName;
+        this.selectedParty = partyName;
     }
 
-    static deselectParty(clearDraw) {
-        Statistics.BarChart.deselect();
-        Statistics.PieChart.deselect();
-        List.deselect();
+    deselectParty(clearDraw) {
+        Results.ResultBarChart.deselect();
+        Results.ResultPieChart.deselect();
+        PartyList.deselect();
         
         if (!clearDraw) {
-            Region.clearColors();
-            Municipality.clearColors();
+            this.countryMap.clearColors();
         }
 
-        Global.selectedParty = null;
+        this.selectedParty = null;
+    }
+
+    _bindMouseEventsToGlobal(d3Elements) {
+        const global = this;
+        const originalMouseOver = d3Elements.on("mouseover");
+        const originalMouseOut = d3Elements.on("mouseout");
+        const originalClick = d3Elements.on("click");
+        d3Elements
+            .on("mouseover", function(e, d) {
+                if (global.selectedParty) return; 
+                const [result, partyName] = originalMouseOver.call(this, e, d);
+                if (result) {
+                    global.focusParty(partyName);
+                }
+            })
+            .on("mouseout", function(e, d) {
+                if (global.selectedParty) return;
+                const [result, partyName] = originalMouseOut.call(this, e, d);
+                if (result) {
+                    global.deselectParty();
+                }
+            })
+            .on("click", function(e, d) {
+                const [result, partyName] = originalClick.call(this, e, d);
+                if (result == EventHandling.ACTIVATED) {
+                    global.selectParty(partyName);
+                } else if (result == EventHandling.DEACTIVATED) {
+                    global.deselectParty();
+                }
+            });
     }
 }

@@ -1,16 +1,29 @@
 class StatsPlot {
     static PieChart = class {
-        static setup(svgSize, svgSelector) {
+        constructor(svg, radius) {
+            this.svg = svg;
+            this.radius = radius;
+        }
+
+        static setup(svgSize, svgSelector, margin) {
             const svg = d3.select(svgSelector)
                 .attr("width", svgSize.width)
                 .attr("height", svgSize.height)
                 .attr("transform", "translate(" + 0 + "," + 0 + ")");
             svg.append("g")
                 .attr("transform", "translate(" + (svgSize.width) / 2 + "," + (svgSize.height) / 2 + ")");
-            return svg;
+            const radius = Math.min(
+                svgSize.width - margin.right - margin.left, 
+                svgSize.height - margin.top - margin.bottom
+            ) / 2;
+            return new StatsPlot.PieChart(svg, radius);
         }
 
-        static plot(parent, data, radius) {
+        plot(data) {
+            const 
+                parent = this.svg,
+                radius = this.radius;
+
             // Create the pie chart layout
             const pie = d3.pie().value(d => d.value);
 
@@ -54,6 +67,11 @@ class StatsPlot {
     }
 
     static BarChart = class {
+        constructor(svg, size) {
+            this.svg = svg;
+            this.size = size;
+        }
+
         static setup(svgSize, svgSelector, margin) {
             const svg = d3.select(svgSelector)
                 .attr("width", svgSize.width)
@@ -61,10 +79,19 @@ class StatsPlot {
                 .attr("transform", "translate(" + 0 + "," + 0 + ")");
             svg.append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-            return svg;
+            const size = {
+                width: svgSize.width - margin.left - margin.right,
+                height: svgSize.height - margin.top - margin.bottom
+            };
+            return new StatsPlot.BarChart(svg, size);
         }
 
-        static plot(parent, data, width, height) {
+        plot(data) {
+            const 
+                parent = this.svg,
+                width = this.size.width,
+                height = this.size.height;
+
             // Set ranges
             var x = d3.scaleBand().range([0, width]).padding(0.2);
             var y = d3.scaleLinear().range([height, 0]);

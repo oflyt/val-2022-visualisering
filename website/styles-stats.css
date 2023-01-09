@@ -23,10 +23,10 @@
     fill-opacity: 0.6;
 }
 
-.pie-slice[focus], .pie-slice.selected, .bar[focus], .bar.selected {
+.pie-slice[focus], .pie-slice.active, .bar[focus], .bar.active {
     stroke-width: 2;
 }
 
-.pie-slice.not-selected, .bar.not-selected {
+.pie-slice.not-active, .bar.not-active {
     fill-opacity: .4;
 }

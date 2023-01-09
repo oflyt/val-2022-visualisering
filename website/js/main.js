@@ -1,15 +1,18 @@
 class Country {
 
-    static statistics() {
+    static statistics(global, resultsPlot) {
         return Data.Country.parties().then(parties => {
-            Statistics.plot(parties);
+            const [bars, pieSlieces] = resultsPlot.plot(parties);
+            global._bindMouseEventsToGlobal(bars);
+            global._bindMouseEventsToGlobal(pieSlieces);
         });
     }
 
-    static listParties() {
-        List.setTitle("Sverige (Riksdagsvalet)");
+    static listParties(global) {
+        PartyList.setTitle("Sverige (Riksdagsvalet)");
         return Data.Country.parties().then(listOfParties => {
-            List.create(listOfParties);
+            const listItems = PartyList.create(listOfParties);
+            global._bindMouseEventsToGlobal(listItems);
         });
     }
 
@@ -17,147 +20,95 @@ class Country {
 
 class Region {
 
-    static statistics() {
+    static statistics(global, resultsPlot) {
         const regionName = Region.nameOfSelected();
         return Data.Region.parties(regionName).then(parties => {
-            Statistics.plot(parties);
+            const [bars, pieSlieces] = resultsPlot.plot(parties);
+            global._bindMouseEventsToGlobal(bars);
+            global._bindMouseEventsToGlobal(pieSlieces);
         });
     }
 
-    static listParties() {
+    static listParties(global) {
         const regionName = Region.nameOfSelected();
-        List.setTitle(regionName + " län (Regionsvalet)");
+        PartyList.setTitle(regionName + " län (Regionsvalet)");
         return Data.Region.parties(regionName).then(listOfParties => {
-            List.create(listOfParties);
+            const listItems = PartyList.create(listOfParties);
+            global._bindMouseEventsToGlobal(listItems);
         });
     }
 
-    static plotAll(path, regions, svgSize) {
-        GeoPlot.fromGeoJson(path, regions)
-            .attr("class", "region")
-            .attr("fill", "#FFF380")
-            .on("mouseover", function(d) {EventHandlerFunctions.focus(this, "region");})
-            .on("mouseout", function(d) {EventHandlerFunctions.outOfFocus(this, "region");})
-            .on("click", function(d) {
-                if (!EventHandlerFunctions.hasSelection("municipality")) {
-                    const selected = EventHandlerFunctions.select(d, this, "region");
-                    if (selected) {
-                        Region.select(this, path, svgSize).then(() => Global.reselectParty());
-                    }
-                }
-            });
-    }
+    static select(global, countryMap, resultsPlot, datum) {
+        const regionName = datum.properties.LnNamn
 
-    static plotGradientColorForParty(partyName) {
-        const allRegions = d3.selectAll(".region");
-        const regionNames = allRegions.data().map(d => d.properties.LnNamn);
-        Data.Region.partiesMultiple(regionNames).then(allPartyLists => {
-            const color = Data.Party.toGradientColor(allPartyLists, partyName);
-            allRegions.attr("fill", (d, i) => color(i));
-        });
-    }
-
-    static clearColors() {
-        d3.selectAll(".region").attr("fill", "#FFF380");
-    }
-
-    static select(domElement, path, svgSize) {
-        const d3Element = d3.select(domElement);
-        const regionName = d3Element.data()[0].properties.LnNamn
-
-        Zoom.in(path, d3Element, svgSize);
+        countryMap.geoPlot.zoomIn(datum);
         Municipality.clear();
         return Promise.all([
-            Data.Municipality.geoJson(regionName)
-                .then(municipalities => Municipality.plotAll(path, municipalities)),
-            Region.listParties(),
-            Region.statistics()
+            Data.Municipality.geoJson(regionName).then(municipalities => countryMap.municipalities(global, municipalities)),
+            Region.listParties(global),
+            Region.statistics(global, resultsPlot)
         ]);
     }
 
-    static deselect() {
+    static deselect(global, countryMap, resultsPlot) {
         Municipality.clear();
-        Zoom.out();
+        countryMap.geoPlot.zoomOut();
         return Promise.all([
-            Country.listParties(),
-            Country.statistics()
+            Country.listParties(global),
+            Country.statistics(global, resultsPlot)
         ]);
     }
 
     static nameOfSelected() {
-        return d3.select(".region.selected").data()[0].properties.LnNamn;
+        return EventHandling.Helpers.getActive("region").data()[0].properties.LnNamn;
     }
 
     static isSelected() {
-        return EventHandlerFunctions.hasSelection("region")
+        return EventHandling.Helpers.hasActivation("region")
     }
 
 }
 
 class Municipality {
 
-    static statistics() {
+    static statistics(global, resultsPlot) {
         const municipalityName = Municipality.nameOfSelected();
         return Data.Municipality.parties(municipalityName).then(parties => {
-            Statistics.plot(parties);
+            const [bars, pieSlieces] = resultsPlot.plot(parties);
+            global._bindMouseEventsToGlobal(bars);
+            global._bindMouseEventsToGlobal(pieSlieces);
         });
     }
 
-    static listParties() {
+    static listParties(global) {
         const municipalityName = Municipality.nameOfSelected();
-        List.setTitle(municipalityName + " kommun (Kommunalvalet)");
+        PartyList.setTitle(municipalityName + " kommun (Kommunalvalet)");
         return Data.Municipality.parties(municipalityName).then(listOfParties => {
-            List.create(listOfParties);
+            const listItems = PartyList.create(listOfParties);
+            global._bindMouseEventsToGlobal(listItems);
         });
     }
 
-    static plotAll(path, municipalities) {
-        GeoPlot.fromGeoJson(path, municipalities)
-            .attr("class", "municipality")
-            .attr("fill", "#FFF380")
-            .on("mouseover", function(d) {EventHandlerFunctions.focus(this, "municipality");})
-            .on("mouseout", function(d) {EventHandlerFunctions.outOfFocus(this, "municipality");})
-            .on("click", function(d) {
-                const selected = EventHandlerFunctions.select(d, this, "municipality");
-                if (selected) {
-                    Municipality.select().then(() => Global.reselectParty(false));
-                }
-            });
-    }
-
-    static plotGradientColorForParty(partyName) {
-        const allMunicipalities = d3.selectAll(".municipality");
-        const municipalityNames = allMunicipalities.data().map(d => d.properties.KnNamn);
-        Data.Municipality.partiesMultiple(municipalityNames).then(allPartyLists => {
-            const color = Data.Party.toGradientColor(allPartyLists, partyName);
-            allMunicipalities.attr("fill", (d, i) => color(i));
-        });
-    }
-
-    static clearColors() {
-        d3.selectAll(".municipality").attr("fill", "#FFF380");
-    }
-
-    static select() {
+    static select(global, resultsPlot) {
         return Promise.all([
-            Municipality.listParties(),
-            Municipality.statistics()
+            Municipality.listParties(global),
+            Municipality.statistics(global, resultsPlot)
         ]);
     }
 
-    static deselect() {
+    static deselect(global, resultsPlot) {
         return Promise.all([
-            Region.listParties(),
-            Region.statistics()
+            Region.listParties(global),
+            Region.statistics(global, resultsPlot)
         ]);
     }
 
     static nameOfSelected() {
-        return d3.select(".municipality.selected").data()[0].properties.KnNamn;
+        return EventHandling.Helpers.getActive("municipality").data()[0].properties.KnNamn;
     }
 
     static isSelected() {
-        return EventHandlerFunctions.hasSelection("municipality")
+        return EventHandling.Helpers.hasActivation("municipality")
     }
 
     static clear() {
@@ -166,31 +117,30 @@ class Municipality {
 
 }
 
-
-
 function main() {
-    const svgSize = {
-        width: document.getElementById("map-view").clientWidth,
-        height: document.getElementById("map-view").clientHeight
-    };
-
     Data.Region.geoJson().then(regions => {
-        const [svg, path] = GeoPlot.setup(regions, svgSize);
-        Region.plotAll(path, regions, svgSize);
-        svg.on("click", d => {
-            if (EventHandlerFunctions.deselect("municipality")) {
-                Municipality.deselect().then(() => Global.reselectParty(false));
-            } else if (EventHandlerFunctions.deselect("region")) {
-                Region.deselect().then(() => Global.reselectParty());
-            } else if (Global.selectedParty) {
-                Global.deselectParty();
+        const resultsPlot = Results.setup();
+        const countryMap = CountryMap.setup(regions, resultsPlot);
+        const global = new Global(countryMap, resultsPlot);
+        
+        resultsPlot.resultBarChart.barChart.svg.on("click", d => global.deselectParty())
+        resultsPlot.resultPieChart.pieChart.svg.on("click", d => global.deselectParty())
+        countryMap.geoPlot.svg.on("click", d => {
+            if (EventHandling.Helpers.deactivate("municipality")) {
+                Municipality.deselect(global, resultsPlot).then(() => global.reselectParty(false));
+            } else if (EventHandling.Helpers.deactivate("region")) {
+                Region.deselect(global, countryMap, resultsPlot).then(() => global.reselectParty());
+            } else if (global.selectedParty) {
+                global.deselectParty();
             }
         });
-        Country.listParties();
-    })
 
-    Statistics.setup();
-    Country.statistics();
+        countryMap.regions(global, regions);
+        Promise.all([
+            Country.listParties(global),
+            Country.statistics(global, resultsPlot)
+        ])
+    })    
 }
 
 main();
