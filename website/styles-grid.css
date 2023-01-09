@@ -34,3 +34,12 @@
         padding: 0px;
     }
 }
+
+@media(max-height: 500px) {
+    #pie-chart-container {
+        height: 0 !important;
+    }
+    #bar-chart-container {
+        height: 100% !important;
+    }
+}

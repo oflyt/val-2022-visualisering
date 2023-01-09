@@ -1,18 +1,18 @@
 class Country {
 
-    static statistics(global, resultsPlot) {
+    static statistics(globalPartySelection, resultsPlot) {
         return Data.Country.parties().then(parties => {
             const [bars, pieSlieces] = resultsPlot.plot(parties);
-            global._bindMouseEventsToGlobal(bars);
-            global._bindMouseEventsToGlobal(pieSlieces);
+            globalPartySelection._bindMouseEventsToGlobal(bars);
+            globalPartySelection._bindMouseEventsToGlobal(pieSlieces);
         });
     }
 
-    static listParties(global) {
+    static listParties(globalPartySelection) {
         PartyList.setTitle("Sverige (Riksdagsvalet)");
         return Data.Country.parties().then(listOfParties => {
             const listItems = PartyList.create(listOfParties);
-            global._bindMouseEventsToGlobal(listItems);
+            globalPartySelection._bindMouseEventsToGlobal(listItems);
         });
     }
 
@@ -20,42 +20,42 @@ class Country {
 
 class Region {
 
-    static statistics(global, resultsPlot) {
+    static statistics(globalPartySelection, resultsPlot) {
         const regionName = Region.nameOfSelected();
         return Data.Region.parties(regionName).then(parties => {
             const [bars, pieSlieces] = resultsPlot.plot(parties);
-            global._bindMouseEventsToGlobal(bars);
-            global._bindMouseEventsToGlobal(pieSlieces);
+            globalPartySelection._bindMouseEventsToGlobal(bars);
+            globalPartySelection._bindMouseEventsToGlobal(pieSlieces);
         });
     }
 
-    static listParties(global) {
+    static listParties(globalPartySelection) {
         const regionName = Region.nameOfSelected();
         PartyList.setTitle(regionName + " län (Regionsvalet)");
         return Data.Region.parties(regionName).then(listOfParties => {
             const listItems = PartyList.create(listOfParties);
-            global._bindMouseEventsToGlobal(listItems);
+            globalPartySelection._bindMouseEventsToGlobal(listItems);
         });
     }
 
-    static select(global, countryMap, resultsPlot, datum) {
+    static select(globalPartySelection, countryMap, resultsPlot, datum) {
         const regionName = datum.properties.LnNamn
 
         countryMap.geoPlot.zoomIn(datum);
         Municipality.clear();
         return Promise.all([
-            Data.Municipality.geoJson(regionName).then(municipalities => countryMap.municipalities(global, municipalities)),
-            Region.listParties(global),
-            Region.statistics(global, resultsPlot)
+            Data.Municipality.geoJson(regionName).then(municipalities => countryMap.municipalities(globalPartySelection, municipalities)),
+            Region.listParties(globalPartySelection),
+            Region.statistics(globalPartySelection, resultsPlot)
         ]);
     }
 
-    static deselect(global, countryMap, resultsPlot) {
+    static deselect(globalPartySelection, countryMap, resultsPlot) {
         Municipality.clear();
         countryMap.geoPlot.zoomOut();
         return Promise.all([
-            Country.listParties(global),
-            Country.statistics(global, resultsPlot)
+            Country.listParties(globalPartySelection),
+            Country.statistics(globalPartySelection, resultsPlot)
         ]);
     }
 
@@ -71,35 +71,35 @@ class Region {
 
 class Municipality {
 
-    static statistics(global, resultsPlot) {
+    static statistics(globalPartySelection, resultsPlot) {
         const municipalityName = Municipality.nameOfSelected();
         return Data.Municipality.parties(municipalityName).then(parties => {
             const [bars, pieSlieces] = resultsPlot.plot(parties);
-            global._bindMouseEventsToGlobal(bars);
-            global._bindMouseEventsToGlobal(pieSlieces);
+            globalPartySelection._bindMouseEventsToGlobal(bars);
+            globalPartySelection._bindMouseEventsToGlobal(pieSlieces);
         });
     }
 
-    static listParties(global) {
+    static listParties(globalPartySelection) {
         const municipalityName = Municipality.nameOfSelected();
         PartyList.setTitle(municipalityName + " kommun (Kommunalvalet)");
         return Data.Municipality.parties(municipalityName).then(listOfParties => {
             const listItems = PartyList.create(listOfParties);
-            global._bindMouseEventsToGlobal(listItems);
+            globalPartySelection._bindMouseEventsToGlobal(listItems);
         });
     }
 
-    static select(global, resultsPlot) {
+    static select(globalPartySelection, resultsPlot) {
         return Promise.all([
-            Municipality.listParties(global),
-            Municipality.statistics(global, resultsPlot)
+            Municipality.listParties(globalPartySelection),
+            Municipality.statistics(globalPartySelection, resultsPlot)
         ]);
     }
 
-    static deselect(global, resultsPlot) {
+    static deselect(globalPartySelection, resultsPlot) {
         return Promise.all([
-            Region.listParties(global),
-            Region.statistics(global, resultsPlot)
+            Region.listParties(globalPartySelection),
+            Region.statistics(globalPartySelection, resultsPlot)
         ]);
     }
 
@@ -121,24 +121,24 @@ function main() {
     Data.Region.geoJson().then(regions => {
         const resultsPlot = Results.setup();
         const countryMap = CountryMap.setup(regions, resultsPlot);
-        const global = new Global(countryMap, resultsPlot);
+        const globalPartySelection = new GlobalPartySelection(countryMap, resultsPlot);
         
-        resultsPlot.resultBarChart.barChart.svg.on("click", d => global.deselectParty())
-        resultsPlot.resultPieChart.pieChart.svg.on("click", d => global.deselectParty())
-        countryMap.geoPlot.svg.on("click", d => {
+        resultsPlot.resultBarChart.barChart.svg.on("click", e => globalPartySelection.deselectParty());
+        resultsPlot.resultPieChart.pieChart.svg.on("click", e => globalPartySelection.deselectParty());
+        countryMap.geoPlot.svg.on("click", e => {
             if (EventHandling.Helpers.deactivate("municipality")) {
-                Municipality.deselect(global, resultsPlot).then(() => global.reselectParty(false));
+                Municipality.deselect(globalPartySelection, resultsPlot).then(() => globalPartySelection.reselectParty(false));
             } else if (EventHandling.Helpers.deactivate("region")) {
-                Region.deselect(global, countryMap, resultsPlot).then(() => global.reselectParty());
-            } else if (global.selectedParty) {
-                global.deselectParty();
+                Region.deselect(globalPartySelection, countryMap, resultsPlot).then(() => globalPartySelection.reselectParty());
+            } else if (globalPartySelection.selectedParty) {
+                globalPartySelection.deselectParty();
             }
         });
 
-        countryMap.regions(global, regions);
+        countryMap.regions(globalPartySelection, regions);
         Promise.all([
-            Country.listParties(global),
-            Country.statistics(global, resultsPlot)
+            Country.listParties(globalPartySelection),
+            Country.statistics(globalPartySelection, resultsPlot)
         ])
     })    
 }

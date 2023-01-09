@@ -56,13 +56,13 @@ class StatsPlot {
                 .append("title")
                 .text((d, i) => data[i].name);
 
-            arcs.append("text")
+            const texts = arcs.append("text")
                 .attr("transform", d => "translate(" + label.centroid(d) + ")")
                 .style("text-anchor", "middle")
                 .attr("dy", ".35em")
                 .text(d => d.data.shortName);
 
-            return slices;
+            return [slices, texts];
         }
     }
 
@@ -120,7 +120,7 @@ class StatsPlot {
                 .text((d, i) => data[i].name);
 
             // Add x axis
-            parent.select("g").append("g")
+            const xAxis = parent.select("g").append("g")
                 .attr("transform", "translate(0," + height + ")")
                 .call(d3.axisBottom(x))
                     // Rotate x-labels
@@ -131,10 +131,10 @@ class StatsPlot {
                     // .attr("transform", "rotate(-65)");;
     
             // Add y axis
-            parent.select("g").append("g")
+            const yAxis = parent.select("g").append("g")
                 .call(d3.axisLeft(y));
 
-            return bars;
+            return [bars, xAxis, yAxis];
         }
     }
 }
