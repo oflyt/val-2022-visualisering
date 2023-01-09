@@ -49,10 +49,6 @@ class Region {
     }
 
     static plotGradientColorForParty(partyName) {
-        if (partyName == "Others") {
-            console.log("Others not supported yet");
-            return;
-        } 
         const allRegions = d3.selectAll(".region");
         const regionNames = allRegions.data().map(d => d.properties.LnNamn);
         Data.Region.partiesMultiple(regionNames).then(allPartyLists => {
@@ -130,10 +126,6 @@ class Municipality {
     }
 
     static plotGradientColorForParty(partyName) {
-        if (partyName == "Others") {
-            console.log("Others not supported yet");
-            return;
-        } 
         const allMunicipalities = d3.selectAll(".municipality");
         const municipalityNames = allMunicipalities.data().map(d => d.properties.KnNamn);
         Data.Municipality.partiesMultiple(municipalityNames).then(allPartyLists => {

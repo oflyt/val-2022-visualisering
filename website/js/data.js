@@ -88,12 +88,12 @@ class Data {
                         console.log("Not having color for: " + party.name);
                     }
                     return party;
-                })
+                });
             filteredParties.push({
                 name: "Others", 
-                shortName: "Others", 
+                shortName: "", 
                 color: "grey", 
-                value: 100.0 - filteredParties.map(v => v.value).reduce((x,y) => x+y, 0)
+                value: 100.0 - filteredParties.map(v => v.value).reduce((x, y) => x + y, 0)
             });
             return filteredParties;
         }
@@ -119,8 +119,8 @@ class Data {
                 const selectedParty = partyList.filter(party => party.name == partyName)[0];
                 return Optional.of(selectedParty).else({name: partyName, color: undefined, value: 0})
             }); 
-            const resultForEach = selectedPartyForEach.map(v => v.value);
-            const higestResultOfAll = resultForEach.reduce((x,y) => Math.max(x, y), 0);
+            const resultForEach = selectedPartyForEach.map(v => Optional.of(v.value).else(0));
+            const higestResultOfAll = Math.max(resultForEach.reduce((x,y) => Math.max(x, y), 0), 1);
             const colorForParty = Optional.of(selectedPartyForEach.filter(party => party.color))
                 .map(partyList => {
                     if (partyList.length != 0) {
@@ -132,8 +132,7 @@ class Data {
     
             const color = d3.scaleLinear()
                 .domain([0, higestResultOfAll])
-                .range(["white", colorForParty])
-    
+                .range(["white", colorForParty]);
             return (i) => color(resultForEach[i]);
         }
     };

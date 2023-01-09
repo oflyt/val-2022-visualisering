@@ -15,7 +15,7 @@
     color: var(--bs-list-group-active-color);
 }
 
-.list-group-item.hovered {
+.list-group-item[focus] {
     background-color: rgb(250, 250, 250);
 }
 

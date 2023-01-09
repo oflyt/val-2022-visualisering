@@ -1,25 +1,15 @@
 class EventHandlerFunctions {
     static focus(target, className) {
-        if (!EventHandlerFunctions.hasSelection(className)) {
+        if (!EventHandlerFunctions.hasSelection(className) && !EventHandlerFunctions.hasActivation(className)) {
             // Nothing selected
-            d3.selectAll(`.${className}`)
-                .classed("hovered", false)
-                .classed("out-of-focus", true)
-                .attr("focus", null);
-            return d3.select(target)
-                .classed("hovered", true)
-                .classed("out-of-focus", false)
-                .attr("focus", "true");
+            return EventHandlerFunctions.setFocus(d3.select(target), className);
         }
     }
 
     static outOfFocus(target, className) {
-        if (!EventHandlerFunctions.hasSelection(className)) {
+        if (!EventHandlerFunctions.hasSelection(className) && !EventHandlerFunctions.hasActivation(className)) {
             // Nothing selected
-            d3.selectAll(`.${className}`)
-                .classed("hovered", false)
-                .classed("out-of-focus", false)
-                .attr("focus", null);
+            d3.selectAll(`.${className}`).attr("focus", null);
             return true;
         }
         return false;
@@ -33,8 +23,7 @@ class EventHandlerFunctions {
             return false;
         } else {
             // Something already selected
-            d3.selectAll(`.${className}`).attr("class", `${className} out-of-focus not-selected`);
-            d3.select(target).attr("class", `${className} selected`);
+            EventHandlerFunctions.setSelection(d3.select(target), className);
             event.stopPropagation();
             return true;
         } 
@@ -48,8 +37,7 @@ class EventHandlerFunctions {
             return false;
         } else {
             // Something already selected
-            d3.selectAll(`.${className}`).attr("class", `${className}`);
-            d3.select(target).attr("class", `${className} active`);
+            EventHandlerFunctions.setActivation(d3.select(target), className);
             event.stopPropagation();
             return true;
         } 
@@ -59,9 +47,28 @@ class EventHandlerFunctions {
         return !d3.selectAll(`.${className}.selected`).empty();
     }
 
+    static hasActivation(className) {
+        return !d3.selectAll(`.${className}.active`).empty()
+    }
+
+    static setFocus(target, className) {
+        d3.selectAll(`.${className}`).attr("focus", null);
+        return target.attr("focus", "true");
+    }
+    
+    static setActivation(target, className) {
+        d3.selectAll(`.${className}`).attr("class", `${className}`).attr("focus", null);
+        return target.attr("class", `${className} active`);
+    }
+
+    static setSelection(target, className) {
+        d3.selectAll(`.${className}`).attr("class", `${className} not-selected`).attr("focus", null);
+        return target.attr("class", `${className} selected`);
+    }
+
     static deselect(className) {
         if (!d3.selectAll(`.${className}.selected`).empty()) {
-            d3.selectAll(`.${className}`).attr("class", `${className}`);
+            d3.selectAll(`.${className}`).attr("class", `${className}`).attr("focus", null);
             return true;
         }
         return false;

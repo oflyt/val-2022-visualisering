@@ -23,7 +23,7 @@
     fill-opacity: 0.6;
 }
 
-.pie-slice.hovered, .pie-slice.selected, .bar.hovered, .bar.selected {
+.pie-slice[focus], .pie-slice.selected, .bar[focus], .bar.selected {
     stroke-width: 2;
 }
 

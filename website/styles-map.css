@@ -21,7 +21,7 @@ svg {
     stroke-width: 0.5;
 }
 
-.region.hovered {
+.region[focus] {
     stroke-width: 2.0;
 }
 
@@ -36,7 +36,7 @@ svg {
     stroke-width: 0.3;
 }
 
-.municipality.hovered, .municipality.selected {
+.municipality[focus], .municipality.selected {
     stroke-width: 1.5;
 }
 

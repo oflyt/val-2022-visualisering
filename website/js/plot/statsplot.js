@@ -6,23 +6,27 @@ class StatsPlot {
                 .attr("height", svgSize.height)
                 .attr("transform", "translate(" + 0 + "," + 0 + ")");
             svg.append("g")
-                .attr("transform", "translate(" + svgSize.width / 2 + "," + svgSize.height / 2 + ")");
+                .attr("transform", "translate(" + (svgSize.width) / 2 + "," + (svgSize.height) / 2 + ")");
             return svg;
         }
 
         static plot(parent, data, radius) {
             // Create the pie chart layout
-            const pie = d3.pie();
+            const pie = d3.pie().value(d => d.value);
 
             // Use the arc generator to create the path data for the pie chart slices
             const arc = d3.arc()
                 .outerRadius(radius)
                 .innerRadius(0);
 
+            const label = d3.arc()
+                .outerRadius(radius+20)
+                .innerRadius(radius);
+
             // Arc for each data point
             const arcs = parent.select("g")
                 .selectAll("arc")
-                .data(pie(data.map(v => v.value)))
+                .data(pie(data))
                 .enter()
                 .append("g")
                 .attr("class", "arc");
@@ -38,6 +42,12 @@ class StatsPlot {
             slices
                 .append("title")
                 .text((d, i) => data[i].name);
+
+            arcs.append("text")
+                .attr("transform", d => "translate(" + label.centroid(d) + ")")
+                .style("text-anchor", "middle")
+                .attr("dy", ".35em")
+                .text(d => d.data.shortName);
 
             return slices;
         }
@@ -76,6 +86,11 @@ class StatsPlot {
                 .attr("y", d => y(d.value))
                 .attr("height", d => height - y(d.value))
                 .attr("fill", (d, i) => color(i))
+
+            
+            bars
+                .append("title")
+                .text((d, i) => data[i].name);
 
             // Add x axis
             parent.select("g").append("g")

@@ -18,16 +18,26 @@ class List {
                 Optional.of(y.value).map(parseFloat).else(-1)
             ))
             .on("mouseover", function(e, d) {
+                if (Global.selectedParty) return;
                 if (this != e.target || d3.select(e.target).attr("disabled")) {
                     e.stopPropagation();
                     return;
                 } 
-                EventHandlerFunctions.focus(e.target, "list-group-item");
+                const focused = EventHandlerFunctions.focus(e.target, "list-group-item");
+                if (focused) {
+                    Global.focusParty(d.name);
+                }
             })
             .on("mouseout", function(e, d) {
-                if (this != e.target) return;
-                if (d3.select(e.target).attr("disabled")) return;
-                EventHandlerFunctions.outOfFocus(e.target, "list-group-item");
+                if (Global.selectedParty) return;
+                if (this != e.target || d3.select(e.target).attr("disabled")) {
+                    e.stopPropagation();
+                    return;
+                } 
+                const gotOutOfFocus = EventHandlerFunctions.outOfFocus(e.target, "list-group-item");
+                if (gotOutOfFocus) {
+                    Global.deselectParty();
+                }
             })
             .on("click", function(e, d) {
                 if (this != e.target) return;
@@ -38,7 +48,7 @@ class List {
                 }
             })
             .attr("disabled", (d,i,g) => {
-                if (d.value && d.value > 0.5) {
+                if (d.value && d.value >= 0.0045) {
                     return null;
                 } else {
                     return "true";
@@ -65,18 +75,12 @@ class List {
         return d3.selectAll(".list-group-item").filter(d => d.name == partyName);
     }
 
-    static partyNameFor(item) {
-        return item.data()[0].name;
+    static focus(toFocus) {
+        EventHandlerFunctions.setFocus(toFocus, "list-group-item");
     }
 
-    static focus(itemToFocus) {
-        d3.selectAll(".list-group-item").attr("class", "list-group-item");
-        itemToFocus.attr("class", "list-group-item hovered")
-    }
-
-    static activate(itemToSelect) {
-        d3.selectAll(".list-group-item").attr("class", "list-group-item");
-        itemToSelect.attr("class", "list-group-item active")
+    static activate(toActivate) {
+        EventHandlerFunctions.setActivation(toActivate, "list-group-item");
     }
 
     static deselect() {
