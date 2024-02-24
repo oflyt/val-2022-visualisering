@@ -25,7 +25,8 @@ class PageContextManager:
     def __enter__(self, timeout: int = 10, **launch_kwargs) -> Page:
         # TODO: fix possibility to run headful through docker container
         self.playwright = sync_playwright().start()
-        self.browser = self.playwright.firefox.launch(headless=False, slow_mo=50)
+        self.browser = self.playwright.firefox.launch()
+        # self.browser = self.playwright.firefox.launch(headless=False, slow_mo=50)
         self.page = self.browser.new_page()
         extend_playwright_with_custom_methods(timeout)
         return self.page

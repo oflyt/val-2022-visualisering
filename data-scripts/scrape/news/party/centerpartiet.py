@@ -1,5 +1,6 @@
 from news.timeutils import to_datetime_c
 from news.pagecontext import PageContextManager
+from playwright._impl._errors import TimeoutError
 
 
 class Locators:
@@ -29,19 +30,23 @@ class Locators:
 
 
 def main():
-    with PageContextManager({"headless": False}) as page:
+    with PageContextManager() as page:
         page.goto("https://www.centerpartiet.se/press/pressmeddelande")
-        news_items = page \
-            .safe_locate(**Locators.news_feed()) \
-            .safe_locate_many(*Locators.news_items())
-        for news_item in news_items.all():
-            info = {
-                "url": news_item.locator(*Locators.href()).get_attribute('href'),
-                "title": news_item.locator(*Locators.title()).inner_text(),
-                "description": news_item.locator(*Locators.description()).inner_text(),
-                "date": to_datetime_c(news_item.locator(*Locators.date()).inner_text()),
-            }
-            print(info)
+        try:
+            news_items = page \
+                .safe_locate(**Locators.news_feed()) \
+                .safe_locate_many(*Locators.news_items())
+            for news_item in news_items.all():
+                info = {
+                    "url": news_item.locator(*Locators.href()).get_attribute('href'),
+                    "title": news_item.locator(*Locators.title()).inner_text(),
+                    "description": news_item.locator(*Locators.description()).inner_text(),
+                    "date": to_datetime_c(news_item.locator(*Locators.date()).inner_text()),
+                }
+                print(info)
+        except TimeoutError:
+            page.screenshot(path="screenshots/centerpartiet.png")
+            raise
 
 
 if __name__ == '__main__':
