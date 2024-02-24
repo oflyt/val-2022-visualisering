@@ -86,6 +86,13 @@ class StatsPlot {
             return new StatsPlot.BarChart(svg, size);
         }
 
+        /**
+         * data:
+         *  shortName
+         *  name
+         *  value
+         *  color
+         */
         plot(data) {
             const 
                 parent = this.svg,
